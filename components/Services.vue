@@ -1,0 +1,110 @@
+<template>
+  <div class="container py-5 our-doc2">
+    <div class="text-center">
+      <h4 class="primary">Departments</h4>
+      <h2 class="fw-bold secondary">Our Medical Services</h2>
+      <p>
+        Placing you and your safety at the heart of everything we do With having
+        our entire team of Vardan Dental Clinic
+      </p>
+    </div>
+    <div class="row mt-4 gy-5">
+      <div class="col-md-6 col-lg-4">
+        <div class="shadow px-5 py-4 h-100">
+          <img src="../assets/img/bg-semicircle.svg" class="service-curve" />
+          <div class="service-curve-1">
+            <div class="text-center">
+              <img src="../assets/img/service1.svg" style="width: 88px" />
+              <h4 class="py-4 tertiary fw-semibold">General Dentistry</h4>
+            </div>
+            <p class="font-p">
+              Lorem Ipsum is simply dummy text of the printing and typesetting
+              industry. Lorem Ipsum has been the industry's uke loahm
+            </p>
+          </div>
+          <img src="../assets/img/element.svg" class="service-curve-2" />
+        </div>
+      </div>
+      <div class="col-md-6 col-lg-4">
+        <div class="shadow-s px-5 py-4 h-100">
+          <img src="../assets/img/bg-semicircle.svg" class="service-curve" />
+          <div class="service-curve-1">
+            <div class="text-center">
+              <img src="../assets/img/service1.svg" style="width: 88px" />
+              <h4 class="py-4 tertiary fw-semibold">Prediatic Dentistry</h4>
+            </div>
+            <p class="font-p">
+              Lorem Ipsum is simply dummy text of the printing and typesetting
+              industry. Lorem Ipsum has been the industry's uke loahm
+            </p>
+          </div>
+          <img src="../assets/img/element.svg" class="service-curve-2" />
+        </div>
+      </div>
+      <div class="col-md-6 col-lg-4">
+        <div class="shadow px-5 py-4 h-100">
+          <img src="../assets/img/bg-semicircle.svg" class="service-curve" />
+          <div class="service-curve-1">
+            <div class="text-center">
+              <img src="../assets/img/service1.svg" style="width: 88px" />
+              <h4 class="py-4 tertiary fw-semibold">Dental Bridge</h4>
+            </div>
+            <p class="font-p">
+              Lorem Ipsum is simply dummy text of the printing and typesetting
+              industry. Lorem Ipsum has been the industry's uke loahm
+            </p>
+          </div>
+          <img src="../assets/img/element.svg" class="service-curve-2" />
+        </div>
+      </div>
+      <div class="col-md-6 col-lg-4">
+        <div class="shadow px-5 py-4 h-100">
+          <img src="../assets/img/bg-semicircle.svg" class="service-curve" />
+          <div class="service-curve-1">
+            <div class="text-center">
+              <img src="../assets/img/service1.svg" style="width: 88px" />
+              <h4 class="py-4 tertiary fw-semibold">Oral Surgery</h4>
+            </div>
+            <p class="font-p">
+              Lorem Ipsum is simply dummy text of the printing and typesetting
+              industry. Lorem Ipsum has been the industry's uke loahm
+            </p>
+          </div>
+          <img src="../assets/img/element.svg" class="service-curve-2" />
+        </div>
+      </div>
+      <div class="col-md-6 col-lg-4">
+        <div class="shadow px-5 py-4 h-100">
+          <img src="../assets/img/bg-semicircle.svg" class="service-curve" />
+          <div class="service-curve-1">
+            <div class="text-center">
+              <img src="../assets/img/service1.svg" style="width: 88px" />
+              <h4 class="py-4 tertiary fw-semibold">Oral Surgery</h4>
+            </div>
+            <p class="font-p">
+              Lorem Ipsum is simply dummy text of the printing and typesetting
+              industry. Lorem Ipsum has been the industry's uke loahm
+            </p>
+          </div>
+          <img src="../assets/img/element.svg" class="service-curve-2" />
+        </div>
+      </div>
+      <div class="col-md-6 col-lg-4">
+        <div class="shadow px-5 py-4 h-100">
+          <img src="../assets/img/bg-semicircle.svg" class="service-curve" />
+          <div class="service-curve-1">
+            <div class="text-center">
+              <img src="../assets/img/service1.svg" style="width: 88px" />
+              <h4 class="py-4 tertiary fw-semibold">Oral Surgery</h4>
+            </div>
+            <p class="font-p">
+              Lorem Ipsum is simply dummy text of the printing and typesetting
+              industry. Lorem Ipsum has been the industry's uke loahm
+            </p>
+          </div>
+          <img src="../assets/img/element.svg" class="service-curve-2" />
+        </div>
+      </div>
+    </div>
+  </div>
+</template>
