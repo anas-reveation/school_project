@@ -13,6 +13,7 @@
       </div>
     </div>
     <SpecialTreatment />
+    <ChooseService />
     <Healthy />
     <ServiceContact />
   </div>
