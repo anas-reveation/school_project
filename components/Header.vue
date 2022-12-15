@@ -25,13 +25,37 @@
                 >Home</nuxt-link
               >
             </li>
-            <li class="nav-item pe-3">
+            <!-- <li class="nav-item pe-3">
               <nuxt-link
                 to="/servicedetail"
                 class="nav-link text-dark"
                 aria-current="page"
                 >Services</nuxt-link
               >
+            </li> -->
+            <li class="nav-item dropdown">
+              <nuxt-link
+                class="nav-link dropdown-toggle text-dark"
+                to="/servicedetail"
+                id="navbarDropdown"
+                role="button"
+                data-bs-toggle="dropdown"
+                aria-expanded="false"
+              >
+                Services
+              </nuxt-link>
+              <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <li>
+                  <a class="dropdown-item" href="/servicedetail"
+                    >Our Services</a
+                  >
+                </li>
+                <li>
+                  <a class="dropdown-item" href="/servicespeciality"
+                    >Speciality</a
+                  >
+                </li>
+              </ul>
             </li>
             <li class="nav-item pe-3">
               <a class="nav-link text-dark" aria-current="page" href="#"
