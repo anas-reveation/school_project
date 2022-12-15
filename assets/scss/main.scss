@@ -206,7 +206,7 @@
 .test-img img{
     border: 4px dashed #31B2C7;
     border-radius: 50%;
-    padding: 4px;
+    padding: 7px;
 }
 .test-img1{
     position: relative;
@@ -266,6 +266,9 @@
     left: 44%;
     z-index: -2;
 }
+.speciality-p{
+    padding: 25px 58px 20px 58px;
+}
 //phone
 @media (max-width: 767px){
     .home-sm h1{
@@ -303,6 +306,9 @@
     width: 8%;
     margin-top: -16px;
     }
+    .healthy-s .p-5{
+        padding: 1.5rem !important;
+    }
     .choose-bg::after{
         top: 306rem;
         position: absolute;
@@ -315,6 +321,12 @@
     }
     .sd-bg img{
         padding: 14px;
+    }
+    .speciality-p{
+        padding: 25px 0px 0px 0px;
+    }
+    .second-s{
+        margin-top: 7rem;
     }
     .psm-4{
         padding: 1.5rem;
@@ -351,6 +363,9 @@
         position: static;
         top: 34%;
     }
+    .bg-chooseleft{
+        height: 300px;
+    }
 }
 @media (min-width: 768px) and (max-width: 991.98px){
     .feature-h img{
@@ -376,6 +391,9 @@
     }
     .middle-bg p{
         font-size: 12px;
+    }
+    .speciality-p{
+        padding: 25px 11px 20px 28px;
     }
     .middle-bg{
         padding: 15px 0px 30px 0px;

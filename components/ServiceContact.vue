@@ -1,5 +1,5 @@
 <template>
-  <div class="contact-bg my-5">
+  <div class="contact-bg" style="margin-bottom: 4rem">
     <div class="container">
       <div class="row">
         <div

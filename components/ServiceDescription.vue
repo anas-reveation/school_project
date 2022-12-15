@@ -129,6 +129,34 @@
                 Wisdom Tooth Removal
               </button>
             </li>
+            <li class="nav-item mt-3" role="presentation">
+              <button
+                class="nav-link"
+                id="pills-smile-tab"
+                data-bs-toggle="pill"
+                data-bs-target="#pills-smile"
+                type="button"
+                role="tab"
+                aria-controls="pills-smile"
+                aria-selected="false"
+              >
+                Smile Designing
+              </button>
+            </li>
+            <li class="nav-item mt-3" role="presentation">
+              <button
+                class="nav-link"
+                id="pills-flap-tab"
+                data-bs-toggle="pill"
+                data-bs-target="#pills-flap"
+                type="button"
+                role="tab"
+                aria-controls="pills-flap"
+                aria-selected="false"
+              >
+                Periodontal Flap Surgery
+              </button>
+            </li>
           </div>
         </ul>
         <div
@@ -182,6 +210,22 @@
             aria-labelledby="pills-wisdom-tab"
           >
             <WisdomTooth />
+          </div>
+          <div
+            class="tab-pane fade"
+            id="pills-smile"
+            role="tabpanel"
+            aria-labelledby="pills-smile-tab"
+          >
+            <SmileDesigning />
+          </div>
+          <div
+            class="tab-pane fade"
+            id="pills-flap"
+            role="tabpanel"
+            aria-labelledby="pills-flap-tab"
+          >
+            <Periodontal />
           </div>
         </div>
       </div>
