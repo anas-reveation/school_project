@@ -2,9 +2,9 @@
   <div>
     <div class="container">
       <div class="text-center my-5">
-        <h3 class="fw-bold">
+        <h2 class="fw-bold">
           Choose us for the <span class="primary">best treatment</span>
-        </h3>
+        </h2>
       </div>
     </div>
     <div class="container-fluid">
@@ -70,10 +70,10 @@
 .bg-ChooseUsAbout {
   background-image: linear-gradient(
       257.87deg,
-      rgba(16, 97, 111, 0.85) 4.62%,
-      rgba(14, 31, 34, 0.85) 71.84%
+      rgba(16, 97, 111, 0.85) -14.38%,
+      rgba(14, 31, 34, 0.85) -0.16%
     ),
-    url(../assets/img/chooseusbg.svg);
+    url(/_nuxt/assets/img/chooseusbg.svg);
   background-size: cover;
   background-position: center;
 }
