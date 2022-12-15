@@ -3,12 +3,12 @@
     <div class="container psm-4">
       <div class="col-12">
         <div class="row justify-content-around gy-4">
-          <div class="col-md-6 col-12 sd-bg">
+          <div class="col-md-12 col-lg-6 col-12 sd-bg">
             <div class="sd-bg-1">
               <img src="../assets/img/profession.png" class="w-100" />
             </div>
           </div>
-          <div class="col-md-5 col-12">
+          <div class="col-lg-5 col-md-12 col-12">
             <h6 class="text-center">Best Dental Care</h6>
             <h2 class="fw-bold secondary text-center text-md-start">
               We Make Your <span class="primary">Smile Beautiful</span>
@@ -38,7 +38,7 @@
           style="width: 15%; border-top: 3px solid var(--primary); opacity: 1"
         />
       </div>
-      <div class="row mt-5">
+      <div class="row mt-5 gy-4">
         <ul
           class="nav nav-pills s-tab mb-3 d-block col-md-12 col-xl-4 col-lg-12"
           id="pills-tab"

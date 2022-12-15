@@ -95,11 +95,11 @@
     content: "";
     z-index: -1;
     position: absolute;
-    height: 75%;
+    height: 558.4px;
     left: 6%;
     align-items: center;
     display: flex;
-    width: 8%;
+    width: 121.522px;
     margin-top: -41px;
 }
 .choose-bg::after{
@@ -130,26 +130,25 @@
 .aboutbg::before{
     background-color: #35BACD;
     background-color: var(--primary);
-    top: 174%;
+    top: 85rem;
     content: "";
     z-index: -1;
     position: absolute;
-    height: 22%;
+    height: 101.4px;
     left: 6%;
-    align-items: center;
-    display: flex;
-    width: 10%;
+    width: 135.913px;
+    bottom: 0;
 }
 .choose-bg1::after{
     background-color: var(--primary);
     content: "";
     z-index: -1;
     position: absolute;
-    height: 6%;
+    height: 25.2px;
     right: 2%;
     align-items: center;
     display: flex;
-    width: 6%;
+    width: 91.15px;
     margin-top: -41px;
 }
 .our-doc::before{
@@ -157,12 +156,12 @@
     content: "";
     z-index: -1;
     position: absolute;
-    height: 29%;
+    height: 138.5px;
     background-size: cover;
     right: 32%;
     align-items: center;
     display: flex;
-    width: 10%;
+    width: 151.931px;
     margin-top: -94px;
 }
 // .our-doc1::after{
@@ -183,13 +182,12 @@
     content: "";
     z-index: -1;
     position: absolute;
-    height: 29%;
+    height: 117.15px;
     background-size: cover;
     right: 0%;
     align-items: center;
     display: flex;
-    width: 6%;
-    bottom: -194%;
+    width: 91.15px;
 }
 
 .middle-bg{
@@ -227,22 +225,22 @@
     background-image: url(../img/Rectangle-bg.svg);
     content: "";
     left: 6%;
-    height: 64%;
+    height: 479.612px;
     position: absolute;
     z-index: -2;
-    top: 72%;
-    width: 5%;
+    width: 75.95px;
+    margin-top: -24px;
     
 }
 .sd-bg::after{
     background-color: var(--primary);
     content: "";
-    left: 47%;
-    height: 15%;
+    left: 46%;
+    height: 80.15px;
     position: absolute;
     z-index: -2;
-    top: 72%;
-    width: 7%;
+    top: 34rem;
+    width: 106.338px;
     
 }
 .service-curve {
@@ -264,7 +262,7 @@
 }
 .element-ab{
     position: absolute;
-    top: 120%;
+    margin-top: -44px;
     left: 44%;
     z-index: -2;
 }
@@ -298,6 +296,22 @@
     z-index: -2;
     top: 73%;
     width: 21%;
+    }
+    .choose-bg::before{
+    height: 52%;
+    left: 3%;
+    width: 8%;
+    margin-top: -16px;
+    }
+    .choose-bg::after{
+        top: 306rem;
+        position: absolute;
+        height: 10%;
+        left: 85%;
+        width: 13%;
+    }
+    .choose-bg1::after{
+        display: none;
     }
     .sd-bg img{
         padding: 14px;

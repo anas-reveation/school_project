@@ -27,14 +27,14 @@
             <div class="row align-items-center mt-4">
               <div class="col-md-6 col-lg-9 col-xl-6 col-10">
                 <div class="row align-items-center">
-                  <div class="col-md-3 col-3">
+                  <div class="col-md-3 col-4">
                     <img
                       class="rounded-circle"
                       src="../assets/img/blogsm-1.png"
                       style="width: 60px; height: 60px"
                     />
                   </div>
-                  <div class="col-md-6 col-6">
+                  <div class="col-md-6 col-8">
                     <div class="mt-3">
                       <h6 class="fw-semibold">Shreya Paul</h6>
                       <p class="secondary">26 Nov, 2022</p>
@@ -67,14 +67,14 @@
             <div class="row align-items-center mt-4">
               <div class="col-md-6 col-lg-9 col-xl-6 col-10">
                 <div class="row align-items-center">
-                  <div class="col-md-3 col-3">
+                  <div class="col-md-3 col-4">
                     <img
                       class="rounded-circle"
                       src="../assets/img/blogsm-1.png"
                       style="width: 60px; height: 60px"
                     />
                   </div>
-                  <div class="col-md-6 col-6">
+                  <div class="col-md-6 col-8">
                     <div class="mt-3">
                       <h6 class="fw-semibold">Shreya Paul</h6>
                       <p class="secondary">26 Nov, 2022</p>
