@@ -58,9 +58,13 @@
               </ul>
             </li>
             <li class="nav-item pe-3">
-              <a class="nav-link text-dark" aria-current="page" href="#"
-                >About Us</a
+              <nuxt-link
+                to="/aboutus"
+                class="nav-link active"
+                aria-current="page"
               >
+                About Us
+              </nuxt-link>
             </li>
             <li class="nav-item pe-3">
               <a class="nav-link text-dark" href="#">Our Dentists</a>
