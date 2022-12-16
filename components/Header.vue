@@ -21,9 +21,7 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
             <li class="nav-item pe-3">
-              <nuxt-link to="/" class="nav-link active" aria-current="page"
-                >Home</nuxt-link
-              >
+              <nuxt-link to="/" class="nav-link" exact>Home</nuxt-link>
             </li>
             <!-- <li class="nav-item pe-3">
               <nuxt-link
@@ -58,16 +56,14 @@
               </ul>
             </li>
             <li class="nav-item pe-3">
-              <nuxt-link
-                to="/aboutus"
-                class="nav-link active"
-                aria-current="page"
-              >
+              <nuxt-link to="/aboutus" class="nav-link" aria-current="page">
                 About Us
               </nuxt-link>
             </li>
             <li class="nav-item pe-3">
-              <a class="nav-link text-dark" href="#">Our Dentists</a>
+              <nuxt-link class="nav-link" to="/ourdentist"
+                >Our Dentists</nuxt-link
+              >
             </li>
             <li>
               <button
@@ -75,12 +71,38 @@
                 class="btn bg-primary rounded-pill btn-small"
                 style="font-weight: 600"
               >
-                Contact us
+                <a
+                  href="https://api.whatsapp.com/send?phone=+919111222105&text=Hi,%20I%20would%20like%20to%20get%20more%20information.."
+                  class="anc"
+                  target="_blank"
+                  >Contact Us</a
+                >
               </button>
             </li>
+            <li></li>
           </ul>
         </div>
       </div>
     </nav>
   </div>
 </template>
+
+<script>
+export default {
+  data() {
+    return {};
+  },
+  methods: {},
+};
+</script>
+
+<style>
+a.nuxt-link-active {
+  font-weight: bold;
+  color: #31b2c7 !important;
+}
+a.nuxt-link-exact-active {
+  font-weight: bold;
+  color: #31b2c7;
+} /* exact link will show the primary color for only the exact matching link */ ;
+</style>

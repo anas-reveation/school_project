@@ -272,6 +272,15 @@
 .service-doc{
     background-image: url(../img/servicchoose.svg) !important;
 }
+.anc{
+    text-decoration: none !important;
+    color: #fff!important;
+}
+.anc:hover{
+    text-decoration: underline !important;
+    color: #fff!important;
+}
+
 //phone
 @media (max-width: 767px){
     .home-sm h1{
@@ -368,6 +377,12 @@
     }
     .bg-chooseleft{
         height: 300px;
+    }
+    .bc-ig-1{
+        height: 225px;
+    }
+    .bc-ig-3{
+        height: 70px;
     }
 }
 @media (min-width: 768px) and (max-width: 991.98px){

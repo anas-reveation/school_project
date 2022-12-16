@@ -4,7 +4,7 @@
       <div class="row">
         <div class="col-md-5 py-3" style="background-color: #04343b">
           <div class="row justify-content-end">
-            <div class="col-md-10">
+            <div class="col-md-10 col-12">
               <img
                 src="../assets/img/Alarm Clock.svg"
                 style="width: 24px; height: 24px"
@@ -22,8 +22,8 @@
         <div class="col-md-7 py-3" style="background-color: #31b2c7">
           <div class="row">
             <div class="col-md-10">
-              <div class="row">
-                <div class="col-md-7">
+              <div class="row justify-content-between">
+                <div class="col-md-9">
                   <img
                     src="../assets/img/Email.svg"
                     style="width: 24px; height: 24px"
@@ -31,7 +31,7 @@
                   <span
                     ><a
                       href="mailto:drketulpatel05051976@gmail.com"
-                      class="text-white text-decoration-none"
+                      class="text-white text-decoration-none me-3"
                       >drketulpatel05051976@gmail.com</a
                     ></span
                   >
@@ -48,10 +48,14 @@
                     ></span
                   >
                 </div>
-                <div class="col-md-3">
-                  <img src="../assets/img/fb.svg" alt="fb" />
-                  <img src="../assets/img/fb.svg" alt="fb" />
-                  <img src="../assets/img/fb.svg" alt="fb" />
+                <div class="col-md-2">
+                  <img src="../assets/img/fb.svg" alt="fb" class="me-3" />
+                  <img
+                    src="../assets/img/twitter1.svg"
+                    alt="twitter"
+                    class="me-3"
+                  />
+                  <img src="../assets/img/Instagram.svg" alt="insta" />
                 </div>
               </div>
             </div>
