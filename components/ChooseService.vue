@@ -18,35 +18,35 @@
                 </h7>
               </div>
               <div
-                class="row col-md-11 col-12 text-white justify-content-between"
+                class="row gy-5 mt-4 col-md-11 col-12 text-white justify-content-between"
               >
-                <div class="col-md-5 col-5 my-5">
+                <div class="col-md-5 col-12">
                   <h4>Quality Staff</h4>
-                  <h7>
+                  <p>
                     Lorem ipsum dolor sit amet consectur adipicing elit sed do
                     esmod tempor incididunt labore aliqua
-                  </h7>
+                  </p>
                 </div>
-                <div class="col-md-5 col-5 my-5">
+                <div class="col-md-5 col-12">
                   <h4>Best Doctors</h4>
-                  <h7>
+                  <p>
                     Lorem ipsum dolor sit amet consectur adipicing elit sed do
                     esmod tempor incididunt labore aliqua
-                  </h7>
+                  </p>
                 </div>
-                <div class="col-md-5 col-5">
+                <div class="col-md-5 col-12">
                   <h4>Affordable Price</h4>
-                  <h7>
+                  <p>
                     Lorem ipsum dolor sit amet consectur adipicing elit sed do
                     esmod tempor incididunt labore aliqua
-                  </h7>
+                  </p>
                 </div>
-                <div class="col-md-5 col-5">
+                <div class="col-md-5 col-12">
                   <h4>Optimized Solutions</h4>
-                  <h7>
+                  <p>
                     Lorem ipsum dolor sit amet consectur adipicing elit sed do
                     esmod tempor incididunt labore aliqua
-                  </h7>
+                  </p>
                 </div>
               </div>
             </div>

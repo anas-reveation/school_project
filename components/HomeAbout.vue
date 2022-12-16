@@ -1,6 +1,6 @@
 <template>
   <div class="container my-5 pt-5">
-    <div class="row align-items-center gy-4">
+    <div class="row align-items-center gy-5">
       <div class="col-lg-6 col-md-12 aboutbg">
         <img src="../assets/img/about-elemt.svg" class="element-ab" />
         <img src="../assets/img/Home1.png" class="" style="width: 100%" />

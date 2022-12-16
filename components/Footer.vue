@@ -13,10 +13,17 @@
                       style="width: 178px; height: 48px"
                     />
                   </a>
-                  <h6 class="text-white pt-3" style="line-height: 25px">
-                    T-8,9 Third floor,shubh complex, near rajasthan hospital,
-                    Shahibaug Ahmedabad –380004
-                  </h6>
+
+                  <a
+                    href="https://www.google.com/maps/place/Shubh+Complex,+Shahibaug/@23.0533544,72.5898767,16z/data=!4m10!1m2!2m1!1sT-8,9+Third+floor,shubh+complex,+near+rajasthan+hospital,+Shahibaug+Ahmedabad+%E2%80%93380004!3m6!1s0x395e84127728ea01:0xd4220cf6c213f594!8m2!3d23.053316!4d72.5958191!15sCldULTgsOSBUaGlyZCBmbG9vcixzaHViaCBjb21wbGV4LCBuZWFyIHJhamFzdGhhbiBob3NwaXRhbCwgU2hhaGliYXVnIEFobWVkYWJhZCDigJMzODAwMDRaVCJSdCA4IDkgdGhpcmQgZmxvb3Igc2h1YmggY29tcGxleCBuZWFyIHJhamFzdGhhbiBob3NwaXRhbCBzaGFoaWJhdWcgYWhtZWRhYmFkIDM4MDAwNJIBD3Nob3BwaW5nX2NlbnRlcpoBJENoZERTVWhOTUc5blMwVkpRMEZuU1VNdE0yRkVlamQzUlJBQuABAA!16s%2Fg%2F1hm59kgq3"
+                    target="_blank"
+                    class="anc"
+                  >
+                    <h6 class="text-white pt-3" style="line-height: 25px">
+                      T-8,9 Third floor,shubh complex, near rajasthan hospital,
+                      Shahibaug Ahmedabad –380004
+                    </h6>
+                  </a>
                 </div>
               </div>
               <div class="col-lg-12 col-md-12 col-12 text-white mt-5 add-f">
@@ -120,17 +127,17 @@
                     <img
                       src="../assets/img/brand3.png"
                       alt="Brand"
-                      class="h-100 pe-5 d-lg-block"
+                      class="h-100 pe-4 d-lg-block"
                     />
                     <img
                       src="../assets/img/brand1.png"
                       alt="Brand"
-                      class="h-100 pe-5 d-lg-block"
+                      class="h-100 pe-4 d-lg-block"
                     />
                     <img
                       src="../assets/img/brand3.png"
                       alt="Brand"
-                      class="h-100 pe-5 d-lg-block d-none"
+                      class="h-100 pe-4 d-lg-block d-none"
                     />
                     <img src="../assets/img/brand2.png" class="h-100" />
                   </div>

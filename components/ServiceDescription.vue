@@ -3,8 +3,8 @@
     <div class="container psm-4">
       <div class="col-12">
         <div class="row justify-content-around gy-4">
-          <div class="col-md-12 col-lg-6 col-12 sd-bg">
-            <div class="sd-bg-1">
+          <div class="col-md-12 col-lg-6 col-12">
+            <div class="sd-bg-1 sd-bg">
               <img src="../assets/img/profession.png" class="w-100" />
             </div>
           </div>
@@ -230,6 +230,6 @@
         </div>
       </div>
     </div>
-    <ServiceContact />
+    <SpecialPage />
   </div>
 </template>

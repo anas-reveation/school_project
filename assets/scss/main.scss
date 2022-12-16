@@ -4,6 +4,7 @@
     --tertiary: #2999AB;
     --font-small: #5F7483;
     --light: #ffff;
+    --bg-element: #EBFCFF;
     --footer-text: #C3C3C3;
     --bg-foter: #04343C;
     --service-title: #0C5F6C;
@@ -96,9 +97,7 @@
     z-index: -1;
     position: absolute;
     height: 558.4px;
-    left: 6%;
-    align-items: center;
-    display: flex;
+    margin-left: -32rem;
     width: 121.522px;
     margin-top: -41px;
 }
@@ -130,14 +129,13 @@
 .aboutbg::before{
     background-color: #35BACD;
     background-color: var(--primary);
-    top: 85rem;
     content: "";
     z-index: -1;
     position: absolute;
-    height: 101.4px;
-    left: 6%;
+    height: 123.4px;
     width: 135.913px;
-    bottom: 0;
+    margin-top: 378px;
+    margin-left: -17px;
 }
 .choose-bg1::after{
     background-color: var(--primary);
@@ -145,11 +143,11 @@
     z-index: -1;
     position: absolute;
     height: 25.2px;
-    right: 2%;
     align-items: center;
     display: flex;
     width: 91.15px;
-    margin-top: -41px;
+    margin-left: 81rem;
+    margin-top: -30px;
 }
 .our-doc::before{
     background-image: url(../img/Ellipse.svg);
@@ -222,9 +220,9 @@
     padding: 138px 0px 120px 0px;
 }
 .sd-bg::before{
-    background-image: url(../img/Rectangle-bg.svg);
+    background-color: var(--bg-element);
     content: "";
-    left: 6%;
+    margin-left: -35px;
     height: 479.612px;
     position: absolute;
     z-index: -2;
@@ -235,11 +233,11 @@
 .sd-bg::after{
     background-color: var(--primary);
     content: "";
-    left: 46%;
     height: 80.15px;
     position: absolute;
     z-index: -2;
-    top: 34rem;
+    margin-left: -86px;
+    margin-top: -20px;
     width: 106.338px;
     
 }
@@ -281,48 +279,77 @@
     color: #fff!important;
 }
 
+.dentist-t{
+    padding: 22px 15px 5px 15px;
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.1);
+    position: relative;
+    background-color: var(--light);
+    margin-top: -5rem;
+}
+.special-treat::before{
+    background-color: var(--primary);
+    content: "";
+    height: 18px;
+    position: absolute;
+    width: 18px;
+    border-radius: 50%;
+    display: flex;
+    margin-left: 189px;
+    margin-top: 6px;
+}
+.special-treat::after{
+    background-color: var(--primary);
+    content: "";
+    height: 40px;
+    position: absolute;
+    width: 40px;
+    border-radius: 50%;
+    display: flex;
+    margin-left: 16px;
+    margin-top: -63px;
+}
 //phone
 @media (max-width: 767px){
     .home-sm h1{
         font-size: 30px !important;
     }
     .sd-bg::before{
-    background-image: url(../img/Rectangle-bg.svg);
+    background-color: var(--bg-element);
     content: "";
-    left: 5%;
-    height: 39%;
+    margin-left: -8px;
+    height: 283.612px;
     position: absolute;
     z-index: -2;
-    top: 71%;
-    width: 14%;
+    width: 51.95px;
+    margin-top: -15px;
     }
     .aboutbg::before{
-        top: 190%;
-        left: 3%;
-        height: 7%;
-        width: 12%;
+        margin-top: 132px;
+    margin-left: -11px;
+    }
+    .btn-special {
+        font-size: 14px;
     }
     .sd-bg::after{
-    background-color: var(--primary);
-    content: "";
-    left: 75%;
-    height: 10%;
-    position: absolute;
-    z-index: -2;
-    top: 73%;
-    width: 21%;
+        height: 80.15px;
+        position: absolute;
+        z-index: -2;
+        margin-left: -89px;
+        margin-top: -5px;
+        width: 93.338px;
     }
     .choose-bg::before{
-    height: 52%;
-    left: 3%;
-    width: 8%;
-    margin-top: -16px;
+        position: absolute;
+        height: 404.4px;
+        margin-left: -17rem;
+        width: 20%;
+        margin-top: -26px;
     }
     .healthy-s .p-5{
         padding: 1.5rem !important;
     }
     .choose-bg::after{
-        top: 306rem;
+        top: 312rem;
         position: absolute;
         height: 10%;
         left: 85%;
@@ -403,6 +430,26 @@
        }
     .middle-bg h1{
         font-size: 18px;
+    }
+    .sd-bg::before{
+        margin-left: -22px;
+    height: 514.612px;
+    }
+    .aboutbg::before{
+        margin-top: 400px;
+    }
+    .choose-bg::before{
+        height: 381.4px;
+    margin-left: -16rem;
+    width: 121.522px;
+    margin-top: -37px;
+    }
+    .choose-bg::after{
+        display: none;
+    }
+    .choose-bg1::after{
+    margin-left: 38rem;
+    margin-top: -19px;
     }
     .sev-2{
         margin-left: 0rem;
