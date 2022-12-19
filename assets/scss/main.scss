@@ -47,6 +47,12 @@
 .secondary{
     color: var(--secondary);
 }
+.anchor:hover{
+    color: var(--primary);
+}
+.light-anc:hover{
+    color: var(--light);
+}
 .shadow-s{
     box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.12);
 }
