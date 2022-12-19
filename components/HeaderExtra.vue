@@ -1,8 +1,8 @@
 <template>
   <div>
     <div class="container-fluid">
-      <div class="row">
-        <div class="col-md-5 py-3" style="background-color: #04343b">
+      <div class="row justify-center">
+        <div class="col-lg-5 col-12 py-3" style="background-color: #04343b">
           <div class="row justify-content-end">
             <div class="col-md-10 col-12">
               <img
@@ -19,7 +19,10 @@
             </div>
           </div>
         </div>
-        <div class="col-md-7 py-3" style="background-color: #31b2c7">
+        <div
+          class="col-lg-7 col-12 py-3"
+          style="background-color: var(--dashed-img)"
+        >
           <div class="row">
             <div class="col-md-10">
               <div class="row justify-content-between">

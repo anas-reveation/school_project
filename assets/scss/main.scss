@@ -8,6 +8,9 @@
     --footer-text: #C3C3C3;
     --bg-foter: #04343C;
     --service-title: #0C5F6C;
+    --dashed-img: #31B2C7;
+    --bg-blogs: #faf9ff;
+    --footer-tx-bt: #bebebe;
 
 }
 .navbar-nav li a{
@@ -28,12 +31,15 @@
 .footer-bg{
     background-color: var(--bg-foter);
 }
+.footer-tx-bt{
+    color: #bebebe;
+}
 .ul-l ul {
     list-style-type: none;
     padding-left: 0;
 }
 .ul-l ul li a {
-    color: #ffff;
+    color: var(--light);
     margin-bottom: 15px;
     text-decoration: none;
     color: var(--footer-text);
@@ -58,7 +64,7 @@
     height: 100%;
 }
 .s-tab li{
-    background-color: white;
+    background-color: var(--light);
 }
 .s-tab .nav-link.active, .nav-pills .show>.nav-link{
     background-color: var(--primary) !important;
@@ -92,7 +98,7 @@
     font-size: 18px;
 }
 .choose-bg::before{
-    background-color: #EBFCFF;
+    background-color: var(--bg-element);
     content: "";
     z-index: -1;
     position: absolute;
@@ -102,7 +108,7 @@
     margin-top: -41px;
 }
 .choose-bg::after{
-    background-color: #35BACD;
+    background-color: var(--primary);
     background-color: var(--primary);
     content: "";
     z-index: -1;
@@ -127,7 +133,7 @@
     top: 71%;
 }
 .aboutbg::before{
-    background-color: #35BACD;
+    background-color: var(--primary);
     background-color: var(--primary);
     content: "";
     z-index: -1;
@@ -202,7 +208,7 @@
     padding: 103px 0px 119px 0px;
 }
 .test-img img{
-    border: 4px dashed #31B2C7;
+    border: 4px dashed var(--dashed-img);
     border-radius: 50%;
     padding: 7px;
 }
@@ -272,11 +278,11 @@
 }
 .anc{
     text-decoration: none !important;
-    color: #fff!important;
+    color: var(--light)!important;
 }
 .anc:hover{
     text-decoration: underline !important;
-    color: #fff!important;
+    color: var(--light)!important;
 }
 
 .dentist-t{
@@ -307,6 +313,9 @@
     display: flex;
     margin-left: 16px;
     margin-top: -63px;
+}
+.h-85{
+    height: 85%;
 }
 //phone
 @media (max-width: 767px){

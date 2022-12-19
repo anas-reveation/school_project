@@ -45,11 +45,11 @@
       </div>
       <div class="row">
         <div class="col-md-6">
-          <img src="../assets/img/aligner3.png" class="w-100" />
+          <img src="../assets/img/aligner3.png" class="w-100 h-85" />
           <p class="text-center fw-semibold mt-2">Before</p>
         </div>
         <div class="col-md-6">
-          <img src="../assets/img/aligner4.png" class="w-100" />
+          <img src="../assets/img/aligner4.png" class="w-100 h-85" />
           <p class="text-center fw-semibold mt-2">After</p>
         </div>
       </div>

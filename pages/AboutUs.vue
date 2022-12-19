@@ -6,7 +6,6 @@
     <ChooseUsAbout />
     <Healthy />
     <MiddleBanner />
-    <HeaderExtra />
   </div>
 </template>
 

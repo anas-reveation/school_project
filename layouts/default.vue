@@ -1,6 +1,6 @@
 <template>
   <div class="">
-    <HeaderTop class="d-none d-md-block" />
+    <HeaderExtra class="d-none d-md-block" />
     <Header></Header>
     <Nuxt />
     <Footer></Footer>
