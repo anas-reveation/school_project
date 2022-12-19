@@ -9,7 +9,11 @@
         class="position-absolute"
         style="margin-top: -42px"
       />
-      <div class="row justify-content-center gy-4">
+      <div
+        class="row justify-content-center gy-4"
+        data-aos="zoom-in-up"
+        data-aos-duration="400"
+      >
         <div class="col-md-6 col-lg-4 col-12 d-flex justify-content-center">
           <div class="test-img special-treat">
             <img src="../assets/img/special-d.png" class="p-3" />
@@ -29,12 +33,12 @@
           <div class="mt-5 pt-3">
             <nuxt-link
               to="/servicespeciality"
-              class="bg-primary text-decoration-none btn-special"
+              class="bg-primary text-decoration-none btn-special light-anc"
               style="border-radius: 21px; padding: 12px 30px 12px 5px"
             >
               <span
                 class="p-2"
-                style="background-color: #ffff; border-radius: 19px"
+                style="background-color: var(--light); border-radius: 19px"
                 ><img src="../assets/img/arrow-right.svg" />
               </span>
               <span class="ps-1 fw-semibold"> Check Our Special Treatment</span>

@@ -10,7 +10,7 @@
       </p>
     </div>
     <div class="row mt-5">
-      <div class="col-md-6">
+      <div class="col-md-6" data-aos="flip-left" data-aos-duration="400">
         <div class="p-4" style="box-shadow: 0px 4px 20px rgb(0 0 0 / 10%)">
           <div class="" style="margin-top: -6rem">
             <img
@@ -28,7 +28,11 @@
           </div>
         </div>
       </div>
-      <div class="col-md-6 second-s">
+      <div
+        class="col-md-6 second-s"
+        data-aos="flip-left"
+        data-aos-duration="400"
+      >
         <div class="p-4" style="box-shadow: 0px 4px 20px rgb(0 0 0 / 10%)">
           <div class="" style="margin-top: -6rem">
             <img
@@ -46,7 +50,12 @@
           </div>
         </div>
       </div>
-      <div class="col-md-6" style="margin-top: 7rem">
+      <div
+        class="col-md-6"
+        style="margin-top: 7rem"
+        data-aos="flip-left"
+        data-aos-duration="400"
+      >
         <div class="p-4" style="box-shadow: 0px 4px 20px rgb(0 0 0 / 10%)">
           <div class="" style="margin-top: -6rem">
             <img
@@ -64,7 +73,12 @@
           </div>
         </div>
       </div>
-      <div class="col-md-6" style="margin-top: 7rem">
+      <div
+        class="col-md-6"
+        style="margin-top: 7rem"
+        data-aos="flip-left"
+        data-aos-duration="400"
+      >
         <div class="p-4" style="box-shadow: 0px 4px 20px rgb(0 0 0 / 10%)">
           <div class="" style="margin-top: -6rem">
             <img

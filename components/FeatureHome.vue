@@ -4,6 +4,8 @@
       <div class="row f-h5 py-4 gy-4 feature-h">
         <div
           class="col-md-4 col-12 d-flex justify-content-center align-items-center"
+          data-aos="fade-in"
+          data-aos-duration="400"
         >
           <div class="row align-items-center">
             <div class="col-md-4 col-4">
@@ -21,6 +23,8 @@
         </div>
         <div
           class="col-md-4 col-12 d-flex justify-content-center align-items-center"
+          data-aos="fade-in"
+          data-aos-duration="400"
         >
           <div class="row align-items-center">
             <div class="col-md-4 col-4">
@@ -38,6 +42,8 @@
         </div>
         <div
           class="col-md-4 col-12 d-flex justify-content-center align-items-center"
+          data-aos="fade-in"
+          data-aos-duration="400"
         >
           <div class="row align-items-center">
             <div class="col-md-4 col-4">

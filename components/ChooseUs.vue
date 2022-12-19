@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div class="container my-5 choose-bg1 mb-5 psm-4">
+    <div class="container my-5 choose-bg1 mb-5 psm-4" id="home_section">
       <div class="row gy-5">
         <div class="col-md-6 d-flex justify-content-center choose-bg">
           <div>

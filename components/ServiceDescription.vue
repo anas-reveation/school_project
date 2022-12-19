@@ -2,13 +2,21 @@
   <div class="my-5">
     <div class="container psm-4">
       <div class="col-12">
-        <div class="row justify-content-around gy-4">
-          <div class="col-md-12 col-lg-6 col-12">
+        <div class="row justify-content-around gy-4 overflow-hidden">
+          <div
+            class="col-md-12 col-lg-6 col-12"
+            data-aos="fade-right"
+            data-aos-duration="400"
+          >
             <div class="sd-bg-1 sd-bg">
               <img src="../assets/img/profession.png" class="w-100" />
             </div>
           </div>
-          <div class="col-lg-5 col-md-12 col-12">
+          <div
+            class="col-lg-5 col-md-12 col-12"
+            data-aos="fade-left"
+            data-aos-duration="400"
+          >
             <h6 class="text-center">Best Dental Care</h6>
             <h2 class="fw-bold secondary text-center text-md-start">
               We Make Your <span class="primary">Smile Beautiful</span>
@@ -43,6 +51,8 @@
           class="nav nav-pills s-tab mb-3 d-block col-md-12 col-xl-4 col-lg-12"
           id="pills-tab"
           role="tablist"
+          data-aos="fade-right"
+          data-aos-duration="400"
         >
           <div class="p-3" style="background-color: #f2fafc">
             <li class="nav-item" role="presentation">

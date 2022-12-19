@@ -75,8 +75,10 @@
                 <div class="text-white logo-sm">
                   <h5 class="text-white">About Us</h5>
                   <ul>
-                    <li><a href="#">Our Clinic</a></li>
-                    <li><a href="#">Our Doctors</a></li>
+                    <li>
+                      <nuxt-link to="#home_section">Our Clinic</nuxt-link>
+                    </li>
+                    <li><nuxt-link to="/ourdentist">Our Doctors</nuxt-link></li>
                   </ul>
                 </div>
               </div>
@@ -86,9 +88,14 @@
                 <div class="text-white logo-sm">
                   <h5 class="text-white">Services</h5>
                   <ul>
-                    <li><a href="#">Root Canal</a></li>
-                    <li><a href="#">Oral Surgery</a></li>
-                    <li><a href="#">Prediatic Treatment</a></li>
+                    <li>
+                      <nuxt-link to="/servicedetail">Our Services</nuxt-link>
+                    </li>
+                    <li>
+                      <nuxt-link to="/servicespeciality"
+                        >Our Speciality</nuxt-link
+                      >
+                    </li>
                   </ul>
                 </div>
               </div>
@@ -98,9 +105,15 @@
                 <div class="text-white">
                   <h5 class="text-white">Dentists</h5>
                   <ul>
-                    <li><a href="#">Dr. Ketul Surname</a></li>
-                    <li><a href="#">Dr. Ravi Patel</a></li>
-                    <li><a href="#">Dr. Urvashi Surname</a></li>
+                    <li>
+                      <nuxt-link to="/ourdentist">Dr. Ketul Patel</nuxt-link>
+                    </li>
+                    <li>
+                      <nuxt-link to="/ourdentist">Dr. Ravi Patel</nuxt-link>
+                    </li>
+                    <li>
+                      <nuxt-link to="/ourdentist">Dr. Urvashi Patel</nuxt-link>
+                    </li>
                     <!-- <li><a href="#">Team Story</a></li>
                   <li><a href="#">What we do</a></li> -->
                   </ul>
@@ -195,17 +208,17 @@
       </div>
     </div>
     <div class="container footer-text">
-      <h5 class="text-center pt-4 pb-0" style="color: #bebebe; font-size: 16px">
+      <h5 class="text-center pt-4 pb-0 footer-tx-bt" style="font-size: 16px">
         © Copyright 2022 Vardan Dental Clinic | All Rights Reserved
       </h5>
     </div>
     <div
       class="d-flex justify-content-center align-items-baseline pb-3 footer-text"
     >
-      <h5 class="text-center pe-2" style="color: #bebebe; font-size: 16px">
+      <h5 class="text-center pe-2 footer-tx-bt" style="font-size: 16px">
         Design With
       </h5>
-      <span class="pb-2" style="color: #bebebe">
+      <span class="pb-2 footer-tx-bt">
         <svg
           xmlns="http://www.w3.org/2000/svg"
           viewBox="0 0 512 512"

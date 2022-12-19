@@ -5,6 +5,8 @@
         <div class="row">
           <div
             class="col-md-12 d-flex justify-content-center flex-column align-items-center"
+            data-aos="zoom-in"
+            data-aos-duration="400"
           >
             <h1 class="text-white fw-semibold">Our Dentists</h1>
             <h2 class="primary fw-bold">Get Best Treatment</h2>

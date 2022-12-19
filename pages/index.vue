@@ -10,7 +10,6 @@
     <Profession />
     <OurDoctors />
     <Contact />
-    <Blogs />
   </div>
 </template>
 

@@ -16,7 +16,7 @@
           <div class="mt-5 pt-3">
             <a
               href="#"
-              class="bg-primary text-decoration-none"
+              class="bg-primary text-decoration-none light-anc"
               style="border-radius: 21px; padding: 12px 30px 12px 5px"
             >
               <span
@@ -28,7 +28,11 @@
             </a>
           </div>
         </div>
-        <div class="col-md-5 d-none d-md-block our-doc our-doc1">
+        <div
+          class="col-md-5 d-none d-md-block our-doc our-doc1"
+          data-aos="zoom-in"
+          data-aos-duration="400"
+        >
           <div class="">
             <img
               src="../assets/img/doctor1.png"

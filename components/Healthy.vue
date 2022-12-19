@@ -4,7 +4,12 @@
       <span class="primary">How it helps</span> you to keep healthy
     </h2>
     <div class="row healthy-s">
-      <div class="col-md-6 col-lg-4 col-12 p-5">
+      <div
+        class="col-md-6 col-lg-4 col-12 p-5"
+        data-aos="zoom-in"
+        data-aos-offset="300"
+        data-aos-easing="ease-in-sine"
+      >
         <div class="test-img">
           <img
             src="../assets/img/health1.png"
@@ -19,7 +24,12 @@
           </div>
         </div>
       </div>
-      <div class="col-md-6 col-lg-4 col-12 p-5">
+      <div
+        class="col-md-6 col-lg-4 col-12 p-5"
+        data-aos="zoom-in"
+        data-aos-offset="300"
+        data-aos-easing="ease-in-sine"
+      >
         <div class="test-img">
           <img
             src="../assets/img/health2.png"
@@ -34,7 +44,12 @@
           </div>
         </div>
       </div>
-      <div class="col-md-6 col-lg-4 col-12 p-5">
+      <div
+        class="col-md-6 col-lg-4 col-12 p-5"
+        data-aos="zoom-in"
+        data-aos-offset="300"
+        data-aos-easing="ease-in-sine"
+      >
         <div class="test-img">
           <img
             src="../assets/img/health3.png"

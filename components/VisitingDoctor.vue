@@ -15,7 +15,7 @@
         </p>
       </div>
     </div>
-    <div class="row mt-4 gy-5">
+    <div class="row mt-4 gy-5" data-aos="zoom-in" data-aos-duration="400">
       <div class="col-md-6 col-lg-4">
         <div class="shadow px-5 py-4 h-100">
           <img src="../assets/img/bg-semicircle.svg" class="service-curve" />

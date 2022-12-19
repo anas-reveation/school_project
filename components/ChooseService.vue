@@ -20,28 +20,44 @@
               <div
                 class="row gy-5 mt-4 col-md-11 col-12 text-white justify-content-between"
               >
-                <div class="col-md-5 col-12">
+                <div
+                  class="col-md-5 col-12"
+                  data-aos="fade-in"
+                  data-aos-duration="400"
+                >
                   <h4>Quality Staff</h4>
                   <p>
                     Lorem ipsum dolor sit amet consectur adipicing elit sed do
                     esmod tempor incididunt labore aliqua
                   </p>
                 </div>
-                <div class="col-md-5 col-12">
+                <div
+                  class="col-md-5 col-12"
+                  data-aos="fade-in"
+                  data-aos-duration="400"
+                >
                   <h4>Best Doctors</h4>
                   <p>
                     Lorem ipsum dolor sit amet consectur adipicing elit sed do
                     esmod tempor incididunt labore aliqua
                   </p>
                 </div>
-                <div class="col-md-5 col-12">
+                <div
+                  class="col-md-5 col-12"
+                  data-aos="fade-in"
+                  data-aos-duration="400"
+                >
                   <h4>Affordable Price</h4>
                   <p>
                     Lorem ipsum dolor sit amet consectur adipicing elit sed do
                     esmod tempor incididunt labore aliqua
                   </p>
                 </div>
-                <div class="col-md-5 col-12">
+                <div
+                  class="col-md-5 col-12"
+                  data-aos="fade-in"
+                  data-aos-duration="400"
+                >
                   <h4>Optimized Solutions</h4>
                   <p>
                     Lorem ipsum dolor sit amet consectur adipicing elit sed do

@@ -14,7 +14,11 @@
           velit esse cillum
         </p>
       </div>
-      <div class="row mt-5 gy-4">
+      <div
+        class="row mt-5 gy-4 overflow-hidden"
+        data-aos="fade-right"
+        data-aos-duration="400"
+      >
         <div class="col-md-4 col-12">
           <img
             src="../assets/img/dentist1.png"

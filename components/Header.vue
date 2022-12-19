@@ -31,7 +31,7 @@
                 >Services</nuxt-link
               >
             </li> -->
-            <li class="nav-item dropdown">
+            <li class="nav-item dropdown pe-3">
               <nuxt-link
                 class="nav-link dropdown-toggle text-dark"
                 to="/servicedetail"
@@ -56,12 +56,16 @@
               </ul>
             </li>
             <li class="nav-item pe-3">
-              <nuxt-link to="/aboutus" class="nav-link" aria-current="page">
+              <nuxt-link
+                to="/aboutus"
+                class="nav-link text-dark"
+                aria-current="page"
+              >
                 About Us
               </nuxt-link>
             </li>
             <li class="nav-item pe-3">
-              <nuxt-link class="nav-link" to="/ourdentist"
+              <nuxt-link class="nav-link text-dark" to="/ourdentist"
                 >Our Dentists</nuxt-link
               >
             </li>
@@ -71,10 +75,7 @@
                 class="btn bg-primary rounded-pill btn-small"
                 style="font-weight: 600"
               >
-                <a
-                  href="https://api.whatsapp.com/send?phone=+919111222105&text=Hi,%20I%20would%20like%20to%20get%20more%20information.."
-                  class="anc"
-                  target="_blank"
+                <a href="tel: +91-9824038971" class="anc" target="_blank"
                   >Contact Us</a
                 >
               </button>
@@ -97,12 +98,16 @@ export default {
 </script>
 
 <style>
-a.nuxt-link-active {
+#navbarSupportedContent a.nuxt-link-active {
   font-weight: bold;
-  color: #31b2c7 !important;
+  color: var(--dashed-img) !important;
 }
-a.nuxt-link-exact-active {
+.dropdown-item.active,
+.dropdown-item:active {
+  background-color: var(--primary);
+}
+#navbarSupportedContent a.nuxt-link-exact-active {
   font-weight: bold;
-  color: #31b2c7;
+  color: var(--dashed-img);
 } /* exact link will show the primary color for only the exact matching link */ ;
 </style>

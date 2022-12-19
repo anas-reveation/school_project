@@ -8,7 +8,7 @@
         our entire team of Vardan Dental Clinic
       </p>
     </div>
-    <div class="row mt-4 gy-5">
+    <div class="row mt-4 gy-5" data-aos="zoom-in-up" data-aos-duration="400">
       <div class="col-md-6 col-lg-4">
         <div class="shadow px-5 py-4 h-100">
           <img src="../assets/img/bg-semicircle.svg" class="service-curve" />
@@ -105,6 +105,11 @@
           <img src="../assets/img/element.svg" class="service-curve-2" />
         </div>
       </div>
+    </div>
+    <div class="text-end pt-4">
+      <nuxt-link to="/servicedetail" class="primary fw-semibold anchor"
+        >View More</nuxt-link
+      >
     </div>
   </div>
 </template>
