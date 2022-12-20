@@ -1,5 +1,5 @@
 <template>
-  <div class="container mb-5 psm-4 pb-5">
+  <div class="container mb-5 psm-4">
     <div class="row gy-4" data-aos="zoom-in" data-aos-duration="400">
       <div class="col-lg-4 col-md-6 col-12">
         <div class="shadow-s h-100 px-4 py-4">

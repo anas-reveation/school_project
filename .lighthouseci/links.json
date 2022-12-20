@@ -1,4 +1,7 @@
 {
-  "http://localhost:53648/200.html": "https://storage.googleapis.com/lighthouse-infrastructure.appspot.com/reports/1670311124138-1562.report.html",
-  "http://localhost:53648/index.html": "https://storage.googleapis.com/lighthouse-infrastructure.appspot.com/reports/1670311125401-6444.report.html"
+  "http://localhost:51034/200.html": "https://storage.googleapis.com/lighthouse-infrastructure.appspot.com/reports/1671538691207-3347.report.html",
+  "http://localhost:51034/index.html": "https://storage.googleapis.com/lighthouse-infrastructure.appspot.com/reports/1671538692714-92792.report.html",
+  "http://localhost:51034/AboutUs/index.html": "https://storage.googleapis.com/lighthouse-infrastructure.appspot.com/reports/1671538693982-13737.report.html",
+  "http://localhost:51034/OurDentist/index.html": "https://storage.googleapis.com/lighthouse-infrastructure.appspot.com/reports/1671538695213-31555.report.html",
+  "http://localhost:51034/ServiceDetail/index.html": "https://storage.googleapis.com/lighthouse-infrastructure.appspot.com/reports/1671538696545-31457.report.html"
 }

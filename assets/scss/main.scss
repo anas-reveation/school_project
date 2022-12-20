@@ -11,6 +11,7 @@
     --dashed-img: #31B2C7;
     --bg-blogs: #faf9ff;
     --footer-tx-bt: #bebebe;
+    --accordian-color: #4B436B;
 
 }
 .navbar-nav li a{
@@ -86,6 +87,16 @@
 }
 .font-h{
     font-size: 45px;
+}
+.accord .accordion-item{
+    border: none;
+    border-bottom: 1px solid lightgray;
+    margin-bottom: 3rem;
+}
+.accord .accordion-item h2 button{
+    font-size: 20px;
+    color: var(--accordian-color);
+    font-weight: 500;
 }
 .font-p{
     font-size: 12px;
@@ -273,7 +284,7 @@
 .element-ab{
     position: absolute;
     margin-top: -44px;
-    left: 44%;
+    left: 86%;
     z-index: -2;
 }
 .speciality-p{
@@ -340,11 +351,16 @@
     margin-top: -15px;
     }
     .aboutbg::before{
-        margin-top: 132px;
+    margin-top: 158px;
     margin-left: -11px;
+    height: 118.4px;
+    width: 113.913px;
     }
     .btn-special {
         font-size: 14px;
+    }
+    .accord .accordion-item h2 button{
+        font-size: 18px;
     }
     .sd-bg::after{
         height: 80.15px;
@@ -363,6 +379,9 @@
     }
     .healthy-s .p-5{
         padding: 1.5rem !important;
+    }
+    .aos-overflow{
+        overflow: hidden;
     }
     .choose-bg::after{
         top: 312rem;
@@ -454,6 +473,9 @@
     .aboutbg::before{
         margin-top: 400px;
     }
+    .accord-elem{
+        margin-left: 26rem !important;
+    }
     .choose-bg::before{
         height: 381.4px;
     margin-left: -16rem;
@@ -479,15 +501,33 @@
     .middle-bg{
         padding: 15px 0px 30px 0px;
     }
+    .aos-overflow{
+        overflow: hidden;
+    }
 }
 @media (min-width: 992px) and (max-width: 1200px){
     .sev-2 {
         margin-left: -1rem;
     }
-
+    .choose-bg1::after{
+        margin-left: 54rem;
+    }
+    .middle-bg{
+      padding: 14px 0px 31px 0px;
+    }
+    .aboutbg::before{
+        margin-top: 251px;
+    }
 }
 @media (min-width: 1200px){
     h2{
         font-size: 2.8125rem;
+    }
+}
+@media (min-width: 310px) and (max-width: 320px){
+    .aboutbg::before{
+    height: 94.4px;
+    margin-top: 134px;
+    width: 93.913px;
     }
 }

@@ -1,89 +1,185 @@
 <template>
-  <div class="container psm-4 my-5 py-5">
-    <img
-      src="../assets/img/bg-dot.svg"
-      class=""
-      style="position: absolute; left: 1%"
-    />
-    <h6 class="font-sm text-center">BLogs</h6>
-    <h2 class="fw-bold text-center secondary">Latest Post from</h2>
-    <h2 class="primary fw-bold text-center">our Blogs</h2>
-    <div class="row mt-5 gy-4">
-      <div class="col-md-12 col-lg-6 col-12">
+  <div class="container psm-4 mb-5 pb-4">
+    <div class="text-center mb-5">
+      <p>Frequently asked questions</p>
+      <h2 class="fw-bold secondary mb-3">
+        <span class="primary">Everything</span> you need <br />
+        to know
+      </h2>
+      <img
+        src="../assets/img/accord-element.svg"
+        class="position-absolute d-md-block d-none accord-elem"
+        style="margin-top: -144px; margin-left: 52rem"
+      />
+    </div>
+    <div class="row gy-4">
+      <div class="col-lg-12 col-xl-5 col-md-12 col-12">
         <div>
           <img
-            src="../assets/img/blog1.png"
-            class="w-100"
-            style="border-radius: 16px 16px 0px 0px"
+            src="../assets/img/Accord.png"
+            style="width: 100%; height: 100%"
           />
-          <div style="background-color: #faf9ff; padding: 38px">
-            <p class="primary" style="font-weight: 500">
-              40 Minutes - 20 comments
-            </p>
-            <h4 class="fw-semibold secondary">
-              Every one need to go Dentist regularly
-            </h4>
-            <hr />
-            <div class="row align-items-center mt-4">
-              <div class="col-md-6 col-lg-9 col-xl-6 col-10">
-                <div class="row align-items-center">
-                  <div class="col-md-3 col-4">
-                    <img
-                      class="rounded-circle"
-                      src="../assets/img/blogsm-1.png"
-                      style="width: 60px; height: 60px"
-                    />
-                  </div>
-                  <div class="col-md-6 col-8">
-                    <div class="mt-3">
-                      <h6 class="fw-semibold">Shreya Paul</h6>
-                      <p class="secondary">26 Nov, 2022</p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div class="col-md-6 col-lg-3 col-xl-6 col-2 text-end">
-                <img src="../assets/img/share-2.svg" />
+        </div>
+      </div>
+      <div class="col-lg-12 col-xl-7 col-md-12 col-12">
+        <div class="accordion accord" id="accordionExample">
+          <div class="accordion-item">
+            <h2 class="accordion-header" id="headingOne">
+              <button
+                class="accordion-button"
+                type="button"
+                data-bs-toggle="collapse"
+                data-bs-target="#collapseOne"
+                aria-expanded="true"
+                aria-controls="collapseOne"
+              >
+                Am I the right candidate for a dental implant?
+              </button>
+            </h2>
+            <div
+              id="collapseOne"
+              class="accordion-collapse collapse show"
+              aria-labelledby="headingOne"
+              data-bs-parent="#accordionExample"
+            >
+              <div class="accordion-body">
+                <strong>This is the first item's accordion body.</strong> It is
+                shown by default, until the collapse plugin adds the appropriate
+                classes that we use to style each element. These classes control
+                the overall appearance, as well as the showing and hiding via
+                CSS transitions. You can modify any of this with custom CSS or
+                overriding our default variables. It's also worth noting that
+                just about any HTML can go within the
+                <code>.accordion-body</code>, though the transition does limit
+                overflow.
               </div>
             </div>
           </div>
-        </div>
-      </div>
-      <div class="col-md-12 col-lg-6 col-12">
-        <div>
-          <img
-            src="../assets/img/blog1.png"
-            class="w-100"
-            style="border-radius: 16px 16px 0px 0px"
-          />
-          <div style="background-color: #faf9ff; padding: 38px">
-            <p class="primary" style="font-weight: 500">
-              40 Minutes - 20 comments
-            </p>
-            <h4 class="fw-semibold secondary">
-              Every one need to go Dentist regularly
-            </h4>
-            <hr />
-            <div class="row align-items-center mt-4">
-              <div class="col-md-6 col-lg-9 col-xl-6 col-10">
-                <div class="row align-items-center">
-                  <div class="col-md-3 col-4">
-                    <img
-                      class="rounded-circle"
-                      src="../assets/img/blogsm-1.png"
-                      style="width: 60px; height: 60px"
-                    />
-                  </div>
-                  <div class="col-md-6 col-8">
-                    <div class="mt-3">
-                      <h6 class="fw-semibold">Shreya Paul</h6>
-                      <p class="secondary">26 Nov, 2022</p>
-                    </div>
-                  </div>
-                </div>
+          <div class="accordion-item">
+            <h2 class="accordion-header" id="headingTwo">
+              <button
+                class="accordion-button collapsed"
+                type="button"
+                data-bs-toggle="collapse"
+                data-bs-target="#collapseTwo"
+                aria-expanded="false"
+                aria-controls="collapseTwo"
+              >
+                Are dental implants affordable?
+              </button>
+            </h2>
+            <div
+              id="collapseTwo"
+              class="accordion-collapse collapse"
+              aria-labelledby="headingTwo"
+              data-bs-parent="#accordionExample"
+            >
+              <div class="accordion-body">
+                <strong>This is the second item's accordion body.</strong> It is
+                hidden by default, until the collapse plugin adds the
+                appropriate classes that we use to style each element. These
+                classes control the overall appearance, as well as the showing
+                and hiding via CSS transitions. You can modify any of this with
+                custom CSS or overriding our default variables. It's also worth
+                noting that just about any HTML can go within the
+                <code>.accordion-body</code>, though the transition does limit
+                overflow.
               </div>
-              <div class="col-md-6 col-lg-3 col-xl-6 col-2 text-end">
-                <img src="../assets/img/share-2.svg" />
+            </div>
+          </div>
+          <div class="accordion-item">
+            <h2 class="accordion-header" id="headingThree">
+              <button
+                class="accordion-button collapsed"
+                type="button"
+                data-bs-toggle="collapse"
+                data-bs-target="#collapseThree"
+                aria-expanded="false"
+                aria-controls="collapseThree"
+              >
+                Is the Root Canal Treatment painful?
+              </button>
+            </h2>
+            <div
+              id="collapseThree"
+              class="accordion-collapse collapse"
+              aria-labelledby="headingThree"
+              data-bs-parent="#accordionExample"
+            >
+              <div class="accordion-body">
+                <strong>This is the third item's accordion body.</strong> It is
+                hidden by default, until the collapse plugin adds the
+                appropriate classes that we use to style each element. These
+                classes control the overall appearance, as well as the showing
+                and hiding via CSS transitions. You can modify any of this with
+                custom CSS or overriding our default variables. It's also worth
+                noting that just about any HTML can go within the
+                <code>.accordion-body</code>, though the transition does limit
+                overflow.
+              </div>
+            </div>
+          </div>
+          <div class="accordion-item">
+            <h2 class="accordion-header" id="headingFour">
+              <button
+                class="accordion-button collapsed"
+                type="button"
+                data-bs-toggle="collapse"
+                data-bs-target="#collapseFour"
+                aria-expanded="false"
+                aria-controls="collapseFour"
+              >
+                When can I resume work after the procedure?
+              </button>
+            </h2>
+            <div
+              id="collapseFour"
+              class="accordion-collapse collapse"
+              aria-labelledby="headingFour"
+              data-bs-parent="#accordionExample"
+            >
+              <div class="accordion-body">
+                <strong>This is the third item's accordion body.</strong> It is
+                hidden by default, until the collapse plugin adds the
+                appropriate classes that we use to style each element. These
+                classes control the overall appearance, as well as the showing
+                and hiding via CSS transitions. You can modify any of this with
+                custom CSS or overriding our default variables. It's also worth
+                noting that just about any HTML can go within the
+                <code>.accordion-body</code>, though the transition does limit
+                overflow.
+              </div>
+            </div>
+          </div>
+          <div class="accordion-item">
+            <h2 class="accordion-header" id="headingFive">
+              <button
+                class="accordion-button collapsed"
+                type="button"
+                data-bs-toggle="collapse"
+                data-bs-target="#collapseFive"
+                aria-expanded="false"
+                aria-controls="collapseFive"
+              >
+                Is Teeth Whitening treatment permanent?
+              </button>
+            </h2>
+            <div
+              id="collapseFive"
+              class="accordion-collapse collapse"
+              aria-labelledby="headingFive"
+              data-bs-parent="#accordionExample"
+            >
+              <div class="accordion-body">
+                <strong>This is the third item's accordion body.</strong> It is
+                hidden by default, until the collapse plugin adds the
+                appropriate classes that we use to style each element. These
+                classes control the overall appearance, as well as the showing
+                and hiding via CSS transitions. You can modify any of this with
+                custom CSS or overriding our default variables. It's also worth
+                noting that just about any HTML can go within the
+                <code>.accordion-body</code>, though the transition does limit
+                overflow.
               </div>
             </div>
           </div>

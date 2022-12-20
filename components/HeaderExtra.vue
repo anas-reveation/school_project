@@ -4,15 +4,18 @@
       <div class="row">
         <div class="col-lg-5 col-12 py-3" style="background-color: #04343b">
           <div class="row justify-content-end">
-            <div class="col-md-10 col-12">
+            <div
+              class="col-lg-10 col-md-12 col-12 text-md-center text-lg-start"
+            >
               <img
                 src="../assets/img/Alarm Clock.svg"
-                style="width: 24px; height: 24px"
+                style="width: 22px; height: 22px"
               />
               <span
                 ><a
                   href="mailto:drketulpatel05051976@gmail.com"
                   class="text-white text-decoration-none"
+                  style="font-size: 14px"
                   >Open Hours : Mon - Sat (9am to 1pm & 4pm to 7.30pm)</a
                 ></span
               >
@@ -25,28 +28,31 @@
         >
           <div class="row justify-content-center">
             <div class="col-md-12">
-              <div class="row">
+              <div
+                class="row justify-content-md-center justify-content-lg-start"
+              >
                 <div class="col-md-9">
                   <img
                     src="../assets/img/Email.svg"
-                    style="width: 24px; height: 24px"
+                    style="width: 22px; height: 22px"
                   />
                   <span
                     ><a
                       href="mailto:drketulpatel05051976@gmail.com"
                       class="text-white text-decoration-none me-3"
+                      style="font-size: 14px"
                       >drketulpatel05051976@gmail.com</a
                     ></span
                   >
                   <img
                     src="../assets/img/Phone.svg"
-                    style="width: 24px; height: 24px"
+                    style="width: 22px; height: 22px"
                   />
-                  <span
-                    >India,
+                  <span>
                     <a
                       href="tel: +91-9824038971"
                       class="text-white text-decoration-none"
+                      style="font-size: 14px"
                       >+91 - 9898025261</a
                     ></span
                   >

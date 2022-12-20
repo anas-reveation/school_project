@@ -2,7 +2,7 @@
   <div class="container psm-4 my-5 mt-5">
     <div class="col-12">
       <div
-        class="row justify-content-around gy-4 align-items-center overflow-hidden"
+        class="row justify-content-around gy-4 align-items-center aos-overflow"
       >
         <div
           class="col-md-12 col-lg-6 col-12"

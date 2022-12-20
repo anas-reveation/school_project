@@ -14,8 +14,11 @@
           <img src="../assets/img/bg-semicircle.svg" class="service-curve" />
           <div class="service-curve-1">
             <div class="text-center">
-              <img src="../assets/img/service1.svg" style="width: 88px" />
-              <h4 class="py-4 tertiary fw-semibold">General Dentistry</h4>
+              <img
+                src="../assets/img/serv-i1.svg"
+                style="width: 88px; height: 88px"
+              />
+              <h4 class="py-4 tertiary fw-semibold">Teeth Whitening</h4>
             </div>
             <p class="font-p">
               Lorem Ipsum is simply dummy text of the printing and typesetting
@@ -30,8 +33,11 @@
           <img src="../assets/img/bg-semicircle.svg" class="service-curve" />
           <div class="service-curve-1">
             <div class="text-center">
-              <img src="../assets/img/service1.svg" style="width: 88px" />
-              <h4 class="py-4 tertiary fw-semibold">Prediatic Dentistry</h4>
+              <img
+                src="../assets/img/serv-i2.svg"
+                style="width: 88px; height: 88px"
+              />
+              <h4 class="py-4 tertiary fw-semibold">Smile Designing</h4>
             </div>
             <p class="font-p">
               Lorem Ipsum is simply dummy text of the printing and typesetting
@@ -46,8 +52,11 @@
           <img src="../assets/img/bg-semicircle.svg" class="service-curve" />
           <div class="service-curve-1">
             <div class="text-center">
-              <img src="../assets/img/service1.svg" style="width: 88px" />
-              <h4 class="py-4 tertiary fw-semibold">Dental Bridge</h4>
+              <img
+                src="../assets/img/serv-i6.svg"
+                style="width: 88px; height: 88px"
+              />
+              <h4 class="py-4 tertiary fw-semibold">Clear Aligners</h4>
             </div>
             <p class="font-p">
               Lorem Ipsum is simply dummy text of the printing and typesetting
@@ -62,7 +71,10 @@
           <img src="../assets/img/bg-semicircle.svg" class="service-curve" />
           <div class="service-curve-1">
             <div class="text-center">
-              <img src="../assets/img/service1.svg" style="width: 88px" />
+              <img
+                src="../assets/img/serv-i3.svg"
+                style="width: 88px; height: 88px"
+              />
               <h4 class="py-4 tertiary fw-semibold">Oral Surgery</h4>
             </div>
             <p class="font-p">
@@ -78,8 +90,11 @@
           <img src="../assets/img/bg-semicircle.svg" class="service-curve" />
           <div class="service-curve-1">
             <div class="text-center">
-              <img src="../assets/img/service1.svg" style="width: 88px" />
-              <h4 class="py-4 tertiary fw-semibold">Oral Surgery</h4>
+              <img
+                src="../assets/img/serv-i4.svg"
+                style="width: 88px; height: 88px"
+              />
+              <h4 class="py-4 tertiary fw-semibold">Dental Implant</h4>
             </div>
             <p class="font-p">
               Lorem Ipsum is simply dummy text of the printing and typesetting
@@ -94,8 +109,11 @@
           <img src="../assets/img/bg-semicircle.svg" class="service-curve" />
           <div class="service-curve-1">
             <div class="text-center">
-              <img src="../assets/img/service1.svg" style="width: 88px" />
-              <h4 class="py-4 tertiary fw-semibold">Oral Surgery</h4>
+              <img
+                src="../assets/img/serv-i5.svg"
+                style="width: 88px; height: 88px"
+              />
+              <h4 class="py-4 tertiary fw-semibold">Root Canal</h4>
             </div>
             <p class="font-p">
               Lorem Ipsum is simply dummy text of the printing and typesetting
