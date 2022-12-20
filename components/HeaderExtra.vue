@@ -1,7 +1,7 @@
 <template>
   <div>
     <div class="container-fluid">
-      <div class="row justify-center">
+      <div class="row">
         <div class="col-lg-5 col-12 py-3" style="background-color: #04343b">
           <div class="row justify-content-end">
             <div class="col-md-10 col-12">
@@ -23,9 +23,9 @@
           class="col-lg-7 col-12 py-3"
           style="background-color: var(--dashed-img)"
         >
-          <div class="row">
-            <div class="col-md-10">
-              <div class="row justify-content-between">
+          <div class="row justify-content-center">
+            <div class="col-md-12">
+              <div class="row">
                 <div class="col-md-9">
                   <img
                     src="../assets/img/Email.svg"
