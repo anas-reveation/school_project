@@ -8,13 +8,12 @@
         </h2>
         <div class="p-3 mt-4 mb-2" style="background-color: var(--bg-element)">
           <p>
-            “Dental care is the maintenance of healthy teeth and the practice of
-            keeping the mouth and teeth clean pur sue pleasure rationally
-            encounter consequences that are extremely painful. Nor again is
-            there anyone”
+            {{ review.description }}
           </p>
           <p class="secondary fw-semibold">
-            <span class="primary">Shakib Hassan</span> (Root Canals)
+            <span class="primary">{{ review.name }}</span> ({{
+              review.diagnose
+            }})
           </p>
         </div>
         <a
@@ -37,10 +36,21 @@
             <img src="../assets/img/test-2.svg" class="test-img1" />
           </div>
           <div class="col-md-6 col-12 text-md-end text-center">
-            <img src="../assets/img/test-1.svg" />
+            <img :src="review.img" />
           </div>
         </div>
       </div>
     </div>
   </div>
 </template>
+
+<script>
+export default {
+  props: {
+    review: {
+      type: Object,
+      default: () => {},
+    },
+  },
+};
+</script>
