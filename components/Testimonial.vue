@@ -1,5 +1,5 @@
 <template>
-  <div class="container psm-4">
+  <!-- <div class="container psm-4">
     <div class="row gy-4 overflow-hidden">
       <div class="col-xl-6">
         <h6 class="secondary text-md-start text-center">Testimonial</h6>
@@ -46,10 +46,10 @@
         </div>
       </div>
     </div>
-  </div>
+  </div> -->
 </template>
 
-<script>
+<!-- <script>
 import { groq } from "@nuxtjs/sanity";
 export default {
   props: {
@@ -64,4 +64,4 @@ export default {
     return { reviews };
   },
 };
-</script>
+</script> -->

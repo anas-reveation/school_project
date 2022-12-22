@@ -8,7 +8,9 @@
             data-aos="zoom-in"
             data-aos-duration="400"
           >
-            <h1 class="text-white fw-semibold">Our Special Treatment</h1>
+            <h1 class="text-white fw-semibold text-center">
+              Our Special Treatment
+            </h1>
             <h2 class="primary fw-bold">What We Do</h2>
           </div>
         </div>

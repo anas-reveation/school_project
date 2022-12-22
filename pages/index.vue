@@ -2,15 +2,15 @@
   <div>
     <BannerHome />
     <FeatureHome />
-    <HomeAbout class="psm-4" />
-    <Services class="psm-4" />
-    <ChooseUs />
-    <MiddleBanner />
-    <Testimonial :review="review" />
-    <Profession />
-    <OurDoctors />
-    <Blogs />
-    <Contact style="margin-bottom: 4rem !important" />
+    <HomeAbout class="psm-4 mtsm" />
+    <Services class="psm-4 mtsm" />
+    <ChooseUs class="" />
+    <MiddleBanner class="mtsm" />
+    <Testimonial class="mtsm" :review="review" />
+    <Profession class="mbsm" />
+    <OurDoctors class="mtsm" />
+    <Blogs class="mtsm mbsm" />
+    <Contact class="mtsm" style="margin-bottom: 4rem !important" />
   </div>
 </template>
 

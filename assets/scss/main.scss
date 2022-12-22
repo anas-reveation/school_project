@@ -54,6 +54,9 @@
 .light-anc:hover{
     color: var(--light);
 }
+.hr-p {
+    border-top: 1px solid rgba(0,0,0,.35);
+}
 .shadow-s{
     box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.12);
 }
@@ -62,6 +65,15 @@
 }
 .font-sm{
     color: var(--font-small);
+}
+.tab-content p{
+    text-align: justify;
+}
+.speciality-p p{
+    text-align: justify;
+}
+.healthy-s p{
+    text-align: justify;
 }
 .bg-primary{
     background-color: var(--primary) !important;
@@ -100,6 +112,7 @@
 }
 .font-p{
     font-size: 12px;
+    text-align: justify;
 }
 .navbar-nav .nav-link.active, .navbar-nav .show>.nav-link{
     color: var(--primary);
@@ -264,6 +277,28 @@
     width: 106.338px;
     
 }
+.galleries::before{
+    background-color: var(--bg-element);
+    content: "";
+    margin-left: -35px;
+    height: 631.612px;
+    position: absolute;
+    z-index: -2;
+    width: 75.95px;
+    margin-top: -24px;
+    
+}
+.galleries::after{
+    background-color: var(--primary);
+    content: "";
+    height: 80.15px;
+    position: absolute;
+    z-index: -2;
+    margin-left: -86px;
+    margin-top: 32rem;
+    width: 106.338px;
+    
+}
 .service-curve {
     right: 15%;
     position: relative;
@@ -350,6 +385,16 @@
     width: 51.95px;
     margin-top: -15px;
     }
+    .galleries::before{
+        background-color: var(--bg-element);
+        content: "";
+        margin-left: -8px;
+        height: 194.612px;
+        position: absolute;
+        z-index: -2;
+        width: 51.95px;
+        margin-top: -17px;
+        }
     .aboutbg::before{
     margin-top: 158px;
     margin-left: -11px;
@@ -358,6 +403,9 @@
     }
     .btn-special {
         font-size: 14px;
+    }
+    .gallery-sm img{
+        height: 100% !important;
     }
     .accord .accordion-item h2 button{
         font-size: 18px;
@@ -368,6 +416,14 @@
         z-index: -2;
         margin-left: -89px;
         margin-top: -5px;
+        width: 93.338px;
+    }
+    .galleries::after{
+        height: 80.15px;
+        position: absolute;
+        z-index: -2;
+        margin-left: -81px;
+        margin-top: -10px;
         width: 93.338px;
     }
     .choose-bg::before{
@@ -404,6 +460,12 @@
     }
     .psm-4{
         padding: 1.5rem;
+    }
+    .mtsm{
+        margin-top: 1rem !important;
+    }
+    .mbsm{
+        margin-bottom: 0rem !important;
     }
     .sev-2{
         margin-left: 0rem;
@@ -463,6 +525,16 @@
        .ul-l ul li{
            font-size: 10px;
        }
+       .gallery-sm img{
+        height: 208px !important;
+    }
+    .galleries::before{
+    margin-left: -18px;
+    height: 358.612px;
+    }
+    .galleries::after{
+        margin-top: 15rem;
+    }
     .middle-bg h1{
         font-size: 18px;
     }
@@ -472,6 +544,12 @@
     }
     .aboutbg::before{
         margin-top: 400px;
+    }
+    .ipad-p{
+        padding: 12px  !important;
+    }
+    .healthy-s{
+        padding-top: 12px;
     }
     .accord-elem{
         margin-left: 26rem !important;
@@ -511,6 +589,9 @@
     }
     .choose-bg1::after{
         margin-left: 54rem;
+    }
+    .gallery-sm img{
+        height: 282px !important;
     }
     .middle-bg{
       padding: 14px 0px 31px 0px;

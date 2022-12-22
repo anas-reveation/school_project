@@ -25,14 +25,14 @@
         <h2 class="fw-bold pb-4 text-center text-md-start secondary">
           Meet the <span class="primary">Best Dentists</span>
         </h2>
-        <p class="pt-2">
+        <p class="pt-2" style="text-align: justify">
           With over 22 years of experience, Vardan Dental Clinic & Implant
           Center is dedicated to providing the large volume, high quality and
           affordable care. The Clinic is a go-to dental clinic in Gujarat
           equipped with modern tools and techniques for the comprehensive
           management and treatment of all dental conditions.
         </p>
-        <p>
+        <p style="text-align: justify">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
           minim veniam, quis nostrud exercitation ullamco laboris nisi ut

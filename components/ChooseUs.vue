@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div class="container my-5 choose-bg1 mb-5 psm-4" id="home_section">
+    <div class="container my-5 choose-bg1 mb-5 psm-4 mtsm" id="home_section">
       <div class="row gy-5">
         <div class="col-md-6 d-flex justify-content-center choose-bg">
           <div>
@@ -31,7 +31,7 @@
               </div>
               <div class="col-md-9 col-lg-10">
                 <h4 class="primary fw-bold">Expert Dentist</h4>
-                <p class="font-p">
+                <p class="font-p" style="text-align: justify">
                   Lorem Ipsum is simply dummy text of the printing and
                   typesetting industry. Lorem Ipsum has been the industry's uke
                   loahm
@@ -47,7 +47,7 @@
               </div>
               <div class="col-md-9 col-lg-10">
                 <h4 class="primary fw-bold">24/7 Advance Care</h4>
-                <p class="font-p">
+                <p class="font-p" style="text-align: justify">
                   Lorem Ipsum is simply dummy text of the printing and
                   typesetting industry. Lorem Ipsum has been the industry's uke
                   loahm
@@ -63,7 +63,7 @@
               </div>
               <div class="col-lg-10 col-md-9">
                 <h4 class="primary fw-bold">Available Products</h4>
-                <p class="font-p">
+                <p class="font-p" style="text-align: justify">
                   Lorem Ipsum is simply dummy text of the printing and
                   typesetting industry. Lorem Ipsum has been the industry's uke
                   loahm

@@ -24,13 +24,13 @@
           <h2 class="fw-bold secondary text-center text-md-start">
             The Best Dental Clinic near you <span class="primary"></span>
           </h2>
-          <P
+          <P style="text-align: justify"
             >Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
             eiusmod tempor incididunt ut labore et dolore magna aliqua. ip ex ea
             commodo consequat. Duis aute irure dolor in reprehenderit in
             voluptate velit esse cillum</P
           >
-          <P class="primary"
+          <P class="primary" style="text-align: justify"
             >ip ex ea commodo consequat. Duis aute irure dolor in reprehenderit
             in voluptate velit esse cillum</P
           >

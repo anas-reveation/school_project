@@ -8,7 +8,7 @@
           <h1 class="fw-bold text-white">
             Your great smile begins with a great DENTIST!
           </h1>
-          <p class="text-white">
+          <p class="text-white" style="text-align: justify">
             Lorem Ipsum is simply dummy text of the printing and typesetting
             industry. Lorem Ipsum has been the industry's uke loahm hjf jkzir
             run to there impo so ehk day lor ben bdha aoa bdhpo qw

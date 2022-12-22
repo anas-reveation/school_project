@@ -1,7 +1,7 @@
 {
-  "http://localhost:51034/200.html": "https://storage.googleapis.com/lighthouse-infrastructure.appspot.com/reports/1671538691207-3347.report.html",
-  "http://localhost:51034/index.html": "https://storage.googleapis.com/lighthouse-infrastructure.appspot.com/reports/1671538692714-92792.report.html",
-  "http://localhost:51034/AboutUs/index.html": "https://storage.googleapis.com/lighthouse-infrastructure.appspot.com/reports/1671538693982-13737.report.html",
-  "http://localhost:51034/OurDentist/index.html": "https://storage.googleapis.com/lighthouse-infrastructure.appspot.com/reports/1671538695213-31555.report.html",
-  "http://localhost:51034/ServiceDetail/index.html": "https://storage.googleapis.com/lighthouse-infrastructure.appspot.com/reports/1671538696545-31457.report.html"
+  "http://localhost:49982/200.html": "https://storage.googleapis.com/lighthouse-infrastructure.appspot.com/reports/1671629008606-87979.report.html",
+  "http://localhost:49982/index.html": "https://storage.googleapis.com/lighthouse-infrastructure.appspot.com/reports/1671629010108-23967.report.html",
+  "http://localhost:49982/AboutUs/index.html": "https://storage.googleapis.com/lighthouse-infrastructure.appspot.com/reports/1671629011563-527.report.html",
+  "http://localhost:49982/OurDentist/index.html": "https://storage.googleapis.com/lighthouse-infrastructure.appspot.com/reports/1671629013280-73913.report.html",
+  "http://localhost:49982/ServiceDetail/index.html": "https://storage.googleapis.com/lighthouse-infrastructure.appspot.com/reports/1671629014689-93040.report.html"
 }

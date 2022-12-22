@@ -58,13 +58,25 @@
                   >
                 </div>
                 <div class="col-md-2">
-                  <img src="../assets/img/fb.svg" alt="fb" class="me-3" />
-                  <img
-                    src="../assets/img/twitter1.svg"
-                    alt="twitter"
-                    class="me-3"
-                  />
-                  <img src="../assets/img/Instagram.svg" alt="insta" />
+                  <a
+                    href="https://www.facebook.com/profile.php?id=100088409476132"
+                    target="_blank"
+                  >
+                    <img src="../assets/img/fb.svg" alt="fb" class="me-3" />
+                  </a>
+                  <a href="https://twitter.com/VardanDental" target="_blank">
+                    <img
+                      src="../assets/img/twitter1.svg"
+                      alt="twitter"
+                      class="me-3"
+                    />
+                  </a>
+                  <a
+                    href="https://www.instagram.com/vardan_dental_clinic/"
+                    target="_blank"
+                  >
+                    <img src="../assets/img/Instagram.svg" alt="insta" />
+                  </a>
                 </div>
               </div>
             </div>

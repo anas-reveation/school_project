@@ -15,7 +15,7 @@
         </p>
       </div>
     </div>
-    <TeethService class="sev-2 mt-5 pt-4" />
+    <TeethService class="sev-2 mt-5 pt-5" />
     <ResultsTeeth class="sev-2 mt-5 pt-3" />
   </div>
 </template>

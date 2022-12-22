@@ -5,7 +5,7 @@
     </h2>
     <div class="row healthy-s">
       <div
-        class="col-md-6 col-lg-4 col-12 p-5"
+        class="col-md-4 col-lg-4 col-12 p-5 ipad-p"
         data-aos="zoom-in"
         data-aos-offset="300"
         data-aos-easing="ease-in-sine"
@@ -25,7 +25,7 @@
         </div>
       </div>
       <div
-        class="col-md-6 col-lg-4 col-12 p-5"
+        class="col-md-4 col-lg-4 col-12 p-5 ipad-p"
         data-aos="zoom-in"
         data-aos-offset="300"
         data-aos-easing="ease-in-sine"
@@ -45,7 +45,7 @@
         </div>
       </div>
       <div
-        class="col-md-6 col-lg-4 col-12 p-5"
+        class="col-md-4 col-lg-4 col-12 p-5 ipad-p"
         data-aos="zoom-in"
         data-aos-offset="300"
         data-aos-easing="ease-in-sine"

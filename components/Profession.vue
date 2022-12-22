@@ -5,7 +5,7 @@
       <h2 class="fw-bold text-center secondary">
         Trust the <span class="primary">professionals</span>
       </h2>
-      <div class="row mt-5 gy-4 align-items-center">
+      <div class="row mt-5 mtsm gy-4 align-items-center">
         <div class="col-lg-6 col-md-12 col-12">
           <h2
             class="fw-bold text-md-start text-center secondary d-none d-md-block mb-3"
@@ -13,7 +13,7 @@
           >
             Our Doctors of <span class="primary">Vardan</span>
           </h2>
-          <p>
+          <p style="text-align: justify">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
             eiusmod tempor incididunt ut labore et dolore magnmhba aliqua. Ut
             enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
@@ -25,7 +25,7 @@
             incididunt ut labore et dolore magna aliqua. Ut enim ad minim
             veniam, quisvoutv nos
           </p>
-          <p>
+          <p style="text-align: justify">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
             eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
             ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut

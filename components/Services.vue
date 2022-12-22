@@ -20,7 +20,7 @@
               />
               <h4 class="py-4 tertiary fw-semibold">Teeth Whitening</h4>
             </div>
-            <p class="font-p">
+            <p class="font-p" style="text-align: justify">
               Lorem Ipsum is simply dummy text of the printing and typesetting
               industry. Lorem Ipsum has been the industry's uke loahm
             </p>
@@ -39,7 +39,7 @@
               />
               <h4 class="py-4 tertiary fw-semibold">Smile Designing</h4>
             </div>
-            <p class="font-p">
+            <p class="font-p" style="text-align: justify">
               Lorem Ipsum is simply dummy text of the printing and typesetting
               industry. Lorem Ipsum has been the industry's uke loahm
             </p>
@@ -58,7 +58,7 @@
               />
               <h4 class="py-4 tertiary fw-semibold">Clear Aligners</h4>
             </div>
-            <p class="font-p">
+            <p class="font-p" style="text-align: justify">
               Lorem Ipsum is simply dummy text of the printing and typesetting
               industry. Lorem Ipsum has been the industry's uke loahm
             </p>
@@ -77,7 +77,7 @@
               />
               <h4 class="py-4 tertiary fw-semibold">Oral Surgery</h4>
             </div>
-            <p class="font-p">
+            <p class="font-p" style="text-align: justify">
               Lorem Ipsum is simply dummy text of the printing and typesetting
               industry. Lorem Ipsum has been the industry's uke loahm
             </p>
@@ -96,7 +96,7 @@
               />
               <h4 class="py-4 tertiary fw-semibold">Dental Implant</h4>
             </div>
-            <p class="font-p">
+            <p class="font-p" style="text-align: justify">
               Lorem Ipsum is simply dummy text of the printing and typesetting
               industry. Lorem Ipsum has been the industry's uke loahm
             </p>
@@ -115,7 +115,7 @@
               />
               <h4 class="py-4 tertiary fw-semibold">Root Canal</h4>
             </div>
-            <p class="font-p">
+            <p class="font-p" style="text-align: justify">
               Lorem Ipsum is simply dummy text of the printing and typesetting
               industry. Lorem Ipsum has been the industry's uke loahm
             </p>

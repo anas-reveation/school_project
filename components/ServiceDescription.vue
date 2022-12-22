@@ -21,13 +21,13 @@
             <h2 class="fw-bold secondary text-center text-md-start">
               We Make Your <span class="primary">Smile Beautiful</span>
             </h2>
-            <P
+            <P style="text-align: justify"
               >Dental care is the maintenance of healthy teeth and the practice
               of keeping the mouth and teeth clean pur sue pleasure rationally
               encounter consequences that are extremely painful. Nor again is
               there anyone</P
             >
-            <P class="primary"
+            <P class="primary" style="text-align: justify"
               >You need to brush your teeth everyday for healty teeth and simle
               so you need to brush your teeth regularly for better refrehment
               and ming.</P
@@ -36,7 +36,7 @@
         </div>
       </div>
     </div>
-    <div class="container my-5 py-4">
+    <div class="container my-5 py-4 mtsm">
       <h2 class="fw-bold secondary text-center text-center">
         Our <span class="primary">Best</span> Services
       </h2>
@@ -167,6 +167,34 @@
                 Periodontal Flap Surgery
               </button>
             </li>
+            <li class="nav-item mt-3" role="presentation">
+              <button
+                class="nav-link"
+                id="pills-child-tab"
+                data-bs-toggle="pill"
+                data-bs-target="#pills-child"
+                type="button"
+                role="tab"
+                aria-controls="pills-child"
+                aria-selected="false"
+              >
+                Child Dental Care
+              </button>
+            </li>
+            <li class="nav-item mt-3" role="presentation">
+              <button
+                class="nav-link"
+                id="pills-cardio-tab"
+                data-bs-toggle="pill"
+                data-bs-target="#pills-cardio"
+                type="button"
+                role="tab"
+                aria-controls="pills-cardio"
+                aria-selected="false"
+              >
+                Cardio Diabetic Dental Care
+              </button>
+            </li>
           </div>
         </ul>
         <div
@@ -236,6 +264,22 @@
             aria-labelledby="pills-flap-tab"
           >
             <Periodontal />
+          </div>
+          <div
+            class="tab-pane fade"
+            id="pills-child"
+            role="tabpanel"
+            aria-labelledby="pills-child-tab"
+          >
+            <ChildDental />
+          </div>
+          <div
+            class="tab-pane fade"
+            id="pills-cardio"
+            role="tabpanel"
+            aria-labelledby="pills-cardio-tab"
+          >
+            <CardioDental />
           </div>
         </div>
       </div>

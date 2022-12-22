@@ -15,7 +15,7 @@
         </p>
       </div>
     </div>
-    <RootCanalService class="sev-2 mt-5 pt-4" />
+    <RootCanalService class="sev-2 mt-5 pt-5" />
     <ResultsRootCanal class="sev-2 mt-5 pt-3" />
   </div>
 </template>
