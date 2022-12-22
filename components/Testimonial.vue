@@ -7,6 +7,11 @@
           Happy Patients with <span class="primary">Satisfaction words</span>
         </h2>
         <div class="p-3 mt-4 mb-2" style="background-color: var(--bg-element)">
+          <div v-for="revi in reviews" :key="revi._id">
+            <h2>
+              <a v-bind:href="review.slug.current" v-text="revi.title"></a>
+            </h2>
+          </div>
           <p>
             {{ review.description }}
           </p>
@@ -45,12 +50,18 @@
 </template>
 
 <script>
+import { groq } from "@nuxtjs/sanity";
 export default {
   props: {
     review: {
       type: Object,
       default: () => {},
     },
+  },
+  async asyncData({ $sanity }) {
+    const query = groq`*[_type == "review"]`;
+    const reviews = await $sanity.fetch(query);
+    return { reviews };
   },
 };
 </script>
