@@ -1,4 +1,5 @@
 export default {
+  target: "static",
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
     title: "Dental",
@@ -24,7 +25,7 @@ export default {
   components: true,
 
   // Modules for dev and build (recommended): https://go.nuxtjs.dev/config-modules
-  buildModules: ["@nuxtjs/sanity"],
+  buildModules: ["@nuxtjs/sanity/module"],
 
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
