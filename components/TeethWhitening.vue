@@ -5,13 +5,19 @@
       <div class="mt-4">
         <h4 class="service-t fw-semibold">What is Teeth Whitening?</h4>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat. Duis aute irure dolor in
-          reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-          pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-          culpa qui officivvvga deserunt mollit anim id est laborum.
+          The term "teeth whitening" describes several procedures intended to
+          enhance the brightness and whiteness of someone's natural teeth.
+          Sanding away stains, bleaching, ultraviolet (UV) light therapy, and
+          other techniques are used to whiten teeth.
+        </p>
+        <p>
+          Almost everyone who chooses a teeth whitening method notices a
+          moderate to a significant increase in the brilliance and clarity of
+          their smile. Nevertheless, it is a temporary fix for discolouration
+          and calls for upkeep or "touch-ups" for a lasting look. Your partner
+          for cost-effective yet high-quality teeth whitening options is Vardan
+          Dental Clinic. We hope to help your smile regain some of its original
+          natural beauty through quick, effective procedures.
         </p>
       </div>
     </div>

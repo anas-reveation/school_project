@@ -44,7 +44,7 @@
             <div class="text-center">
               <img src="../assets/img/doctor 1.svg" style="width: 88px" />
               <h5 class="py-4 secondary fw-bold">
-                Dr. Nimesh Patel
+                Dr. Rahul Dhanak
                 <span class="primary fw-light" style="font-size: 14px">
                   (MBBS, BDS)</span
                 >
@@ -65,7 +65,7 @@
             <div class="text-center">
               <img src="../assets/img/doctor 1.svg" style="width: 88px" />
               <h5 class="py-4 secondary fw-bold">
-                Dr. Nimesh Patel
+                Dr. Hardik Patel
                 <span class="primary fw-light" style="font-size: 14px">
                   (MBBS, BDS)</span
                 >
@@ -86,7 +86,7 @@
             <div class="text-center">
               <img src="../assets/img/doctor 1.svg" style="width: 88px" />
               <h5 class="py-4 secondary fw-bold">
-                Dr. Nimesh Patel
+                Dr. Birjesh Patel
                 <span class="primary fw-light" style="font-size: 14px">
                   (MBBS, BDS)</span
                 >
@@ -107,28 +107,7 @@
             <div class="text-center">
               <img src="../assets/img/doctor 1.svg" style="width: 88px" />
               <h5 class="py-4 secondary fw-bold">
-                Dr. Nimesh Patel
-                <span class="primary fw-light" style="font-size: 14px">
-                  (MBBS, BDS)</span
-                >
-              </h5>
-            </div>
-            <p class="font-p">
-              Lorem Ipsum is simply dummy text of the printing and typesetting
-              industry. Lorem Ipsum has been the industry's uke loahm
-            </p>
-          </div>
-          <img src="../assets/img/element.svg" class="service-curve-2" />
-        </div>
-      </div>
-      <div class="col-md-6 col-lg-4">
-        <div class="shadow px-5 py-4 h-100">
-          <img src="../assets/img/bg-semicircle.svg" class="service-curve" />
-          <div class="service-curve-1">
-            <div class="text-center">
-              <img src="../assets/img/doctor 1.svg" style="width: 88px" />
-              <h5 class="py-4 secondary fw-bold">
-                Dr. Nimesh Patel
+                Dr. Dhrumin
                 <span class="primary fw-light" style="font-size: 14px">
                   (MBBS, BDS)</span
                 >

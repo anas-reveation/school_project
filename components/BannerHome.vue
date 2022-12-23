@@ -9,16 +9,16 @@
             data-aos-offset="300"
             data-aos-easing="ease-in-sine"
           >
-            <div class="text-white pt-5 mt-5 pb-5 home-sm">
+            <div class="text-white pt-5 mt-3 pb-5 home-sm">
               <h1 class="py-3 fw-bold" style="font-size: 58px">
-                Check Your Dental
-                <span class="fw-bold primary">Health Today</span>
+                Restore Your Smile with
+                <span class="fw-bold primary">Vardan Dental Treatment</span>
               </h1>
               <p class="text-white text-justify">
-                Lorem Ipsum is simply dummy text of the printing and typesetting
-                industry. Lorem Ipsum has been the industry's standard dummy
-                text ever since the 1500s, when an unknown printer took a galley
-                of type
+                Vardan dental treatment is a restorative surgery to replace
+                missing teeth and restore your smile back to its original
+                beauty. With this treatment, you can return one or two missing
+                teeth without needing dentures or bridges.
               </p>
               <div class="mt-5 pt-3">
                 <a
@@ -32,7 +32,7 @@
                     style="background-color: var(--light); border-radius: 19px"
                     ><img src="../assets/img/arrow-right.svg" />
                   </span>
-                  <span class="ps-1 fw-semibold"> Whatsapp Us Today</span>
+                  <span class="ps-1 fw-semibold"> Schedule an Appointment</span>
                 </a>
               </div>
             </div>

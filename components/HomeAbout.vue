@@ -33,10 +33,11 @@
           management and treatment of all dental conditions.
         </p>
         <p style="text-align: justify">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequa
+          We are known for delivering advanced dental care at affordable rates
+          by keeping their operating costs low and providing value to customers.
+          We believe in serving the community with compassion and integrity. The
+          clinic has been serving the people of Gujarat for over a decade with
+          its top-notch dental services.
         </p>
       </div>
     </div>

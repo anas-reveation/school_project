@@ -22,15 +22,15 @@
               We Make Your <span class="primary">Smile Beautiful</span>
             </h2>
             <P style="text-align: justify"
-              >Dental care is the maintenance of healthy teeth and the practice
-              of keeping the mouth and teeth clean pur sue pleasure rationally
-              encounter consequences that are extremely painful. Nor again is
-              there anyone</P
-            >
+              >At Vardan Dental, we strive to provide every patient with the
+              dental care they require. In keeping with this and our dedication
+              to providing the finest calibre dental treatment, we offer a vast
+              array of services that span the whole dental spectrum.
+            </P>
             <P class="primary" style="text-align: justify"
-              >You need to brush your teeth everyday for healty teeth and simle
-              so you need to brush your teeth regularly for better refrehment
-              and ming.</P
+              >We sincerely care about your dental health and general
+              well-being. Thus, our Vardan dental care facility is more than
+              just a clinic.</P
             >
           </div>
         </div>
@@ -192,7 +192,7 @@
                 aria-controls="pills-cardio"
                 aria-selected="false"
               >
-                Cardio Diabetic Dental Care
+                Cardiac Diabetic Dental Care
               </button>
             </li>
           </div>

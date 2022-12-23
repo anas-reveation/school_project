@@ -5,13 +5,14 @@
       <div class="mt-4">
         <h4 class="service-t fw-semibold">What is Wisdom Tooth Removal?</h4>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat. Duis aute irure dolor in
-          reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-          pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-          culpa qui officivvvga deserunt mollit anim id est laborum.
+          The four permanent adult teeth, known as wisdom teeth, are placed at
+          the top and bottom back corners of your mouth. A wisdom tooth
+          extraction is a surgical procedure to remove one or more of these
+          teeth. You'll need to have a wisdom tooth extracted if it is impacted
+          or causing you pain, an infection, or other dental issues. An oral
+          surgeon or a dentist can remove a wisdom tooth. Even if impacted teeth
+          aren't causing issues, some dentists and oral surgeons advise wisdom
+          tooth extraction to avoid future problems.
         </p>
       </div>
     </div>
@@ -20,13 +21,15 @@
       <div class="col-md-12 col-lg-5">
         <h4 class="service-t fw-semibold">Benifits of Wishdom Tooth Removal</h4>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat. Duis aute irure dolor in
-          reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-          pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-          culpa qui officivvvga deserunt mollit anim id est laborum.
+          When wisdom teeth grow in and erupt, they may crowd your teeth and
+          harm other molars. Wisdom teeth can eventually cause alignment
+          problems if there isn't enough room for them because other teeth are
+          gradually pushed out of the way. As a result, getting your wisdom
+          teeth out reduces the possibility of requiring braces or different
+          pricey types of corrective surgery to fix your teeth' alignment.
+          Having your wisdom teeth removed minimizes the possibility of your
+          carefully crafted smile being undone, especially if you've already
+          undergone braces or oral surgery for correction.
         </p>
       </div>
       <div class="col-md-12 col-lg-7">
@@ -54,13 +57,9 @@
         </div>
       </div>
       <p>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-        veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-        commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-        velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
-        occaecat cupidatat non proident, sunt in culpa qui officivvvga deserunt
-        mollit anim id est laborum.
+        These photos of actual wisdom teeth, or third molars, were taken at our
+        Vardan dentist's office. These are intraoral clinical photographs of
+        either erupted or impacted wisdom teeth.
       </p>
     </div>
   </div>

@@ -1,6 +1,11 @@
 <template>
   <div class="middle-bg">
     <div class="container psm-4">
+      <img
+        src="../assets/img/middle-elemtn.svg"
+        class="d-none d-md-block"
+        style="position: absolute; margin-top: 124px; margin-left: -110px"
+      />
       <div class="row align-items-center">
         <div
           class="col-md-7 col-12 d-flex justify-content-center flex-column align-items-md-start align-items-center"
@@ -9,9 +14,10 @@
             Your great smile begins with a great DENTIST!
           </h1>
           <p class="text-white" style="text-align: justify">
-            Lorem Ipsum is simply dummy text of the printing and typesetting
-            industry. Lorem Ipsum has been the industry's uke loahm hjf jkzir
-            run to there impo so ehk day lor ben bdha aoa bdhpo qw
+            Do you want dental care with current equipment and professional
+            dental practice? Are you trying to get the greatest dental implants
+            in India at a reasonable price? Reach us today, and we will provide
+            further details regarding your dental inquiry.
           </p>
           <div class="mt-5 pt-3">
             <a

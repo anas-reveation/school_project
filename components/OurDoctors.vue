@@ -44,7 +44,7 @@
           <div class="text-center pb-2">
             <img
               class="rounded-circle"
-              src="../assets/img/doctor-1.png"
+              src="../assets/img/ourdoc-2.png"
               style="width: 187px; height: 198px"
             />
           </div>

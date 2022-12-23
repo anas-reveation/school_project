@@ -174,16 +174,16 @@
     margin-left: -17px;
 }
 .choose-bg1::after{
-    background-color: var(--primary);
+    background-image: url(../img/Rectangle-seven.svg);
     content: "";
     z-index: -1;
     position: absolute;
-    height: 25.2px;
+    height: 34.15px;
+    background-size: cover;
+    right: 1%;
     align-items: center;
     display: flex;
     width: 91.15px;
-    margin-left: 81rem;
-    margin-top: -30px;
 }
 .our-doc::before{
     background-image: url(../img/Ellipse.svg);
@@ -522,6 +522,9 @@
        .add-f span{
            font-size: 10px;
        }
+       .home-sm{
+        margin-top: -1rem !important;
+       }
        .ul-l ul li{
            font-size: 10px;
        }
@@ -563,10 +566,10 @@
     .choose-bg::after{
         display: none;
     }
-    .choose-bg1::after{
-    margin-left: 38rem;
-    margin-top: -19px;
-    }
+    // .choose-bg1::after{
+    // margin-left: 38rem;
+    // margin-top: -19px;
+    // }
     .sev-2{
         margin-left: 0rem;
     }
@@ -587,9 +590,9 @@
     .sev-2 {
         margin-left: -1rem;
     }
-    .choose-bg1::after{
-        margin-left: 54rem;
-    }
+    // .choose-bg1::after{
+    //     margin-left: 54rem;
+    // }
     .gallery-sm img{
         height: 282px !important;
     }
@@ -598,6 +601,15 @@
     }
     .aboutbg::before{
         margin-top: 251px;
+    }
+    .galleries::before{
+        height: 462.612px;
+    }
+    .galleries::after{
+        margin-top: 22rem;
+    }
+    .sd-bg::before{
+        height: 376.612px;
     }
 }
 @media (min-width: 1200px){

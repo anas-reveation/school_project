@@ -8,13 +8,18 @@
       <div class="mt-4">
         <h4 class="service-t fw-semibold">What is Dental Implant?</h4>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat. Duis aute irure dolor in
-          reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-          pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-          culpa qui officivvvga deserunt mollit anim id est laborum.
+          The most popular and best option for restoring your missing tooth or
+          teeth is, without a doubt, a dental implant. In the past 25 years,
+          they have unquestionably changed the direction of dentistry. To
+          function as a tooth root, a dental implant is a titanium post
+          surgically implanted into the jawbone below the gum line. To ensure
+          that the implant looks like a natural tooth after placement, an
+          implantologist will place a crown there. Not only do tooth implants
+          feel and look like your natural teeth, but they also perform
+          similarly. Even though our implants are some of the most reasonably
+          priced in the region, we know they can be expensive. We provide
+          payment options that are tailored to you and your particular situation
+          as a result.
         </p>
       </div>
     </div>

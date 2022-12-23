@@ -7,13 +7,19 @@
           What is Smile Designing Treatment?
         </h4>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat. Duis aute irure dolor in
-          reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-          pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-          culpa qui officivvvga deserunt mollit anim id est laborum.
+          Smile Design Treatment is a cosmetic surgery that focuses on enhancing
+          the look of your smile using specific techniques such as composite
+          bonding, dental veneers, teeth whitening, and tooth implants. People
+          with tooth decay, tooth sensitivity, discoloration, and bacterial
+          plaque frequently choose this makeover procedure. This treatment
+          considers several variables, such as lips, gum tissues, skin tone, and
+          facial features.
+        </p>
+        <p>
+          Smile design is a cosmetic dentistry surgery that improves the
+          appearance and health of your teeth by repairing minor flaws. It
+          incorporates a tailored treatment and long-lasting results for a
+          straighter, whiter, and more realistic-looking smile.
         </p>
       </div>
     </div>
@@ -22,13 +28,14 @@
       <div class="col-md-12 col-lg-5">
         <h4 class="service-t fw-semibold">Benifits of Smile Designing</h4>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat. Duis aute irure dolor in
-          reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-          pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-          culpa qui officivvvga deserunt mollit anim id est laborum.
+          Our dental team at Vardan is committed to providing treatments that
+          meet each patient's specific needs and help them achieve the desired
+          look. Your self-confidence can be significantly increased by having a
+          healthy smile, and we provide a variety of therapies to help you do
+          so. They can also provide you with various models to help you better
+          picture how your new smile will appear and feel. That's what Smile
+          Designing does! With a bit of planning, you can see your smile change
+          before your eyes.
         </p>
       </div>
       <div class="col-md-12 col-lg-7">
@@ -56,13 +63,8 @@
         </div>
       </div>
       <p>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-        veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-        commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-        velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
-        occaecat cupidatat non proident, sunt in culpa qui officivvvga deserunt
-        mollit anim id est laborum.
+        At Vardan, we offer a thorough treatment planning procedure so you can
+        choose the strategy that is the best fit for you.
       </p>
     </div>
   </div>

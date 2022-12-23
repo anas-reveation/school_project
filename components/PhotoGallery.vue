@@ -14,7 +14,7 @@
               style="width: 100%; height: 100%"
             />
           </div>
-          <p class="mt-4">
+          <p class="mt-4" style="text-align: justify">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
             eiusmod tempor incididunt ut labore et dolore magna aliqua. ip ex ea
             commodo consequat. Duis aute irure dolor in reprehenderit in
@@ -113,7 +113,7 @@
           </div>
         </div>
       </div>
-      <p class="mt-5">
+      <p class="mt-5" style="text-align: justify">
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
         tempor incididunt ut labore et dolore magna aliqua. ip ex eavv io
         commodo consequat. Duis aute irure dolor in reprehenderit in voluptate

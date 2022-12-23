@@ -3,14 +3,13 @@
     <div class="col-md-12 col-lg-5">
       <h4 class="service-t fw-semibold">Benifits of Teeth Whitening</h4>
       <p>
-        Dental care is the maintenance of healthy teeth and the practice of
-        keeping the mouth are and teeth clean pur sue pleasure rationally
-        encounter consequences that are extreme is a painful. Nor again is there
-        anyone pursue pleasure rationally encounter consequences sun that are
-        extremely painful. Nor again is there anyone who loves or pursues or
-        desires do to obtain pain of itself, because it is pain, but because
-        occasionally circumstances occ the ur in which toil and pain can procure
-        him some great pleasure.
+        It's Quick to Whiten Your Teeth. It frequently takes a long time for
+        operations to be effective, both during and after. Whitening your teeth
+        is different from those drawn-out processes. A skilled dentist should be
+        able to improve your smile in about an hour with teeth whitening! While
+        a few over-the-counter teeth whitening treatments make similar claims,
+        the outcomes and timeliness you'll experience working with a dental
+        professional are unsurpassed.
       </p>
     </div>
     <div class="col-md-12 col-lg-7">

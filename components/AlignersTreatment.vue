@@ -5,13 +5,20 @@
       <div class="mt-4">
         <h4 class="service-t fw-semibold">What is Clear Aligners Treatment?</h4>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat. Duis aute irure dolor in
-          reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-          pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-          culpa qui officivvvga deserunt mollit anim id est laborum.
+          As an alternative to traditional braces, clear aligners are made to
+          assist in moving teeth into the right position. Clear aligners, which
+          lack metal wires and brackets but employ a progressive force to
+          control tooth movement, are similar to braces. The aligners are
+          designed to fit each person's mouth out of sturdy plastic. If a series
+          of aligners is required, the teeth are moved incrementally with each
+          aligner until the necessary movement is accomplished.
+        </p>
+        <p>
+          For alignment devices to work as effectively as possible, wearers must
+          wear them for at least 20 hours daily. Before moving on to the
+          subsequent aligner, each one is worn for three weeks. The severity of
+          each condition determines how long each person has to wear aligners
+          for treatment.
         </p>
       </div>
     </div>
@@ -20,13 +27,14 @@
       <div class="col-md-12 col-lg-5">
         <h4 class="service-t fw-semibold">Benifits of Aligners Treatment</h4>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat. Duis aute irure dolor in
-          reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-          pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-          culpa qui officivvvga deserunt mollit anim id est laborum.
+          Clear aligners are a fantastic alternative for people who desire a
+          straighter smile but do not want to wear traditional metal braces.
+          Additionally, individuals who have had orthodontic treatment in the
+          past and want to make small changes to their smile can benefit from
+          aligners. Clear Aligners will improve your oral well-being and health
+          once your teeth are straight. This is so that you can brush and floss
+          your teeth more easily if they are straight. This is because you'll be
+          able to clean all of your teeth's surfaces of plaque and food debris.
         </p>
       </div>
       <div class="col-md-12 col-lg-7">
@@ -54,13 +62,9 @@
         </div>
       </div>
       <p>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-        veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-        commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-        velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
-        occaecat cupidatat non proident, sunt in culpa qui officivvvga deserunt
-        mollit anim id est laborum.
+        View before and after pictures of clear Aligners taken at the Vardan
+        dental clinic. We assist both children and adults in achieving
+        attractive and healthy smiles using the most recent technologies.
       </p>
     </div>
   </div>

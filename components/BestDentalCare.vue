@@ -25,15 +25,15 @@
             The Best Dental Clinic near you <span class="primary"></span>
           </h2>
           <P style="text-align: justify"
-            >Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. ip ex ea
-            commodo consequat. Duis aute irure dolor in reprehenderit in
-            voluptate velit esse cillum</P
-          >
+            >At Vardan Dental, we strive to provide every patient with the
+            dental care they require. In keeping with this and our dedication to
+            providing the finest calibre dental treatment, we offer a vast array
+            of services that span the whole dental spectrum.
+          </P>
           <P class="primary" style="text-align: justify"
-            >ip ex ea commodo consequat. Duis aute irure dolor in reprehenderit
-            in voluptate velit esse cillum</P
-          >
+            >We sincerely care about your dental health and general well-being.
+            Thus, our Vardan dental care facility is more than just a clinic.
+          </P>
         </div>
       </div>
     </div>

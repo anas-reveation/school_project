@@ -2,10 +2,13 @@
   <div>
     <div class="container-fluid">
       <div class="row">
-        <div class="col-lg-5 col-12 py-3" style="background-color: #04343b">
+        <div
+          class="col-lg-12 col-xl-5 col-12 py-3"
+          style="background-color: #04343b"
+        >
           <div class="row justify-content-end">
             <div
-              class="col-lg-10 col-md-12 col-12 text-md-center text-lg-start"
+              class="col-lg-12 col-xl-10 col-md-12 col-12 text-md-center text-lg-center text-xl-start"
             >
               <img
                 src="../assets/img/Alarm Clock.svg"
@@ -23,13 +26,13 @@
           </div>
         </div>
         <div
-          class="col-lg-7 col-12 py-3"
+          class="col-lg-12 col-xl-7 col-12 py-3"
           style="background-color: var(--dashed-img)"
         >
           <div class="row justify-content-center">
             <div class="col-md-12">
               <div
-                class="row justify-content-md-center justify-content-lg-start"
+                class="row justify-content-md-center justify-content-xl-start justifty-content-lg-center"
               >
                 <div class="col-md-9">
                   <img
@@ -57,7 +60,7 @@
                     ></span
                   >
                 </div>
-                <div class="col-md-2">
+                <div class="col-md-2 text-lg-end text-xl-start">
                   <a
                     href="https://www.facebook.com/profile.php?id=100088409476132"
                     target="_blank"

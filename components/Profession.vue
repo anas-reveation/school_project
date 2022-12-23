@@ -1,7 +1,7 @@
 <template>
   <div class="my-5 py-5">
     <div class="container psm-4">
-      <h6 class="font-sm text-center">The Doctors</h6>
+      <h6 class="font-sm text-center">Meet our Experts</h6>
       <h2 class="fw-bold text-center secondary">
         Trust the <span class="primary">professionals</span>
       </h2>
@@ -14,22 +14,18 @@
             Our Doctors of <span class="primary">Vardan</span>
           </h2>
           <p style="text-align: justify">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magnmhba aliqua. Ut
-            enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
-            ut aliquip ex ea commodo consequataute irure dolor in reprehenderit
-            in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-            Excepteur sint occaecat cupidatat non proident, sunt in culpa qui
-            officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit
-            amet, consecteturnjdszc adipiscing elit, sed do eiusmod tempor
-            incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-            veniam, quisvoutv nos
+            A single goal unites the courteous and knowledgeable members of the
+            Vardan Dental team: to provide you with the most excellent dental
+            care. Every employee in our clinic, from the front desk staff to the
+            hygienists and dental assistants, wants to give you the best
+            possible dental care. You will sense this from the minute you enter
+            our office until your scheduled session concludes.
           </p>
           <p style="text-align: justify">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
-            ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-            aliquip ex ea commodo consequa
+            Make an appointment with us immediately to see why so many local
+            consumers consider us their preferred dental care provider. We look
+            forward to providing you with unmatched care and assisting you with
+            any dental requirements.
           </p>
         </div>
         <div class="col-lg-6 col-md-12 col-12">

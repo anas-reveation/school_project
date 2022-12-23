@@ -5,13 +5,17 @@
       <div class="mt-4">
         <h4 class="service-t fw-semibold">What is Periodontal Flap Surgery?</h4>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat. Duis aute irure dolor in
-          reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-          pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-          culpa qui officivvvga deserunt mollit anim id est laborum.
+          Flap surgery is frequently carried out under local anaesthetic,
+          perhaps with the help of oral sedatives; it can also be done under
+          intravenous conscious sedation. A minor incision is performed to
+          detach the gums from the teeth after the anaesthetic has taken effect.
+          The outer gum tissue is gently folded aside to access the roots and
+          the supporting ligament and bone tissue. In this typical treatment,
+          doctors make a few tiny incisions in your gums and remove a piece of
+          tissue back. Then, they clean the bacteria and tartar off your teeth
+          and the area around your gums. The gums are sutured back to ensure
+          that the tissue fits snugly around your teeth. Cleaning particular
+          parts of your teeth and gums will be simpler once you have recovered.
         </p>
       </div>
     </div>
@@ -22,13 +26,14 @@
           Benifits of Periodontal Flap Surgery
         </h4>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat. Duis aute irure dolor in
-          reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-          pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-          culpa qui officivvvga deserunt mollit anim id est laborum.
+          Your smile will look better since the operation can help your gum
+          tissue to reattach to your roots and lessen the depth and appearance
+          of gum pockets by eliminating plaque and tartar that have built up
+          below your gum line. Reduce the likelihood of developing a significant
+          illness: Heart disease, cancer, and other systemic diseases like
+          cancer and respiratory disease have all been associated with gum
+          disease. Professional treatment for gum disease can lower your risk of
+          contracting these illnesses and improve your general health.
         </p>
       </div>
       <div class="col-md-12 col-lg-7">
@@ -56,13 +61,9 @@
         </div>
       </div>
       <p>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-        veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-        commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-        velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
-        occaecat cupidatat non proident, sunt in culpa qui officivvvga deserunt
-        mollit anim id est laborum.
+        Check out some of the outcomes we achieved with periodontal technology
+        today. As our photo gallery is constantly updated, kindly check back
+        frequently.
       </p>
     </div>
   </div>

@@ -21,8 +21,10 @@
               <h4 class="py-4 tertiary fw-semibold">Teeth Whitening</h4>
             </div>
             <p class="font-p" style="text-align: justify">
-              Lorem Ipsum is simply dummy text of the printing and typesetting
-              industry. Lorem Ipsum has been the industry's uke loahm
+              Our clinic provides chairside and at-home whitening solutions for
+              individuals interested in attaining a whiter hue for their teeth.
+              At the same time, home bleaching is done by the patient on a tray
+              designed to suit their teeth.
             </p>
           </div>
           <img src="../assets/img/element.svg" class="service-curve-2" />
@@ -40,8 +42,10 @@
               <h4 class="py-4 tertiary fw-semibold">Smile Designing</h4>
             </div>
             <p class="font-p" style="text-align: justify">
-              Lorem Ipsum is simply dummy text of the printing and typesetting
-              industry. Lorem Ipsum has been the industry's uke loahm
+              In our practice, a full smile makeover primarily concerns your
+              dental health. We adopt a coordinated strategy to ensure that we
+              are creating a solid foundation for your smile. It incorporates a
+              tailored treatment and long-lasting results.
             </p>
           </div>
           <img src="../assets/img/element.svg" class="service-curve-2" />
@@ -59,8 +63,10 @@
               <h4 class="py-4 tertiary fw-semibold">Clear Aligners</h4>
             </div>
             <p class="font-p" style="text-align: justify">
-              Lorem Ipsum is simply dummy text of the printing and typesetting
-              industry. Lorem Ipsum has been the industry's uke loahm
+              Similar to braces, Clear Aligners are translucent trays composed
+              of a specific material used to align teeth. They gently and
+              consistently provide force to shift the teeth into the desired
+              position without the inconvenience of metal wires and brackets.
             </p>
           </div>
           <img src="../assets/img/element.svg" class="service-curve-2" />
@@ -78,8 +84,11 @@
               <h4 class="py-4 tertiary fw-semibold">Oral Surgery</h4>
             </div>
             <p class="font-p" style="text-align: justify">
-              Lorem Ipsum is simply dummy text of the printing and typesetting
-              industry. Lorem Ipsum has been the industry's uke loahm
+              In oral surgery, problems affecting the mouth and nearby
+              structures are identified, managed, and occasionally treated
+              surgically or medically. Our highly trained and competent oral
+              surgery team is committed to providing you with the most excellent
+              care.
             </p>
           </div>
           <img src="../assets/img/element.svg" class="service-curve-2" />
@@ -97,8 +106,9 @@
               <h4 class="py-4 tertiary fw-semibold">Dental Implant</h4>
             </div>
             <p class="font-p" style="text-align: justify">
-              Lorem Ipsum is simply dummy text of the printing and typesetting
-              industry. Lorem Ipsum has been the industry's uke loahm
+              The most priceless gift modern dentistry has given humanity is
+              dental implant surgery; these teeth look and work like natural
+              teeth! They offer enormous advantages to people of all ages.
             </p>
           </div>
           <img src="../assets/img/element.svg" class="service-curve-2" />
@@ -116,8 +126,10 @@
               <h4 class="py-4 tertiary fw-semibold">Root Canal</h4>
             </div>
             <p class="font-p" style="text-align: justify">
-              Lorem Ipsum is simply dummy text of the printing and typesetting
-              industry. Lorem Ipsum has been the industry's uke loahm
+              Root canal therapy entails cleaning the tooth and eliminating the
+              infection that is causing the discomfort. After cleaning, the
+              tooth is treated with a solution and filled to prevent future
+              infection.
             </p>
           </div>
           <img src="../assets/img/element.svg" class="service-curve-2" />

@@ -25,9 +25,8 @@
               We have Our special <span class="primary">Dental Treatments</span>
             </h2>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-              enim ad
+              Want to get special treatment? Reach out to us for personalized
+              treatment at an affordable cost
             </p>
           </div>
           <div class="mt-5 pt-3">

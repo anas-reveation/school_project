@@ -21,9 +21,9 @@
           <div class="speciality-p">
             <h3 class="fw-bold text-center mb-3 pb-4">Implant Surgery</h3>
             <p>
-              Lorem Ipsum has been the industry's standard dummy text ever since
-              the 1500s, when an unknown printer took a galley of type and
-              scrambled it to make a type specimen
+              Implant surgery involves replacing the tooth roots with metal,
+              screw-like posts and missing or damaged teeth with artificial
+              teeth that closely resemble real teeth in appearance and function.
             </p>
           </div>
         </div>
@@ -43,9 +43,8 @@
           <div class="speciality-p">
             <h3 class="fw-bold text-center mb-3 pb-4">Cosmetic Dentistry</h3>
             <p>
-              Lorem Ipsum has been the industry's standard dummy text ever since
-              the 1500s, when an unknown printer took a galley of type and
-              scrambled it to make a type specimen
+              Cosmetic dentistry is the branch that focuses on improving a
+              person's smile, general appearance, and dental health.
             </p>
           </div>
         </div>
@@ -66,9 +65,8 @@
           <div class="speciality-p">
             <h3 class="fw-bold text-center mb-3 pb-4">Single sitting RCT</h3>
             <p>
-              Lorem Ipsum has been the industry's standard dummy text ever since
-              the 1500s, when an unknown printer took a galley of type and
-              scrambled it to make a type specimen
+              Root canal therapy can be finished in one session when there is an
+              acute infection but no pus accumulation in or around the tooth.
             </p>
           </div>
         </div>
@@ -91,9 +89,9 @@
               Full mouth rehabilitation
             </h3>
             <p>
-              Lorem Ipsum has been the industry's standard dummy text ever since
-              the 1500s, when an unknown printer took a galley of type and
-              scrambled it to make a type specimen
+              Full mouth reconstructions enhance the mouth's health, function,
+              and appearance by combining aesthetics with restorative dentistry
+              science.
             </p>
           </div>
         </div>

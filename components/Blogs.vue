@@ -43,15 +43,10 @@
               data-bs-parent="#accordionExample"
             >
               <div class="accordion-body">
-                <strong>This is the first item's accordion body.</strong> It is
-                shown by default, until the collapse plugin adds the appropriate
-                classes that we use to style each element. These classes control
-                the overall appearance, as well as the showing and hiding via
-                CSS transitions. You can modify any of this with custom CSS or
-                overriding our default variables. It's also worth noting that
-                just about any HTML can go within the
-                <code>.accordion-body</code>, though the transition does limit
-                overflow.
+                If you want to replace missing teeth, you are the right
+                candidate for dental Implants. Vardan Dental is dedicated to
+                providing high-quality, long-lasting restorations by utilising
+                the most cutting-edge technologies.
               </div>
             </div>
           </div>
@@ -75,15 +70,10 @@
               data-bs-parent="#accordionExample"
             >
               <div class="accordion-body">
-                <strong>This is the second item's accordion body.</strong> It is
-                hidden by default, until the collapse plugin adds the
-                appropriate classes that we use to style each element. These
-                classes control the overall appearance, as well as the showing
-                and hiding via CSS transitions. You can modify any of this with
-                custom CSS or overriding our default variables. It's also worth
-                noting that just about any HTML can go within the
-                <code>.accordion-body</code>, though the transition does limit
-                overflow.
+                Yes, dental implants can be very affordable, depending on the
+                situation. A few factors go into the cost of dental implants,
+                such as the type of implant needed, the complexity of the
+                procedure, and any additional treatments that may be required.
               </div>
             </div>
           </div>
@@ -107,15 +97,10 @@
               data-bs-parent="#accordionExample"
             >
               <div class="accordion-body">
-                <strong>This is the third item's accordion body.</strong> It is
-                hidden by default, until the collapse plugin adds the
-                appropriate classes that we use to style each element. These
-                classes control the overall appearance, as well as the showing
-                and hiding via CSS transitions. You can modify any of this with
-                custom CSS or overriding our default variables. It's also worth
-                noting that just about any HTML can go within the
-                <code>.accordion-body</code>, though the transition does limit
-                overflow.
+                Endodontics, often known as root canal therapy, is a dental
+                technique used to treat infections inside the teeth. A tooth
+                that might otherwise need to be extracted can be saved using
+                root canal therapy, which is not painful.
               </div>
             </div>
           </div>
@@ -129,7 +114,7 @@
                 aria-expanded="false"
                 aria-controls="collapseFour"
               >
-                When can I resume work after the procedure?
+                When can I resume work after the root canal procedure?
               </button>
             </h2>
             <div
@@ -139,15 +124,10 @@
               data-bs-parent="#accordionExample"
             >
               <div class="accordion-body">
-                <strong>This is the third item's accordion body.</strong> It is
-                hidden by default, until the collapse plugin adds the
-                appropriate classes that we use to style each element. These
-                classes control the overall appearance, as well as the showing
-                and hiding via CSS transitions. You can modify any of this with
-                custom CSS or overriding our default variables. It's also worth
-                noting that just about any HTML can go within the
-                <code>.accordion-body</code>, though the transition does limit
-                overflow.
+                Following their root canal operation, patients should plan to
+                rest, and the majority can return to work the next day. Our
+                bodies require adequate healing time, which varies depending on
+                the patient.
               </div>
             </div>
           </div>
@@ -171,15 +151,9 @@
               data-bs-parent="#accordionExample"
             >
               <div class="accordion-body">
-                <strong>This is the third item's accordion body.</strong> It is
-                hidden by default, until the collapse plugin adds the
-                appropriate classes that we use to style each element. These
-                classes control the overall appearance, as well as the showing
-                and hiding via CSS transitions. You can modify any of this with
-                custom CSS or overriding our default variables. It's also worth
-                noting that just about any HTML can go within the
-                <code>.accordion-body</code>, though the transition does limit
-                overflow.
+                No, teeth whitening doesn't last a lifetime. However, the
+                whitening results should last up to three years if your teeth
+                are correctly cared for.
               </div>
             </div>
           </div>
