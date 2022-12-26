@@ -2,7 +2,6 @@
   <div>
     <AboutUsBanner />
     <BestDentalCare />
-    <BesrExtra />
     <ChooseUsAbout />
     <Healthy />
     <MiddleBanner />

@@ -21,7 +21,8 @@
           </p>
           <div class="mt-5 pt-3">
             <a
-              href="#"
+              href="https://api.whatsapp.com/send?phone=+919111222105&text=Hi,%20I%20would%20like%20to%20get%20more%20information.."
+              target="_blank"
               class="bg-primary text-decoration-none light-anc"
               style="border-radius: 21px; padding: 12px 30px 12px 5px"
             >
@@ -30,7 +31,7 @@
                 style="background-color: #ffff; border-radius: 19px"
                 ><img src="../assets/img/arrow-right.svg" />
               </span>
-              <span class="ps-1 fw-semibold"> Connect with us</span>
+              <span class="ps-1 fw-semibold">Connect with us</span>
             </a>
           </div>
         </div>

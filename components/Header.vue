@@ -15,12 +15,13 @@
           aria-controls="navbarSupportedContent"
           aria-expanded="false"
           aria-label="Toggle navigation"
+          @click="myFunction()"
         >
           <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
-            <li class="nav-item pe-3">
+            <li class="nav-item pe-3" @click="myFunction()">
               <nuxt-link to="/" class="nav-link text-dark" exact
                 >Home</nuxt-link
               >
@@ -33,31 +34,34 @@
                 >Services</nuxt-link
               >
             </li> -->
-            <li class="nav-item dropdown pe-3">
-              <nuxt-link
+            <li class="nav-item dropdown pe-3" @click="myFunction2()">
+              <a
                 class="nav-link dropdown-toggle text-dark"
-                to="/servicedetail"
                 id="navbarDropdown"
                 role="button"
                 data-bs-toggle="dropdown"
                 aria-expanded="false"
               >
                 Services
-              </nuxt-link>
-              <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                <li>
-                  <a class="dropdown-item" href="/servicedetail"
-                    >Our Services</a
+              </a>
+              <ul
+                class="dropdown-menu"
+                aria-labelledby="navbarDropdown"
+                id="dropdown-2"
+              >
+                <li @click="myFunction()">
+                  <nuxt-link class="dropdown-item" to="/servicedetail"
+                    >Our Services</nuxt-link
                   >
                 </li>
-                <li>
-                  <a class="dropdown-item" href="/servicespeciality"
-                    >Speciality</a
+                <li @click="myFunction()">
+                  <nuxt-link class="dropdown-item" to="/servicespeciality"
+                    >Speciality</nuxt-link
                   >
                 </li>
               </ul>
             </li>
-            <li class="nav-item pe-3">
+            <li class="nav-item pe-3" @click="myFunction()">
               <nuxt-link
                 to="/aboutus"
                 class="nav-link text-dark"
@@ -66,7 +70,7 @@
                 About Us
               </nuxt-link>
             </li>
-            <li class="nav-item pe-3">
+            <li class="nav-item pe-3" @click="myFunction()">
               <nuxt-link
                 to="/infrastructure"
                 class="nav-link text-dark"
@@ -75,7 +79,7 @@
                 Infrastructure
               </nuxt-link>
             </li>
-            <li class="nav-item pe-3">
+            <li class="nav-item pe-3" @click="myFunction()">
               <nuxt-link class="nav-link text-dark" to="/ourdentist"
                 >Our Dentists</nuxt-link
               >
@@ -102,9 +106,28 @@
 <script>
 export default {
   data() {
-    return {};
+    return {
+      isSubNavServiceOpen: false,
+    };
   },
-  methods: {},
+  methods: {
+    myFunction() {
+      const y = document.getElementById("navbarSupportedContent");
+      if (y.style.display === "block") {
+        y.style.display = "none";
+      } else {
+        y.style.display = "block";
+      }
+    },
+    myFunction2() {
+      const z = document.getElementById("dropdown-2");
+      if (z.style.display === "block") {
+        z.style.display = "none";
+      } else {
+        z.style.display = "block";
+      }
+    },
+  },
 };
 </script>
 
