@@ -2,16 +2,15 @@
   <div class="container py-5 our-doc2">
     <div class="text-center">
       <h2 class="fw-bold secondary mb-3">
-        Our Visiting <span class="primary">Doctors</span>
+        Meet our visiting <span class="primary">doctors</span>
       </h2>
       <div
         class="col-12 d-flex justify-content-center align-items-center flex-row"
       >
         <p class="col-9">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. ip ex ea
-          commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-          velit esse cillum
+          Every clinical area of dentistry is represented on the Vardan Dental
+          Clinic team, which is available to give patients comprehensive,
+          interdisciplinary care of the highest calibre.
         </p>
       </div>
     </div>
@@ -30,8 +29,8 @@
               </h5>
             </div>
             <p class="font-p">
-              Lorem Ipsum is simply dummy text of the printing and typesetting
-              industry. Lorem Ipsum has been the industry's uke loahm
+              He has put much effort into myofunctional orthopaedics and
+              received praise for his outstanding outcomes.
             </p>
           </div>
           <img src="../assets/img/element.svg" class="service-curve-2" />
@@ -51,8 +50,8 @@
               </h5>
             </div>
             <p class="font-p">
-              Lorem Ipsum is simply dummy text of the printing and typesetting
-              industry. Lorem Ipsum has been the industry's uke loahm
+              He is a unique individual with exceptional intellectual ability
+              and surgical competence.
             </p>
           </div>
           <img src="../assets/img/element.svg" class="service-curve-2" />
@@ -72,8 +71,8 @@
               </h5>
             </div>
             <p class="font-p">
-              Lorem Ipsum is simply dummy text of the printing and typesetting
-              industry. Lorem Ipsum has been the industry's uke loahm
+              He is a young, dynamic, enthusiastic, ambitious implantologist
+              with excellent organizational and interpersonal skills.
             </p>
           </div>
           <img src="../assets/img/element.svg" class="service-curve-2" />
@@ -93,8 +92,8 @@
               </h5>
             </div>
             <p class="font-p">
-              Lorem Ipsum is simply dummy text of the printing and typesetting
-              industry. Lorem Ipsum has been the industry's uke loahm
+              He provides patient-friendly scientific advice while upholding the
+              highest levels of ethics.
             </p>
           </div>
           <img src="../assets/img/element.svg" class="service-curve-2" />
@@ -114,8 +113,8 @@
               </h5>
             </div>
             <p class="font-p">
-              Lorem Ipsum is simply dummy text of the printing and typesetting
-              industry. Lorem Ipsum has been the industry's uke loahm
+              Dr. Dhrumin is a highly qualified and trained endodontist doctor.
+              She wants to make a difference in Dental care.
             </p>
           </div>
           <img src="../assets/img/element.svg" class="service-curve-2" />

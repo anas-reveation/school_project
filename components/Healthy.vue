@@ -16,10 +16,10 @@
             style="width: 100%; height: 100%"
           />
           <div class="my-4 text-md-start text-center">
-            <h4 class="fw-bold">Get Appointment</h4>
+            <h4 class="fw-bold">Book an Appointment</h4>
             <p>
-              Lorem ipsum dolor sit amet consectur adipicing elit sed do esmod
-              tempor incididunt labore aliqua
+              The Vardan Dental Clinic in Ahmedabad allows patients to schedule
+              an appointment online using our "Book an Appointment" Form.
             </p>
           </div>
         </div>
@@ -36,10 +36,10 @@
             style="width: 100%; height: 100%"
           />
           <div class="my-4 text-md-start text-center">
-            <h4 class="fw-bold">Start Check-up</h4>
+            <h4 class="fw-bold">Checkup</h4>
             <p>
-              Lorem ipsum dolor sit amet consectur adipicing elit sed do esmod
-              tempor incididunt labore aliqua
+              The doctor does the checkup once the patient makes an appointment.
+              The doctor will provide you with the best treatment.
             </p>
           </div>
         </div>
@@ -58,8 +58,8 @@
           <div class="my-4 text-md-start text-center">
             <h4 class="fw-bold">Enjoy Healthy Life</h4>
             <p>
-              Lorem ipsum dolor sit amet consectur adipicing elit sed do esmod
-              tempor incididunt labore aliqua
+              Follow the prescribed treatment given by the doctor so that you
+              can enjoy a healthy life and stress-free life.
             </p>
           </div>
         </div>

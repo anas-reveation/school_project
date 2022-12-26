@@ -25,14 +25,16 @@
             The Best Dental Clinic near you <span class="primary"></span>
           </h2>
           <P style="text-align: justify"
-            >At Vardan Dental, we strive to provide every patient with the
-            dental care they require. In keeping with this and our dedication to
-            providing the finest calibre dental treatment, we offer a vast array
-            of services that span the whole dental spectrum.
+            >Vardan dental clinic was established in 2010 with the specific
+            intention of offering "treatment by specialists." Patients can
+            receive comprehensive, multidisciplinary care from different
+            specialists who cover every area of dentistry clinical practise.
           </P>
           <P class="primary" style="text-align: justify"
-            >We sincerely care about your dental health and general well-being.
-            Thus, our Vardan dental care facility is more than just a clinic.
+            >The dental clinic is nicely furnished with the most recent
+            equipment. Dr. Ravi Patel, Urvashi Patel & Ketul Patel thoroughly
+            investigates all situations and delicately manage the more
+            challenging ones.
           </P>
         </div>
       </div>

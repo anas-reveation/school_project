@@ -2,7 +2,8 @@
   <div>
     <div class="container my-5 psm-4">
       <h2 class="fw-bold secondary text-center mb-5">
-        We are <span class="primary">Vardan Dental Clinic</span>
+        Sneak Peak into
+        <span class="primary">Vardan Photo Gallery</span>
       </h2>
       <div class="row gy-3 align-items-md-center align-items-lg-start">
         <div class="col-md-12">
@@ -15,14 +16,11 @@
             />
           </div>
           <p class="mt-4" style="text-align: justify">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. ip ex ea
-            commodo consequat. Duis aute irure dolor in reprehenderit in
-            voluptate velit esse cillum quae ab illo inventore veritatis et
-            quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam
-            voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-            consequuntur magni dolores eos qui ratione voluptatem sequi
-            nesciunt. Neque porro quisquam
+            Vardan's core advantages come from a comprehensive, state-of-the-art
+            infrastructure. Our clinic is adequately set up, with well-equipped
+            machinery, a clean, hygienic environment, and appropriate facilities
+            provided to the patients. We have highly qualified staff who are
+            friendly.
           </p>
         </div>
       </div>
@@ -114,18 +112,10 @@
         </div>
       </div>
       <p class="mt-5" style="text-align: justify">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-        tempor incididunt ut labore et dolore magna aliqua. ip ex eavv io
-        commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-        velit esse cillum quae ab illo inventore veritatis et quasi architecto
-        beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia
-        voluptas sit aspernatur aut odit aut fugit, sed quia consequunturgae
-        magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro
-        quisquam At vero eos et accusamus et iusto odio dignissimosf be ducimus
-        qui blanditiis praesentium voluptatum deleniti atque corrupti quos
-        dolores et quas molestias excepturi sint occaecati cupiditate non
-        provident, similique sunt in culpa qui officia deserunt mollitia animi,
-        id est
+        At Oral Implants and Reconstructive Dentistry, our top-tier, highly
+        qualified experts take great delight in giving patients a happy, healthy
+        smile. Set up a consultation appointment right away after perusing their
+        transformative work.
       </p>
     </div>
   </div>

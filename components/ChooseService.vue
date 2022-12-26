@@ -7,15 +7,12 @@
             <div class="row py-5 justify-content-end">
               <div class="col-md-11">
                 <h2 class="text-white fw-semibold">
-                  Great reasons for people to choose
+                  Great Reasons to Choose
                   <span class="primary">Vardan Dental Clinic</span>
                 </h2>
               </div>
               <div class="col-md-11 text-white py-3">
-                <h7>
-                  Lorem ipsum dolor sit amet consectur adipicing elit sed do
-                  esmod tempor incididunt labore aliqua
-                </h7>
+                <h7> Caring, highly trained clinical dental team. </h7>
               </div>
               <div
                 class="row gy-5 mt-4 col-md-11 col-12 text-white justify-content-between"
@@ -25,10 +22,12 @@
                   data-aos="fade-in"
                   data-aos-duration="400"
                 >
-                  <h4>Quality Staff</h4>
+                  <h4>24-hour assistance</h4>
                   <p>
-                    Lorem ipsum dolor sit amet consectur adipicing elit sed do
-                    esmod tempor incididunt labore aliqua
+                    Why should we when neither you nor your toothache has days
+                    off? We know that many of you need help managing your time
+                    throughout the workweek or that an unplanned dental
+                    emergency is inappropriate.
                   </p>
                 </div>
                 <div
@@ -36,10 +35,26 @@
                   data-aos="fade-in"
                   data-aos-duration="400"
                 >
-                  <h4>Best Doctors</h4>
+                  <h4>High-Quality Care</h4>
                   <p>
-                    Lorem ipsum dolor sit amet consectur adipicing elit sed do
-                    esmod tempor incididunt labore aliqua
+                    To deliver the most significant evidence-based treatments
+                    and the newest procedures to our clinic, our dentists
+                    regularly attend continuing education courses and stay up to
+                    date on the most recent research.
+                  </p>
+                </div>
+                <div
+                  class="col-md-5 col-12"
+                  data-aos="fade-in"
+                  data-aos-duration="400"
+                >
+                  <h4>Time versatility</h4>
+                  <p>
+                    We know that doing domestic duties can leave you with very
+                    little time for personal care. To ensure that you always
+                    attend a dental appointment, we kindly assist you by
+                    allowing you to select the appointment times that work best
+                    for you.
                   </p>
                 </div>
                 <div
@@ -49,19 +64,10 @@
                 >
                   <h4>Affordable Price</h4>
                   <p>
-                    Lorem ipsum dolor sit amet consectur adipicing elit sed do
-                    esmod tempor incididunt labore aliqua
-                  </p>
-                </div>
-                <div
-                  class="col-md-5 col-12"
-                  data-aos="fade-in"
-                  data-aos-duration="400"
-                >
-                  <h4>Optimized Solutions</h4>
-                  <p>
-                    Lorem ipsum dolor sit amet consectur adipicing elit sed do
-                    esmod tempor incididunt labore aliqua
+                    We know that dental care can be expensive due to the
+                    sophisticated technology and tools employed. But we want the
+                    cost of dental treatment to ensure you get it right now.
+                    Vardan provides you the affordable service.
                   </p>
                 </div>
               </div>

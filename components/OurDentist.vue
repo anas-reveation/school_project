@@ -2,16 +2,15 @@
   <div>
     <div class="container my-5">
       <h2 class="fw-bold secondary text-center text-center mb-3">
-        Meet with our <span class="primary">Doctors</span>
+        Meet our <span class="primary"> Elite Team</span>
       </h2>
       <div
         class="col-12 d-flex justify-content-center align-items-center flex-row"
       >
         <p class="col-9 text-center">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. ip ex ea
-          commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-          velit esse cillum
+          Together, this powerful pair provides Ahmedabad with the best dental
+          and aesthetic services. There is no need to go further if you want to
+          find the top dentist in Ahmedabad.
         </p>
       </div>
       <div
@@ -35,8 +34,9 @@
               >
             </h5>
             <p class="py-3">
-              Lorem ipsum dolor sit amet consectur adipicing elit sed do esmod
-              tempor incididunt labore aliqua
+              He has completed his MBBS and BDS and is the founder of Vardan
+              Dental Clinic. He has excellent experience in holistic dental care
+              for patients of all age groups.
             </p>
           </div>
         </div>
@@ -56,8 +56,10 @@
               >
             </h5>
             <p class="py-3">
-              Lorem ipsum dolor sit amet consectur adipicing elit sed do esmod
-              tempor incididunt labore aliqua
+              She has completed her MBBS and BDS and is the founder of Vardan
+              Dental Clinic. She is soft-spoken, pleasant, and a perfectionist,
+              and she believes in giving quality dental care to every patient
+              visiting us.
             </p>
           </div>
         </div>
@@ -77,8 +79,9 @@
               >
             </h5>
             <p class="py-3">
-              Lorem ipsum dolor sit amet consectur adipicing elit sed do esmod
-              tempor incididunt labore aliqua
+              He is a renowned implantologist. Our patients love him for his
+              excellent handling of implant cases. He is the founder of Vardan
+              Dental Clinic.
             </p>
           </div>
         </div>
