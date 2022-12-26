@@ -8,7 +8,7 @@
     <MiddleBanner class="mtsm" />
 
     <div class="container psm-4">
-      <div class="row gy-4 align-items-baseline">
+      <div class="row gy-4 overflow-hidden align-items-center">
         <div class="col-xl-6">
           <h6 class="secondary text-md-start text-center">Testimonial</h6>
           <h2 class="fw-bold text-md-start text-center secondary">
