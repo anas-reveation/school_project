@@ -15,7 +15,7 @@
               <div class="col-md-11">
                 <h2 class="text-white fw-semibold">
                   Great reasons for people to choose
-                  <span class="primary">Vardan Dental Clinic</span>
+                  <span class="primary">Vardan Dental Clinics</span>
                 </h2>
               </div>
               <div class="col-md-11 text-white py-3">
