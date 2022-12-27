@@ -1,7 +1,7 @@
 <template>
   <div class="row">
     <div class="col-md-12 col-lg-5">
-      <h4 class="service-t fw-semibold">Benifits of Dental Implant</h4>
+      <h4 class="service-t fw-semibold">Benefits of Dental Implant</h4>
       <p>
         When teeth are lost, your jaw's bone density also frequently decreases.
         To keep its mass, the jawbone requires stimulation, which it receives
@@ -15,7 +15,11 @@
       </p>
     </div>
     <div class="col-md-12 col-lg-7">
-      <img src="../assets/img/service-2.png" class="w-100" />
+      <img
+        src="../assets/img/service-2.png"
+        alt="Benifits of Dental Implant"
+        class="w-100"
+      />
     </div>
   </div>
 </template>

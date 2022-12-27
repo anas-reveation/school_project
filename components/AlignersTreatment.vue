@@ -1,7 +1,11 @@
 <template>
   <div>
     <div class="">
-      <img src="../assets/img/aligner1.png" style="width: 100%; height: 100%" />
+      <img
+        src="../assets/img/aligner1.png"
+        alt="What is Clear Aligners Treatment?"
+        style="width: 100%; height: 100%"
+      />
       <div class="mt-4">
         <h4 class="service-t fw-semibold">What is Clear Aligners Treatment?</h4>
         <p>
@@ -25,7 +29,7 @@
     <!-- <DentalServiceTwo class="sev-2 mt-5 pt-4" /> -->
     <div class="row sev-2 mt-5 pt-5">
       <div class="col-md-12 col-lg-5">
-        <h4 class="service-t fw-semibold">Benifits of Aligners Treatment</h4>
+        <h4 class="service-t fw-semibold">Benefits of Aligners Treatment</h4>
         <p>
           Clear aligners are a fantastic alternative for people who desire a
           straighter smile but do not want to wear traditional metal braces.
@@ -38,7 +42,11 @@
         </p>
       </div>
       <div class="col-md-12 col-lg-7">
-        <img src="../assets/img/aligner2.png" class="w-100" />
+        <img
+          src="../assets/img/aligner2.png"
+          alt="Benefits of Aligners Treatment"
+          class="w-100"
+        />
       </div>
     </div>
     <!-- <ResultsDental class="sev-2 mt-5 pt-3" /> -->
@@ -53,11 +61,19 @@
       </div>
       <div class="row">
         <div class="col-md-6">
-          <img src="../assets/img/aligner3.png" class="w-100 h-85" />
+          <img
+            src="../assets/img/aligner3.png"
+            alt="Before Treatment"
+            class="w-100 h-85"
+          />
           <p class="text-center fw-semibold mt-2">Before</p>
         </div>
         <div class="col-md-6">
-          <img src="../assets/img/aligner4.png" class="w-100 h-85" />
+          <img
+            src="../assets/img/aligner4.png"
+            alt="After Treatment"
+            class="w-100 h-85"
+          />
           <p class="text-center fw-semibold mt-2">After</p>
         </div>
       </div>

@@ -3,6 +3,7 @@
     <div class="">
       <img
         src="../assets/img/serviceone.png"
+        alt="What is Dental Implant?"
         style="width: 100%; height: 100%"
       />
       <div class="mt-4">

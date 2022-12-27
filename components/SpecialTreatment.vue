@@ -15,6 +15,7 @@
           <div class="" style="margin-top: -6rem">
             <img
               src="../assets/img/special1.png"
+              alt="Implant Surgery"
               style="width: 100%; height: 100%"
             />
           </div>
@@ -37,6 +38,7 @@
           <div class="" style="margin-top: -6rem">
             <img
               src="../assets/img/special-2.png"
+              alt="Cosmetic Dentistry"
               style="width: 100%; height: 100%"
             />
           </div>
@@ -59,6 +61,7 @@
           <div class="" style="margin-top: -6rem">
             <img
               src="../assets/img/special-3.png"
+              alt="Single sitting RCT"
               style="width: 100%; height: 100%"
             />
           </div>
@@ -81,6 +84,7 @@
           <div class="" style="margin-top: -6rem">
             <img
               src="../assets/img/special-4.png"
+              alt="Full mouth rehabilitation"
               style="width: 100%; height: 100%"
             />
           </div>

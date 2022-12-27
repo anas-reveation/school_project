@@ -9,7 +9,11 @@
             data-aos-duration="400"
           >
             <div class="sd-bg-1 sd-bg">
-              <img src="../assets/img/profession.png" class="w-100" />
+              <img
+                src="../assets/img/profession.png"
+                alt="Best Dental Care in Ahmedabad"
+                class="w-100"
+              />
             </div>
           </div>
           <div

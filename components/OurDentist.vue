@@ -21,6 +21,7 @@
         <div class="col-md-4 col-12">
           <img
             src="../assets/img/dentist1.png"
+            alt="Dr. Ravi Patel (MBBS, BDS)"
             class="p-3"
             style="width: 100%"
           />
@@ -43,6 +44,7 @@
         <div class="col-md-4 col-12">
           <img
             src="../assets/img/dentist2.png"
+            alt="Dr. Urvashi Patel (MBBS, BDS)"
             class="p-3"
             style="width: 100%"
           />
@@ -66,6 +68,7 @@
         <div class="col-md-4 col-12">
           <img
             src="../assets/img/dentist3.png"
+            alt="Dr. Ketul Patel (MBBS, BDS)"
             class="p-3"
             style="width: 100%"
           />

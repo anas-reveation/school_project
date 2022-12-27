@@ -20,7 +20,11 @@
           <img src="../assets/img/bg-semicircle.svg" class="service-curve" />
           <div class="service-curve-1">
             <div class="text-center">
-              <img src="../assets/img/doctor 1.svg" style="width: 88px" />
+              <img
+                src="../assets/img/doctor 1.svg"
+                alt="Dr. Nimesh Patel"
+                style="width: 88px"
+              />
               <h5 class="py-4 secondary fw-bold">
                 Dr. Nimesh Patel
                 <span class="primary fw-light" style="font-size: 14px">
@@ -41,7 +45,11 @@
           <img src="../assets/img/bg-semicircle.svg" class="service-curve" />
           <div class="service-curve-1">
             <div class="text-center">
-              <img src="../assets/img/doctor 1.svg" style="width: 88px" />
+              <img
+                src="../assets/img/doctor 1.svg"
+                alt="Dr. Rahul Dhanak"
+                style="width: 88px"
+              />
               <h5 class="py-4 secondary fw-bold">
                 Dr. Rahul Dhanak
                 <span class="primary fw-light" style="font-size: 14px">
@@ -62,7 +70,11 @@
           <img src="../assets/img/bg-semicircle.svg" class="service-curve" />
           <div class="service-curve-1">
             <div class="text-center">
-              <img src="../assets/img/doctor 1.svg" style="width: 88px" />
+              <img
+                src="../assets/img/doctor 1.svg"
+                alt="Dr. Hardik Patel"
+                style="width: 88px"
+              />
               <h5 class="py-4 secondary fw-bold">
                 Dr. Hardik Patel
                 <span class="primary fw-light" style="font-size: 14px">
@@ -83,7 +95,11 @@
           <img src="../assets/img/bg-semicircle.svg" class="service-curve" />
           <div class="service-curve-1">
             <div class="text-center">
-              <img src="../assets/img/doctor 1.svg" style="width: 88px" />
+              <img
+                src="../assets/img/doctor 1.svg"
+                alt="Dr. Birjesh Patel"
+                style="width: 88px"
+              />
               <h5 class="py-4 secondary fw-bold">
                 Dr. Birjesh Patel
                 <span class="primary fw-light" style="font-size: 14px">
@@ -104,7 +120,11 @@
           <img src="../assets/img/bg-semicircle.svg" class="service-curve" />
           <div class="service-curve-1">
             <div class="text-center">
-              <img src="../assets/img/doctor 1.svg" style="width: 88px" />
+              <img
+                src="../assets/img/doctor 1.svg"
+                alt="Dr. Dhrumin"
+                style="width: 88px"
+              />
               <h5 class="py-4 secondary fw-bold">
                 Dr. Dhrumin
                 <span class="primary fw-light" style="font-size: 14px">

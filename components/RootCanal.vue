@@ -1,7 +1,11 @@
 <template>
   <div>
     <div class="">
-      <img src="../assets/img/Root1.png" style="width: 100%; height: 100%" />
+      <img
+        src="../assets/img/Root1.png"
+        alt="What is Dental Root Canals?"
+        style="width: 100%; height: 100%"
+      />
       <div class="mt-4">
         <h4 class="service-t fw-semibold">What is Dental Root Canals?</h4>
         <p>

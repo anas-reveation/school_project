@@ -13,6 +13,7 @@
         <div class="test-img">
           <img
             src="../assets/img/health1.png"
+            alt="Book an Appointment"
             style="width: 100%; height: 100%"
           />
           <div class="my-4 text-md-start text-center">
@@ -33,6 +34,7 @@
         <div class="test-img">
           <img
             src="../assets/img/health2.png"
+            alt="Checkup"
             style="width: 100%; height: 100%"
           />
           <div class="my-4 text-md-start text-center">
@@ -53,6 +55,7 @@
         <div class="test-img">
           <img
             src="../assets/img/health3.png"
+            alt="Enjoy Healthy Life"
             style="width: 100%; height: 100%"
           />
           <div class="my-4 text-md-start text-center">

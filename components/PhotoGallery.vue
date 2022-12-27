@@ -10,6 +10,7 @@
           <div class="galleries">
             <img
               src="../assets/img/galleries.png"
+              alt="Vardan’s Infrastructure"
               data-aos="zoom-in"
               data-aos-duration="400"
               style="width: 100%; height: 100%"
@@ -34,6 +35,7 @@
           <div>
             <img
               src="../assets/img/g1.png"
+              alt="Photo Gallery"
               data-aos="flip-left"
               data-aos-duration="400"
               style="width: 100%; height: 400px"
@@ -44,6 +46,7 @@
           <div>
             <img
               src="../assets/img/g2.png"
+              alt="Photo Gallery"
               data-aos="flip-left"
               data-aos-duration="400"
               style="width: 100%; height: 400px"
@@ -54,6 +57,7 @@
           <div>
             <img
               src="../assets/img/g3.png"
+              alt="Photo Gallery"
               data-aos="flip-left"
               data-aos-duration="400"
               style="width: 100%; height: 400px"
@@ -64,6 +68,7 @@
           <div>
             <img
               src="../assets/img/g4.png"
+              alt="Photo Gallery"
               data-aos="flip-left"
               data-aos-duration="400"
               style="width: 100%; height: 400px"
@@ -74,6 +79,7 @@
           <div>
             <img
               src="../assets/img/g5.png"
+              alt="Photo Gallery"
               data-aos="flip-left"
               data-aos-duration="400"
               style="width: 100%; height: 400px"
@@ -84,6 +90,7 @@
           <div>
             <img
               src="../assets/img/g6.png"
+              alt="Photo Gallery"
               data-aos="flip-left"
               data-aos-duration="400"
               style="width: 100%; height: 400px"
@@ -94,6 +101,7 @@
           <div>
             <img
               src="../assets/img/g7.png"
+              alt="Photo Gallery"
               data-aos="flip-left"
               data-aos-duration="400"
               style="width: 100%; height: 400px"
@@ -104,6 +112,7 @@
           <div>
             <img
               src="../assets/img/g8.png"
+              alt="Photo Gallery"
               data-aos="flip-left"
               data-aos-duration="400"
               style="width: 100%; height: 400px"

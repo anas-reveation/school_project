@@ -10,7 +10,11 @@
           data-aos-duration="400"
         >
           <div class="sd-bg-1 sd-bg">
-            <img src="../assets/img/whowe.svg" class="w-100" />
+            <img
+              src="../assets/img/whowe.svg"
+              alt="The Best Dental Clinic near you"
+              class="w-100"
+            />
           </div>
         </div>
         <div

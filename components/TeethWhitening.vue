@@ -1,7 +1,11 @@
 <template>
   <div>
     <div class="">
-      <img src="../assets/img/white1.png" style="width: 100%; height: 100%" />
+      <img
+        src="../assets/img/white1.png"
+        alt="What is Teeth Whitening?"
+        style="width: 100%; height: 100%"
+      />
       <div class="mt-4">
         <h4 class="service-t fw-semibold">What is Teeth Whitening?</h4>
         <p>

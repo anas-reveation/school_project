@@ -1,7 +1,11 @@
 <template>
   <div>
     <div class="">
-      <img src="../assets/img/wisdom1.png" style="width: 100%; height: 100%" />
+      <img
+        src="../assets/img/wisdom1.png"
+        alt="What is Wisdom Tooth Removal?"
+        style="width: 100%; height: 100%"
+      />
       <div class="mt-4">
         <h4 class="service-t fw-semibold">What is Wisdom Tooth Removal?</h4>
         <p>
@@ -19,7 +23,7 @@
     <!-- <DentalServiceTwo class="sev-2 mt-5 pt-4" /> -->
     <div class="row sev-2 mt-5 pt-5">
       <div class="col-md-12 col-lg-5">
-        <h4 class="service-t fw-semibold">Benifits of Wishdom Tooth Removal</h4>
+        <h4 class="service-t fw-semibold">Benefits of Wishdom Tooth Removal</h4>
         <p>
           When wisdom teeth grow in and erupt, they may crowd your teeth and
           harm other molars. Wisdom teeth can eventually cause alignment
@@ -33,7 +37,11 @@
         </p>
       </div>
       <div class="col-md-12 col-lg-7">
-        <img src="../assets/img/wisdom2.png" class="w-100" />
+        <img
+          src="../assets/img/wisdom2.png"
+          alt="Benefits of Wishdom Tooth Removal"
+          class="w-100"
+        />
       </div>
     </div>
     <!-- <ResultsDental class="sev-2 mt-5 pt-3" /> -->
@@ -48,11 +56,19 @@
       </div>
       <div class="row">
         <div class="col-md-6">
-          <img src="../assets/img/wisdom3.png" class="w-100 h-85" />
+          <img
+            src="../assets/img/wisdom3.png"
+            alt="Before Treatment"
+            class="w-100 h-85"
+          />
           <p class="text-center fw-semibold mt-2">Before</p>
         </div>
         <div class="col-md-6">
-          <img src="../assets/img/wisdom4.png" class="w-100 h-85" />
+          <img
+            src="../assets/img/wisdom4.png"
+            alt="After Treatment"
+            class="w-100 h-85"
+          />
           <p class="text-center fw-semibold mt-2">After</p>
         </div>
       </div>

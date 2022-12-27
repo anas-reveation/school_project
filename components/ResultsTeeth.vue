@@ -10,11 +10,19 @@
     </div>
     <div class="row">
       <div class="col-md-6">
-        <img src="../assets/img/white3.png" class="w-100 h-85" />
+        <img
+          src="../assets/img/white3.png"
+          alt="Before Treatment"
+          class="w-100 h-85"
+        />
         <p class="text-center fw-semibold mt-2">Before</p>
       </div>
       <div class="col-md-6">
-        <img src="../assets/img/white4.png" class="w-100 h-85" />
+        <img
+          src="../assets/img/white4.png"
+          alt="After Treatment"
+          class="w-100 h-85"
+        />
         <p class="text-center fw-semibold mt-2">After</p>
       </div>
     </div>

@@ -17,6 +17,7 @@
         <div>
           <img
             src="../assets/img/Accord.png"
+            alt="Frequently asked questions"
             style="width: 100%; height: 100%"
           />
         </div>
