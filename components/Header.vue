@@ -87,7 +87,7 @@
             <li>
               <button
                 type="button"
-                class="btn bg-primary rounded-pill btn-small"
+                class="btn bg-primary-color rounded-pill btn-small"
                 style="font-weight: 600"
               >
                 <a href="tel: +91-9824038971" class="anc" target="_blank"

@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-primary p-3">
+  <div class="bg-primary-color p-3">
     <div class="container">
       <div class="row align-items-center">
         <div class="col-md-7">
