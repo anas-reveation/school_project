@@ -119,6 +119,46 @@ export default {
         content:
           "Vardan Dental Clinic & Implant Center, Shahibaug, Ahmedabad, Dental Care, dental clinic near me, Vardan Dental Treatment, Best Dentists, Medical Services, dental implants in India, teeth whitening near me",
       },
+      {
+        hid: "og:title",
+        property: "og:title",
+        content: "Vardan Dental Clinic & Implant Center, Shahibaug, Ahmedabad",
+      },
+      {
+        hid: "og:url",
+        property: "og:url",
+        content: "https://www.vardandental.in",
+      },
+      {
+        hid: "og:description",
+        property: "og:description",
+        content:
+          "Vardan Dental Clinic & Implant Center is committed to offering high volume, excellent dental care at affordable prices and has over 22 years of experience.",
+      },
+      {
+        hid: "og:image",
+        property: "og:image",
+        content: "https://vardandental.in/_nuxt/img/Vardan-logo.5b34beb.svg",
+      },
+
+      { name: "twitter:site", content: "@VardanDental" },
+      { name: "twitter:card", content: "summary_large_image" },
+      {
+        hid: "twitter:image",
+        name: "twitter:image",
+        content: "https://vardandental.in/_nuxt/img/Vardan-logo.5b34beb.svg",
+      },
+      {
+        hid: "twitter:title",
+        name: "twitter:title",
+        content: "Vardan Dental Clinic & Implant Center, Shahibaug, Ahmedabad",
+      },
+      {
+        hid: "twitter:description",
+        name: "twitter:description",
+        content:
+          "Vardan Dental Clinic & Implant Center is committed to offering high volume, excellent dental care at affordable prices and has over 22 years of experience..",
+      },
     ],
   },
 };

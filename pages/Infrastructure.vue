@@ -33,6 +33,46 @@ export default {
         content:
           "Our Infrastructure, Vardan Photo Gallery, well-equipped machinery, hygienic environment, Oral Implants and Reconstructive Dentistry, highly qualified experts, healthy smile",
       },
+      {
+        hid: "og:title",
+        property: "og:title",
+        content: "Our Infrastructure - Vardan Dental Clinic & Implant Centre",
+      },
+      {
+        hid: "og:url",
+        property: "og:url",
+        content: "https://www.vardandental.in",
+      },
+      {
+        hid: "og:description",
+        property: "og:description",
+        content:
+          "We offer the patients the right amenities, have well-maintained equipment, and a clean, hygienic environment. Friendly and knowledgeable employees work for us.",
+      },
+      {
+        hid: "og:image",
+        property: "og:image",
+        content: "https://vardandental.in/_nuxt/img/Vardan-logo.5b34beb.svg",
+      },
+
+      { name: "twitter:site", content: "@VardanDental" },
+      { name: "twitter:card", content: "summary_large_image" },
+      {
+        hid: "twitter:image",
+        name: "twitter:image",
+        content: "https://vardandental.in/_nuxt/img/Vardan-logo.5b34beb.svg",
+      },
+      {
+        hid: "twitter:title",
+        name: "twitter:title",
+        content: "Our Infrastructure - Vardan Dental Clinic & Implant Centre",
+      },
+      {
+        hid: "twitter:description",
+        name: "twitter:description",
+        content:
+          "We offer the patients the right amenities, have well-maintained equipment, and a clean, hygienic environment. Friendly and knowledgeable employees work for us.",
+      },
     ],
   },
 };
