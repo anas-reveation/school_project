@@ -11,7 +11,6 @@
   "dependencies": {
     "@nuxt/bridge": "^0.10.1",
     "@nuxtjs/axios": "^5.13.6",
-    "@nuxtjs/robots": "^3.0.0",
     "@nuxtjs/sanity": "^0.10.0",
     "@nuxtjs/sitemap": "^2.4.0",
     "@sanity/client": "^2.23.1",

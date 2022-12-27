@@ -42,12 +42,8 @@ export default {
     // https://go.nuxtjs.dev/axios
     "@nuxtjs/axios",
     "@nuxtjs/sitemap",
-    "@nuxtjs/robots",
   ],
-  robots: {
-    UserAgent: "*",
-    Allow: "/",
-  },
+
   sanity: {
     // module options
   },
