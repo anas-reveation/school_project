@@ -47,6 +47,7 @@ export default {
   robots: {
     UserAgent: "*",
     Allow: "/",
+    Sitemap: "https://vardandental.in/sitemap.xml",
   },
 
   sanity: {
