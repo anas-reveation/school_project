@@ -12,7 +12,17 @@ export default {
       { hid: "description", name: "description", content: "" },
       { name: "format-detection", content: "telephone=no" },
     ],
-    link: [{ rel: "icon", type: "image/x-icon", href: "/fav.svg" }],
+
+    link: [
+      { rel: "icon", type: "image/x-icon", href: "/fav.svg" },
+      { hid: "canonical", rel: "canonical", href: "https://vardandental.in" },
+      {
+        hid: "alternate",
+        rel: "alternate",
+        hreflang: "en-IN",
+        href: "https://vardandental.in",
+      },
+    ],
   },
 
   // Global CSS: https://go.nuxtjs.dev/config-css
@@ -32,14 +42,19 @@ export default {
     // https://go.nuxtjs.dev/axios
     "@nuxtjs/axios",
     "@nuxtjs/sitemap",
+    "@nuxtjs/robots",
   ],
+  robots: {
+    UserAgent: "*",
+    Allow: "/",
+  },
   sanity: {
     // module options
   },
 
   sitemap: {
     // options
-    hostname: "http://localhost:3000/",
+    hostname: "http://vardandental.in/",
     gzip: true,
     exclude: [],
     routes: [],

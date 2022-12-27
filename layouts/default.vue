@@ -40,6 +40,7 @@ export default {
         },
       ],
       script: [
+        { type: "application/ld+json", json: this.structuredData },
         {
           src: "https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js",
           integrity:
@@ -53,5 +54,46 @@ export default {
     AOS.init({});
   },
   components: { HeaderTop },
+  data() {
+    return {
+      structuredData: {
+        "@context": "https://schema.org/",
+        "@type": "Dentist",
+        name: "Vardan Dental Clinic & Implant Center",
+        image: "https://vardandental.in/_nuxt/img/Vardan-logo.5b34beb.svg",
+        "@id": "",
+        url: "https://vardandental.in",
+        telephone: "+91-9898025261",
+        address: {
+          "@type": "PostalAddress",
+          streetAddress:
+            "T-8,9 Third floor, shubh complex, near rajasthan hospital, Shahibaug",
+          addressLocality: "Ahmedabad",
+          addressRegion: "Gujarat",
+          postalCode: "380004",
+          addressCountry: "IN",
+        },
+        openingHoursSpecification: {
+          "@type": "OpeningHoursSpecification",
+          dayOfWeek: [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+          ],
+          opens: "09:00",
+          closes: "19:30",
+        },
+        potentialAction: {
+          "@type": "SearchAction",
+          target: "{search_term_string}",
+          "query-input": "required name=search_term_string",
+          // More structured data...
+        },
+      },
+    };
+  },
 };
 </script>
