@@ -11,7 +11,13 @@
           src="../assets/img/about-elemt.svg"
           class="element-ab d-none d-md-block"
         />
-        <img src="../assets/img/Home1.png" class="" style="width: 100%" />
+        <img
+          src="../assets/img/Home1.png"
+          alt="Meet the Best Dentists
+"
+          class=""
+          style="width: 100%"
+        />
       </div>
       <div
         class="col-lg-6 col-md-12"

@@ -4,7 +4,11 @@
       <div class="row gy-5">
         <div class="col-md-6 d-flex justify-content-center choose-bg">
           <div>
-            <img src="../assets/img/choose-img.png" style="width: 100%" />
+            <img
+              src="../assets/img/choose-img.png"
+              alt="Choose us to get the best service"
+              style="width: 100%"
+            />
           </div>
         </div>
         <div class="col-md-6">
@@ -27,6 +31,7 @@
               <div class="col-md-3 col-xl-2 col-lg-3">
                 <img
                   src="../assets/img/technology.png"
+                  alt="Advanced Technology"
                   style="width: 82px; height: 97px"
                 />
               </div>
@@ -42,6 +47,7 @@
               <div class="col-md-3 col-xl-2 col-lg-3">
                 <img
                   src="../assets/img/laboratory.png"
+                  alt="In House Laboratory"
                   style="width: 82px; height: 97px"
                 />
               </div>
@@ -57,6 +63,7 @@
               <div class="col-md-3 col-xl-2 col-lg-3">
                 <img
                   src="../assets/img/friendly.png"
+                  alt="Friendly Staff"
                   style="width: 82px; height: 97px"
                 />
               </div>

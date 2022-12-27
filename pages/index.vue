@@ -56,13 +56,21 @@
         >
           <div class="row">
             <div class="col-md-6 col-6">
-              <img src="../assets/img/test-3.svg" />
+              <img src="../assets/img/test-3.svg" alt="Happy Patients" />
             </div>
             <div class="col-md-6 col-6 text-end text-md-start">
-              <img src="../assets/img/test-2.svg" class="test-img1" />
+              <img
+                src="../assets/img/test-2.svg"
+                alt="Happy Patients"
+                class="test-img1"
+              />
             </div>
             <div class="col-md-6 col-12 text-md-end text-center">
-              <img src="../assets/img/test-1.svg" class="test-img1" />
+              <img
+                src="../assets/img/test-1.svg"
+                alt="Happy Patients"
+                class="test-img1"
+              />
             </div>
           </div>
         </div>
@@ -96,6 +104,22 @@ export default {
     const reviews = await $sanity.fetch(query);
 
     return { reviews };
+  },
+  head: {
+    title: "Vardan Dental Clinic & Implant Center, Shahibaug, Ahmedabad",
+    meta: [
+      {
+        hid: "description",
+        name: "description",
+        content:
+          "Vardan Dental Clinic & Implant Center is committed to offering high volume, excellent dental care at affordable prices and has over 22 years of experience.",
+      },
+      {
+        name: "keywords",
+        content:
+          "Vardan Dental Clinic & Implant Center, Shahibaug, Ahmedabad, Dental Care, dental clinic near me, Vardan Dental Treatment, Best Dentists, Medical Services, dental implants in India, teeth whitening near me",
+      },
+    ],
   },
 };
 </script>

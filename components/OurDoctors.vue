@@ -7,6 +7,7 @@
             <img
               class="rounded-circle"
               src="../assets/img/doctor-1.png"
+              alt="Dr. Ravi Patel"
               style="width: 187px; height: 187px"
             />
           </div>
@@ -27,6 +28,7 @@
             <img
               class="rounded-circle"
               src="../assets/img/doctor-2.png"
+              alt="Dr. Urvashi Patel"
               style="width: 187px; height: 187px"
             />
           </div>
@@ -48,6 +50,7 @@
             <img
               class="rounded-circle"
               src="../assets/img/ourdoc-2.png"
+              alt="Dr. Ketul Patel"
               style="width: 187px; height: 187px"
             />
           </div>

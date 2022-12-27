@@ -17,3 +17,23 @@
     <ServiceDescription class="" />
   </div>
 </template>
+<script>
+export default {
+  head: {
+    title: "Best Dental Services in Ahmedabad - Vardan Dental Clinic ",
+    meta: [
+      {
+        hid: "description",
+        name: "description",
+        content:
+          "we offer dental implant, root canal treatment, teeth whitening, orthodontic treatment, clear aligner treatment, wisdom tooth removal, smile designing, periodontal flap surgery, child dental care, and cardiac diabetic dental care.",
+      },
+      {
+        name: "keywords",
+        content:
+          "Dental care, Best Dental Services in shahibaug Ahmedabad, dental implant, root canal treatment, teeth whitening, orthodontic treatment, clear aligner treatment, wisdom tooth removal, smile designing, periodontal flap surgery, child dental care, cardiac diabetic dental care",
+      },
+    ],
+  },
+};
+</script>

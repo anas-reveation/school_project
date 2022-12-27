@@ -43,6 +43,7 @@
           <div class="">
             <img
               src="../assets/img/doctor1.png"
+              alt="Best Dentist in Ahmedabad"
               style="width: 100%; height: 100%; margin-top: -15rem"
             />
           </div>

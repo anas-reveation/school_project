@@ -22,3 +22,24 @@
     <ServiceContact />
   </div>
 </template>
+<script>
+export default {
+  head: {
+    title:
+      "Best Dental Specialist, Shahibagh, Ahmedabad - Vardan Dental Clinic ",
+    meta: [
+      {
+        hid: "description",
+        name: "description",
+        content:
+          "Our dental specialists provide best dental treatment, which includes dental implant surgery, cosmetic dentistry, single sitting RCT, and full mouth rehabilitation.",
+      },
+      {
+        name: "keywords",
+        content:
+          "Best Dental Specialist, Shahibagh, Ahmedabad, Vardan Dental Clinic, Dental Implant Surgery, Cosmetic Dentistry, Single sitting RCT, Full mouth rehabilitation, Affordable Price, Dental checkup, Book an Appointment",
+      },
+    ],
+  },
+};
+</script>

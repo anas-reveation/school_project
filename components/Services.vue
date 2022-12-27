@@ -16,6 +16,7 @@
             <div class="text-center">
               <img
                 src="../assets/img/serv-i1.svg"
+                alt="Teeth Whitening"
                 style="width: 88px; height: 88px"
               />
               <h4 class="py-4 tertiary fw-semibold">Teeth Whitening</h4>
@@ -37,6 +38,7 @@
             <div class="text-center">
               <img
                 src="../assets/img/serv-i2.svg"
+                alt="Smile Designing"
                 style="width: 88px; height: 88px"
               />
               <h4 class="py-4 tertiary fw-semibold">Smile Designing</h4>
@@ -58,6 +60,7 @@
             <div class="text-center">
               <img
                 src="../assets/img/serv-i6.svg"
+                alt="Clear Aligners"
                 style="width: 88px; height: 88px"
               />
               <h4 class="py-4 tertiary fw-semibold">Clear Aligners</h4>
@@ -79,6 +82,7 @@
             <div class="text-center">
               <img
                 src="../assets/img/serv-i3.svg"
+                alt="Oral Surgery"
                 style="width: 88px; height: 88px"
               />
               <h4 class="py-4 tertiary fw-semibold">Oral Surgery</h4>
@@ -101,6 +105,7 @@
             <div class="text-center">
               <img
                 src="../assets/img/serv-i4.svg"
+                alt="Dental Implant"
                 style="width: 88px; height: 88px"
               />
               <h4 class="py-4 tertiary fw-semibold">Dental Implant</h4>
@@ -121,6 +126,7 @@
             <div class="text-center">
               <img
                 src="../assets/img/serv-i5.svg"
+                alt="Root Canal"
                 style="width: 88px; height: 88px"
               />
               <h4 class="py-4 tertiary fw-semibold">Root Canal</h4>

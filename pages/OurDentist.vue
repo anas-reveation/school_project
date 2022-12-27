@@ -19,3 +19,23 @@
     <Contact style="margin-bottom: 4rem !important" />
   </div>
 </template>
+<script>
+export default {
+  head: {
+    title: "Top Dentist - Vardan Dental Clinic & Implant Center",
+    meta: [
+      {
+        hid: "description",
+        name: "description",
+        content:
+          "Our dentists provide the best dental treatment in Ahmedabad. Dr. Ravi Patel, Dr. Urvashi Patel, and Dr. Ketul Patel provide quality dental care to all age groups.",
+      },
+      {
+        name: "keywords",
+        content:
+          "Our Dentist, best dental and aesthetic services in ahmedabad, top dentist in Ahmedabad, Dr. Ravi Patel (MBBS, BDS), Dr. Urvashi Patel (MBBS, BDS), Dr. Ketul Patel (MBBS, BDS), Vardan Dental Clinic team",
+      },
+    ],
+  },
+};
+</script>
