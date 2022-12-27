@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-primary">
+  <div class="bg-primary-color">
     <div class="container">
       <div class="row f-h5 py-4 gy-4 feature-h">
         <div

@@ -75,7 +75,7 @@
 .healthy-s p{
     text-align: justify;
 }
-.bg-primary{
+.bg-primary-color{
     background-color: var(--primary) !important;
     color: var(--light);
 }
@@ -173,18 +173,18 @@
     margin-top: 378px;
     margin-left: -17px;
 }
-.choose-bg1::after{
-    background-image: url(../img/Rectangle-seven.svg);
-    content: "";
-    z-index: -1;
-    position: absolute;
-    height: 34.15px;
-    background-size: cover;
-    right: 1%;
-    align-items: center;
-    display: flex;
-    width: 91.15px;
-}
+// .choose-bg1::after{
+//     background-image: url(../img/Rectangle-seven.svg);
+//     content: "";
+//     z-index: -1;
+//     position: absolute;
+//     height: 34.15px;
+//     background-size: cover;
+//     right: 1%;
+//     align-items: center;
+//     display: flex;
+//     width: 91.15px;
+// }
 .our-doc::before{
     background-image: url(../img/Ellipse.svg);
     content: "";
@@ -445,9 +445,6 @@
         height: 10%;
         left: 85%;
         width: 13%;
-    }
-    .choose-bg1::after{
-        display: none;
     }
     .sd-bg img{
         padding: 14px;

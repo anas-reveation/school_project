@@ -7,7 +7,7 @@
             <img
               class="rounded-circle"
               src="../assets/img/doctor-1.png"
-              style="width: 187px; height: 198px"
+              style="width: 187px; height: 187px"
             />
           </div>
           <div class="text-center">
@@ -27,7 +27,7 @@
             <img
               class="rounded-circle"
               src="../assets/img/doctor-2.png"
-              style="width: 187px; height: 198px"
+              style="width: 187px; height: 187px"
             />
           </div>
           <div class="text-center">
@@ -48,7 +48,7 @@
             <img
               class="rounded-circle"
               src="../assets/img/ourdoc-2.png"
-              style="width: 187px; height: 198px"
+              style="width: 187px; height: 187px"
             />
           </div>
           <div class="text-center">
