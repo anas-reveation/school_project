@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div class="container my-5 psm-4">
+    <div class="container my-5 psm-4" style="margin-top: 5rem !important">
       <h2 class="fw-bold secondary text-center mb-5">
         Sneak Peak into
         <span class="primary">Vardan Photo Gallery</span>
@@ -16,7 +16,7 @@
               style="width: 100%; height: 100%"
             />
           </div>
-          <p class="mt-4" style="text-align: justify">
+          <p class="mt-5" style="text-align: justify">
             Vardan's core advantages come from a comprehensive, state-of-the-art
             infrastructure. Our clinic is adequately set up, with well-equipped
             machinery, a clean, hygienic environment, and appropriate facilities
@@ -26,7 +26,7 @@
         </div>
       </div>
     </div>
-    <div class="container mb-5">
+    <div class="container mb-5 mt-5 pt-3">
       <h2 class="fw-bold secondary mb-5 text-md-start text-center">
         Photo <span class="primary">Gallery</span>
       </h2>

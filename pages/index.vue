@@ -36,7 +36,7 @@
                 </div>
               </div>
               <button
-                class="carousel-control-next"
+                class="carousel-control-next next-btn"
                 type="button"
                 data-bs-target="#carouselExampleControlsNoTouching"
                 data-bs-slide="next"
@@ -65,9 +65,10 @@
                 class="test-img1"
               />
             </div>
-            <div class="col-md-6 col-12 text-md-end text-center">
+            <div class="col-md-7 col-xl-7 col-lg-6 col-12 text-center">
               <img
                 src="../assets/img/test-1.svg"
+                style="left: 18%"
                 alt="Happy Patients"
                 class="test-img1"
               />

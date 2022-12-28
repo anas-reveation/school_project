@@ -28,14 +28,14 @@
               class="row mt-5 align-items-center"
               style="border-bottom: 1px solid rgba(100, 100, 100, 0.5)"
             >
-              <div class="col-md-3 col-xl-2 col-lg-3">
+              <div class="col-md-3 col-xl-2 col-lg-3 mb-2">
                 <img
                   src="../assets/img/technology.png"
                   alt="Advanced Technology"
-                  style="width: 82px; height: 97px"
+                  style="width: 82px; height: 82px"
                 />
               </div>
-              <div class="col-md-9 col-xl-10 col-lg-9">
+              <div class="col-md-9 col-xl-10 col-lg-9 mb-2">
                 <h4 class="primary fw-bold">Advanced Technology</h4>
                 <p class="font-p" style="text-align: justify">
                   We offer the most recent dental technology, expediting
@@ -43,15 +43,18 @@
                 </p>
               </div>
             </div>
-            <div class="row mt-4 align-items-center">
-              <div class="col-md-3 col-xl-2 col-lg-3">
+            <div
+              class="row mt-4 align-items-center"
+              style="border-bottom: 1px solid rgba(100, 100, 100, 0.5)"
+            >
+              <div class="col-md-3 col-xl-2 col-lg-3 mb-2">
                 <img
                   src="../assets/img/laboratory.png"
                   alt="In House Laboratory"
-                  style="width: 82px; height: 97px"
+                  style="width: 82px; height: 82px"
                 />
               </div>
-              <div class="col-md-9 col-xl-10 col-lg-9">
+              <div class="col-md-9 col-xl-10 col-lg-9 mb-2">
                 <h4 class="primary fw-bold">In House Laboratory</h4>
                 <p class="font-p" style="text-align: justify">
                   The latest cutting-edge dental technology in the area is
@@ -59,12 +62,12 @@
                 </p>
               </div>
             </div>
-            <div class="row mt-5 align-items-center">
+            <div class="row mt-4 align-items-center">
               <div class="col-md-3 col-xl-2 col-lg-3">
                 <img
                   src="../assets/img/friendly.png"
                   alt="Friendly Staff"
-                  style="width: 82px; height: 97px"
+                  style="width: 82px; height: 82px"
                 />
               </div>
               <div class="col-md-9 col-xl-10 col-lg-9">

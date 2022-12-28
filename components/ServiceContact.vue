@@ -5,7 +5,7 @@
         <div
           class="col-md-12 d-flex align-items-center justify-content-center flex-column text-center"
         >
-          <div>
+          <div class="">
             <h1 class="text-white">
               <span class="primary fw-semibold">Looking for Consultion?</span>
               Connect with us Today!
@@ -16,7 +16,7 @@
           class="row align-items-center justify-content-center text-center pt-5"
         >
           <div class="col-lg-4 col-md-6">
-            <div>
+            <div class="text-md-end">
               <img src="../assets/img/Email.svg" alt="Email" />
               <span class="font-16"
                 ><a
@@ -28,7 +28,7 @@
             </div>
           </div>
           <div class="col-md-4 col-lg-3">
-            <div>
+            <div class="text-md-start">
               <img src="../assets/img/Phone.svg" alt="Phone" />
               <span class="font-16"
                 ><a

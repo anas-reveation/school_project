@@ -4,8 +4,7 @@
       <div
         class="col-lg-6 col-md-12 aboutbg"
         data-aos="fade-right"
-        data-aos-offset="300"
-        data-aos-easing="ease-in-sine"
+        data-aos-duration="400"
       >
         <img
           src="../assets/img/about-elemt.svg"
@@ -22,8 +21,7 @@
       <div
         class="col-lg-6 col-md-12"
         data-aos="fade-left"
-        data-aos-offset="300"
-        data-aos-easing="ease-in-sine"
+        data-aos-duration="400"
       >
         <p class="secondary fw-semibold text-center text-md-start">
           WORLD-CLASS CARE, BEST DOCTORS AND AFFORDABLE FEES

@@ -82,6 +82,23 @@
     background-color: var(--primary) !important;
     color: var(--light);
 }
+.button-h:hover{
+    background-color: var(--light) !important;
+    color: var(--primary) !important;
+    border-color: var(--primary);
+}
+.button-h a:hover{
+    color: var(--primary) !important;
+    text-decoration: none !important;
+}
+.hover-speciality:hover{
+    background-color: var(--light) !important;
+    color: var(--primary);
+    border: 2px solid var(--primary);
+}
+.hover-speciality:hover .span1{
+    // border: 1px solid var(--primary);
+}
 .s-tab {
     height: 100%;
 }
@@ -115,7 +132,7 @@
 }
 .font-p{
     font-size: 12px;
-    text-align: justify;
+    text-align: center;
 }
 .navbar-nav .nav-link.active, .navbar-nav .show>.nav-link{
     color: var(--primary);
@@ -151,7 +168,7 @@
     align-items: center;
     display: flex;
     width: 12%;
-    top: 71%;
+    top: 75%;
 }
 .bg-dot::after{
     background-image: url(../img/bg-dot.svg);
@@ -226,6 +243,18 @@
     display: flex;
     width: 91.15px;
 }
+.serv-detail::before{
+    background-image: url(../img/service-elem.svg);
+    content: "";
+    z-index: -1;
+    position: absolute;
+    height: 117.15px;
+    background-size: cover;
+    right: 0%;
+    align-items: center;
+    display: flex;
+    width: 91.15px;
+}
 
 .middle-bg{
     background-image: linear-gradient(257.19deg, rgba(11, 34, 48, 0.85) 14.1%, rgba(30, 109, 120, 0.85) 88.13%), url(../img/middle-banner.png);
@@ -280,6 +309,29 @@
     width: 106.338px;
     
 }
+.profession::before{
+    background-color: var(--primary);
+    content: "";
+    height: 38px;
+    position: absolute;
+    border-radius: 50%;
+    z-index: -2;
+    margin-left: -16px;
+    margin-top: 25rem;
+    width: 38px;
+    
+}
+.profession::after{
+    background-color: var(--bg-element);
+    content: "";
+    margin-left: -35px;
+    height: 479.612px;
+    position: absolute;
+    z-index: -2;
+    width: 75.95px;
+    margin-top: -24px;
+    
+}
 .galleries::before{
     background-color: var(--bg-element);
     content: "";
@@ -306,6 +358,7 @@
     right: 15%;
     position: relative;
     top: -8%;
+    border-radius: 5px;
 }
 .service-curve-1 {
     display: flex;
@@ -346,7 +399,7 @@
     position: relative;
     background-color: var(--light);
     margin-top: -5rem;
-    margin-bottom: 1px;
+    margin-bottom: 10px;
 }
 .special-treat::before{
     background-color: var(--primary);
@@ -373,6 +426,10 @@
 .h-85{
     height: 85%;
 }
+.healthy-md{
+    margin-bottom: -5rem !important;
+    margin-top: 6rem !important;
+}
 //phone
 @media (max-width: 767px){
     .home-sm h1{
@@ -387,6 +444,33 @@
     z-index: -2;
     width: 51.95px;
     margin-top: -15px;
+    }
+    .profession::after{
+        height: 283.612px;
+        width: 51.95px;
+        }
+        .profession::before{
+            margin-top: 12rem;
+        }
+    .bann-h1{
+        font-size: 25px;
+    }
+    .des-serv{
+    margin-top: 4rem !important;
+    margin-bottom: 2rem !important;
+    }
+    .healthy-md{
+        margin-bottom: -3rem !important;
+    }
+    .bg-banner{
+        background-position: 66%;
+    }
+    .bg-service{
+        background-position: 28%;
+        padding: 104px 0px 98px 0px;
+    }
+    .next-btn{
+        width: 100%;
     }
     .galleries::before{
         background-color: var(--bg-element);
@@ -443,11 +527,7 @@
         overflow: hidden;
     }
     .choose-bg::after{
-        top: 322rem;
-        position: absolute;
-        height: 10%;
-        left: 85%;
-        width: 13%;
+        display: none;
     }
     .sd-bg img{
         padding: 14px;
@@ -521,6 +601,13 @@
        }
        .add-f span{
            font-size: 10px;
+       }
+       .profession::after{
+        margin-left: -52px;
+    height: 513.612px;
+       }
+       .profession::before{
+        margin-top: 27rem;
        }
        .home-sm{
         margin-top: -1rem !important;
@@ -599,8 +686,15 @@
     .middle-bg{
       padding: 14px 0px 31px 0px;
     }
+    .profession::before{
+        margin-top: 17rem;
+    }
     .aboutbg::before{
         margin-top: 251px;
+    }
+    .profession::after{
+    margin-left: -53px;
+    height: 373.612px;
     }
     .galleries::before{
         height: 462.612px;

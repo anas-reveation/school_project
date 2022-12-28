@@ -16,7 +16,7 @@
     </div>
     <div class="row mt-4 gy-5" data-aos="zoom-in" data-aos-duration="400">
       <div class="col-md-6 col-lg-4">
-        <div class="shadow px-5 py-4 h-100">
+        <div class="shadow px-5 py-4 h-100 rounded">
           <img src="../assets/img/bg-semicircle.svg" class="service-curve" />
           <div class="service-curve-1">
             <div class="text-center">
@@ -41,7 +41,7 @@
         </div>
       </div>
       <div class="col-md-6 col-lg-4">
-        <div class="shadow-s px-5 py-4 h-100">
+        <div class="shadow px-5 py-4 h-100 rounded">
           <img src="../assets/img/bg-semicircle.svg" class="service-curve" />
           <div class="service-curve-1">
             <div class="text-center">
@@ -66,7 +66,7 @@
         </div>
       </div>
       <div class="col-md-6 col-lg-4">
-        <div class="shadow px-5 py-4 h-100">
+        <div class="shadow px-5 py-4 h-100 rounded">
           <img src="../assets/img/bg-semicircle.svg" class="service-curve" />
           <div class="service-curve-1">
             <div class="text-center">
@@ -91,7 +91,7 @@
         </div>
       </div>
       <div class="col-md-6 col-lg-4">
-        <div class="shadow px-5 py-4 h-100">
+        <div class="shadow px-5 py-4 h-100 rounded">
           <img src="../assets/img/bg-semicircle.svg" class="service-curve" />
           <div class="service-curve-1">
             <div class="text-center">
@@ -116,7 +116,7 @@
         </div>
       </div>
       <div class="col-md-6 col-lg-4">
-        <div class="shadow px-5 py-4 h-100">
+        <div class="shadow px-5 py-4 h-100 rounded">
           <img src="../assets/img/bg-semicircle.svg" class="service-curve" />
           <div class="service-curve-1">
             <div class="text-center">

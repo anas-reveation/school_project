@@ -16,8 +16,8 @@
             alt="Book an Appointment"
             style="width: 100%; height: 100%"
           />
-          <div class="my-4 text-md-start text-center">
-            <h4 class="fw-bold">Book an Appointment</h4>
+          <div class="my-5">
+            <h4 class="fw-bold text-center">Book an Appointment</h4>
             <p>
               The Vardan Dental Clinic in Ahmedabad allows patients to schedule
               an appointment online using our "Book an Appointment" Form.
@@ -37,8 +37,8 @@
             alt="Checkup"
             style="width: 100%; height: 100%"
           />
-          <div class="my-4 text-md-start text-center">
-            <h4 class="fw-bold">Checkup</h4>
+          <div class="my-5">
+            <h4 class="fw-bold text-center">Checkup</h4>
             <p>
               The doctor does the checkup once the patient makes an appointment.
               The doctor will provide you with the best treatment.
@@ -58,8 +58,8 @@
             alt="Enjoy Healthy Life"
             style="width: 100%; height: 100%"
           />
-          <div class="my-4 text-md-start text-center">
-            <h4 class="fw-bold">Enjoy Healthy Life</h4>
+          <div class="my-5">
+            <h4 class="fw-bold text-center">Enjoy Healthy Life</h4>
             <p>
               Follow the prescribed treatment given by the doctor so that you
               can enjoy a healthy life and stress-free life.

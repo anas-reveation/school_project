@@ -8,7 +8,7 @@
         >
           <div class="row justify-content-end">
             <div
-              class="col-lg-12 col-xl-10 col-md-12 col-12 text-md-center text-lg-center text-xl-start"
+              class="col-lg-12 col-xl-10 col-md-12 col-12 text-md-center text-lg-center text-xl-start ps-3"
             >
               <img
                 src="../assets/img/Alarm Clock.svg"

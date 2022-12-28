@@ -11,14 +11,14 @@
             <h1 class="text-white fw-semibold text-center">
               Our Special Treatment
             </h1>
-            <h2 class="primary fw-bold">What We Do</h2>
+            <h1 class="primary bann-h1 fw-bold">What We Do</h1>
           </div>
         </div>
       </div>
     </div>
     <SpecialTreatment />
     <ChooseService />
-    <Healthy />
+    <Healthy class="pt-3 mb-3" />
     <ServiceContact />
   </div>
 </template>

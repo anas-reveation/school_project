@@ -1,6 +1,9 @@
 <template>
   <div class="my-5">
-    <div class="container psm-4">
+    <div
+      class="container psm-4 des-serv"
+      style="margin-top: 7rem; margin-bottom: 4rem"
+    >
       <div class="col-12">
         <div class="row justify-content-around gy-4 overflow-hidden">
           <div
@@ -40,7 +43,7 @@
         </div>
       </div>
     </div>
-    <div class="container my-5 py-4 mtsm">
+    <div class="container my-5 py-4 mtsm serv-detail">
       <h2 class="fw-bold secondary text-center text-center">
         Our <span class="primary">Best</span> Services
       </h2>

@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="my-5 pt-3">
     <div class="container">
       <div class="text-center my-5">
         <h2 class="fw-bold">

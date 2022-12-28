@@ -9,7 +9,7 @@
             data-aos-duration="400"
           >
             <h1 class="text-white fw-semibold">Services</h1>
-            <h2 class="primary fw-bold">What We Do</h2>
+            <h1 class="primary fw-bold bann-h1">What We Do</h1>
           </div>
         </div>
       </div>

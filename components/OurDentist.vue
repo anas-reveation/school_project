@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div class="container my-5">
+    <div class="container my-5 pt-4">
       <h2 class="fw-bold secondary text-center text-center mb-3">
         Meet our <span class="primary"> Elite Team</span>
       </h2>
@@ -14,7 +14,7 @@
         </p>
       </div>
       <div
-        class="row mt-5 gy-4 overflow-hidden"
+        class="row mt-4 gy-4 overflow-hidden"
         data-aos="fade-right"
         data-aos-duration="400"
       >
@@ -26,7 +26,7 @@
             style="width: 100%"
           />
           <div
-            class="d-flex justify-content-center align-items-center flex-column dentist-t"
+            class="d-flex justify-content-center align-items-center flex-column dentist-t rounded"
           >
             <h5 class="fw-bold secondary">
               Dr. Ravi Patel
@@ -49,7 +49,7 @@
             style="width: 100%"
           />
           <div
-            class="d-flex justify-content-center align-items-center flex-column dentist-t"
+            class="d-flex justify-content-center align-items-center flex-column dentist-t rounded"
           >
             <h5 class="fw-bold secondary">
               Dr. Urvashi Patel
@@ -73,7 +73,7 @@
             style="width: 100%"
           />
           <div
-            class="d-flex justify-content-center align-items-center flex-column dentist-t"
+            class="d-flex justify-content-center align-items-center flex-column dentist-t rounded"
           >
             <h5 class="fw-bold secondary">
               Dr. Ketul Patel

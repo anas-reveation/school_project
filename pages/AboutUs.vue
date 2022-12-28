@@ -3,7 +3,7 @@
     <AboutUsBanner />
     <BestDentalCare />
     <ChooseUsAbout />
-    <Healthy />
+    <Healthy class="healthy-md" />
     <MiddleBanner />
   </div>
 </template>

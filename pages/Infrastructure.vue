@@ -9,7 +9,9 @@
             data-aos-duration="400"
           >
             <h1 class="text-white fw-semibold">Our Infrastructure</h1>
-            <h2 class="primary fw-bold">Glimpse of Vardan’s Infrastructure</h2>
+            <h1 class="primary fw-bold bann-h1">
+              Glimpse of Vardan’s Infrastructure
+            </h1>
           </div>
         </div>
       </div>

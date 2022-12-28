@@ -29,11 +29,13 @@
           </p>
         </div>
         <div class="col-lg-6 col-md-12 col-12">
-          <img
-            src="../assets/img/profession.png"
-            alt="Our Doctors of Vardan"
-            class="w-100 rounded"
-          />
+          <div class="profession">
+            <img
+              src="../assets/img/profession.png"
+              alt="Our Doctors of Vardan"
+              class="w-100 rounded"
+            />
+          </div>
         </div>
       </div>
     </div>

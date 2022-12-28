@@ -11,7 +11,10 @@
     </div>
     <div class="row mt-5">
       <div class="col-md-6" data-aos="flip-left" data-aos-duration="400">
-        <div class="p-4" style="box-shadow: 0px 4px 20px rgb(0 0 0 / 10%)">
+        <div
+          class="p-4 rounded"
+          style="box-shadow: 0px 4px 20px rgb(0 0 0 / 10%)"
+        >
           <div class="" style="margin-top: -6rem">
             <img
               src="../assets/img/special1.png"
@@ -20,7 +23,9 @@
             />
           </div>
           <div class="speciality-p">
-            <h3 class="fw-bold text-center mb-3 pb-4">Implant Surgery</h3>
+            <h3 class="fw-bold text-center mb-3 pb-4 secondary">
+              Implant Surgery
+            </h3>
             <p>
               Implant surgery involves replacing the tooth roots with metal,
               screw-like posts and missing or damaged teeth with artificial
@@ -34,7 +39,10 @@
         data-aos="flip-left"
         data-aos-duration="400"
       >
-        <div class="p-4" style="box-shadow: 0px 4px 20px rgb(0 0 0 / 10%)">
+        <div
+          class="p-4 rounded"
+          style="box-shadow: 0px 4px 20px rgb(0 0 0 / 10%)"
+        >
           <div class="" style="margin-top: -6rem">
             <img
               src="../assets/img/special-2.png"
@@ -43,7 +51,9 @@
             />
           </div>
           <div class="speciality-p">
-            <h3 class="fw-bold text-center mb-3 pb-4">Cosmetic Dentistry</h3>
+            <h3 class="fw-bold text-center mb-3 pb-4 secondary">
+              Cosmetic Dentistry
+            </h3>
             <p>
               Cosmetic dentistry is the branch that focuses on improving a
               person's smile, general appearance, and dental health.
@@ -57,7 +67,10 @@
         data-aos="flip-left"
         data-aos-duration="400"
       >
-        <div class="p-4" style="box-shadow: 0px 4px 20px rgb(0 0 0 / 10%)">
+        <div
+          class="p-4 rounded"
+          style="box-shadow: 0px 4px 20px rgb(0 0 0 / 10%)"
+        >
           <div class="" style="margin-top: -6rem">
             <img
               src="../assets/img/special-3.png"
@@ -66,7 +79,9 @@
             />
           </div>
           <div class="speciality-p">
-            <h3 class="fw-bold text-center mb-3 pb-4">Single sitting RCT</h3>
+            <h3 class="fw-bold text-center mb-3 pb-4 secondary">
+              Single sitting RCT
+            </h3>
             <p>
               Root canal therapy can be finished in one session when there is an
               acute infection but no pus accumulation in or around the tooth.
@@ -89,7 +104,7 @@
             />
           </div>
           <div class="speciality-p">
-            <h3 class="fw-bold text-center mb-3 pb-4">
+            <h3 class="fw-bold text-center mb-3 pb-4 secondary">
               Full mouth rehabilitation
             </h3>
             <p>

@@ -20,7 +20,7 @@
           class="row align-items-center justify-content-center text-center pt-5"
         >
           <div class="col-lg-5 col-xl-4 col-md-6">
-            <div>
+            <div class="text-md-end">
               <img src="../assets/img/Email.svg" alt="Email" />
               <span class="font-16"
                 ><a
@@ -32,7 +32,7 @@
             </div>
           </div>
           <div class="col-md-4 col-lg-4 col-xl-3">
-            <div>
+            <div class="text-md-start">
               <img src="../assets/img/Phone.svg" alt="Phone" />
               <span class="font-16"
                 ><a

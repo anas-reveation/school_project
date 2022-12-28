@@ -9,7 +9,7 @@
             data-aos-duration="400"
           >
             <h1 class="text-white fw-semibold">Our Dentists</h1>
-            <h2 class="primary fw-bold">Get Best Treatment</h2>
+            <h1 class="primary fw-bold bann-h1">Get Best Treatment</h1>
           </div>
         </div>
       </div>

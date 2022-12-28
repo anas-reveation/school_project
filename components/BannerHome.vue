@@ -24,11 +24,11 @@
                 <a
                   href="https://api.whatsapp.com/send?phone=+919111222105&text=Hi,%20I%20would%20like%20to%20get%20more%20information.."
                   target="_blank"
-                  class="bg-primary-color text-decoration-none light-anc"
+                  class="bg-primary-color text-decoration-none light-anc hover-speciality"
                   style="border-radius: 21px; padding: 12px 30px 12px 5px"
                 >
                   <span
-                    class="p-2"
+                    class="p-2 span1"
                     style="background-color: var(--light); border-radius: 19px"
                     ><img src="../assets/img/arrow-right.svg" />
                   </span>

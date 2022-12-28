@@ -1,5 +1,5 @@
 <template>
-  <div class="container psm-4 my-5 mt-5">
+  <div class="container psm-4 mb-5 des-serv" style="margin-top: 7rem">
     <div class="col-12">
       <div
         class="row justify-content-around gy-4 align-items-center aos-overflow"
