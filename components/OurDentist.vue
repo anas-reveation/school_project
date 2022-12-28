@@ -31,7 +31,7 @@
             <h5 class="fw-bold secondary">
               Dr. Ravi Patel
               <span class="primary fw-light" style="font-size: 14px">
-                (MBBS, BDS)</span
+                (BDS)</span
               >
             </h5>
             <p class="py-3">
@@ -54,7 +54,7 @@
             <h5 class="fw-bold secondary">
               Dr. Urvashi Patel
               <span class="primary fw-light" style="font-size: 14px">
-                (MBBS, BDS)</span
+                (BDS)</span
               >
             </h5>
             <p class="py-3">
@@ -78,7 +78,7 @@
             <h5 class="fw-bold secondary">
               Dr. Ketul Patel
               <span class="primary fw-light" style="font-size: 14px">
-                (MBBS, BDS)</span
+                (BDS)</span
               >
             </h5>
             <p class="py-3">

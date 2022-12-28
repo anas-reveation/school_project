@@ -13,7 +13,7 @@
           </div>
           <div class="text-center">
             <h4 class="tertiary fw-semibold">Dr. Ravi Patel</h4>
-            <p class="fw-semibold">(MBBS,BDS)</p>
+            <p class="fw-semibold">(BDS)</p>
           </div>
           <p>
             He has completed his MBBS and BDS and is the founder of Vardan
@@ -34,7 +34,7 @@
           </div>
           <div class="text-center">
             <h4 class="tertiary fw-semibold">Dr. Urvashi Patel</h4>
-            <p class="fw-semibold">(MBBS,BDS)</p>
+            <p class="fw-semibold">(BDS)</p>
           </div>
           <p>
             She has completed her MBBS and BDS and is the founder of Vardan
@@ -56,7 +56,7 @@
           </div>
           <div class="text-center">
             <h4 class="tertiary fw-semibold">Dr. Ketul Patel</h4>
-            <p class="fw-semibold">(MBBS,BDS)</p>
+            <p class="fw-semibold">(BDS)</p>
           </div>
           <p>
             He is a renowned implantologist. Our patients love him for his

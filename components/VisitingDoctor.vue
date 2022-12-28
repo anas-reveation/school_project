@@ -25,12 +25,13 @@
                 alt="Dr. Nimesh Patel"
                 style="width: 88px"
               />
-              <h5 class="py-4 secondary fw-bold">
+              <h5 class="pt-4 pb-2 secondary fw-bold">
                 Dr. Nimesh Patel
                 <span class="primary fw-light" style="font-size: 14px">
-                  (MBBS, BDS)</span
+                  (MDS)</span
                 >
               </h5>
+              <h6 class="degree pb-2 fw-semibold">Orthodontist</h6>
             </div>
             <p class="font-p">
               He has put much effort into myofunctional orthopaedics and
@@ -50,12 +51,13 @@
                 alt="Dr. Rahul Dhanak"
                 style="width: 88px"
               />
-              <h5 class="py-4 secondary fw-bold">
+              <h5 class="pt-4 pb-2 secondary fw-bold">
                 Dr. Rahul Dhanak
                 <span class="primary fw-light" style="font-size: 14px">
-                  (MBBS, BDS)</span
+                  (MDS)</span
                 >
               </h5>
+              <h6 class="degree pb-2 fw-semibold">Oral Surgeon</h6>
             </div>
             <p class="font-p">
               He is a unique individual with exceptional intellectual ability
@@ -75,12 +77,13 @@
                 alt="Dr. Hardik Patel"
                 style="width: 88px"
               />
-              <h5 class="py-4 secondary fw-bold">
+              <h5 class="pt-4 pb-2 secondary fw-bold">
                 Dr. Hardik Patel
                 <span class="primary fw-light" style="font-size: 14px">
-                  (MBBS, BDS)</span
+                  (MDS)</span
                 >
               </h5>
+              <h6 class="degree pb-2 fw-semibold">Implantologist</h6>
             </div>
             <p class="font-p">
               He is a young, dynamic, enthusiastic, ambitious implantologist
@@ -100,12 +103,13 @@
                 alt="Dr. Birjesh Patel"
                 style="width: 88px"
               />
-              <h5 class="py-4 secondary fw-bold">
+              <h5 class="pt-4 pb-2 secondary fw-bold">
                 Dr. Birjesh Patel
                 <span class="primary fw-light" style="font-size: 14px">
-                  (MBBS, BDS)</span
+                  (MDS)</span
                 >
               </h5>
+              <h6 class="degree pb-2 fw-semibold">Endodontist</h6>
             </div>
             <p class="font-p">
               He provides patient-friendly scientific advice while upholding the
@@ -125,12 +129,13 @@
                 alt="Dr. Dhrumin"
                 style="width: 88px"
               />
-              <h5 class="py-4 secondary fw-bold">
+              <h5 class="pt-4 pb-2 secondary fw-bold">
                 Dr. Dhrumin
                 <span class="primary fw-light" style="font-size: 14px">
-                  (MBBS, BDS)</span
+                  (MDS)</span
                 >
               </h5>
+              <h6 class="degree pb-2 fw-semibold">Endodontist</h6>
             </div>
             <p class="font-p">
               Dr. Dhrumin is a highly qualified and trained endodontist doctor.

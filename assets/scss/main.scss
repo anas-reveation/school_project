@@ -12,6 +12,7 @@
     --bg-blogs: #faf9ff;
     --footer-tx-bt: #bebebe;
     --accordian-color: #4B436B;
+    --degree: #3A5367;
 
 }
 .navbar-nav li a{
@@ -25,6 +26,9 @@
 }
 .service-t{
     color: var(--service-title);
+}
+.degree{
+    color: var(--degree);
 }
 .bann-h1{
     font-size: 45px;
