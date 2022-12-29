@@ -143,7 +143,7 @@
       </div>
     </div>
     <div class="text-end pt-4">
-      <nuxt-link to="/servicedetail" class="primary fw-semibold anchor"
+      <nuxt-link to="/services" class="primary fw-semibold anchor"
         >View More</nuxt-link
       >
     </div>
