@@ -78,7 +78,7 @@
                     <li>
                       <nuxt-link to="#home_section">Our Clinic</nuxt-link>
                     </li>
-                    <li><nuxt-link to="/ourdentist">Our Doctors</nuxt-link></li>
+                    <li><nuxt-link to="/dentists">Our Doctors</nuxt-link></li>
                   </ul>
                 </div>
               </div>
@@ -89,12 +89,10 @@
                   <h5 class="text-white">Services</h5>
                   <ul>
                     <li>
-                      <nuxt-link to="/servicedetail">Our Services</nuxt-link>
+                      <nuxt-link to="/services">Our Services</nuxt-link>
                     </li>
                     <li>
-                      <nuxt-link to="/servicespeciality"
-                        >Our Speciality</nuxt-link
-                      >
+                      <nuxt-link to="/speciality">Our Speciality</nuxt-link>
                     </li>
                   </ul>
                 </div>

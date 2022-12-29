@@ -50,12 +50,12 @@
                 id="dropdown-2"
               >
                 <li @click="myFunction()">
-                  <nuxt-link class="dropdown-item" to="/servicedetail"
+                  <nuxt-link class="dropdown-item" to="/services"
                     >Our Services</nuxt-link
                   >
                 </li>
                 <li @click="myFunction()">
-                  <nuxt-link class="dropdown-item" to="/servicespeciality"
+                  <nuxt-link class="dropdown-item" to="/speciality"
                     >Speciality</nuxt-link
                   >
                 </li>
@@ -80,7 +80,7 @@
               </nuxt-link>
             </li>
             <li class="nav-item pe-3" @click="myFunction()">
-              <nuxt-link class="nav-link text-dark" to="/ourdentist"
+              <nuxt-link class="nav-link text-dark" to="/dentists"
                 >Our Dentists</nuxt-link
               >
             </li>
