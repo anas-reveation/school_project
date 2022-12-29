@@ -620,6 +620,12 @@
        .profession::before{
         margin-top: 27rem;
        }
+       .service-curve {
+        right: 20%;
+    }
+    .service-curve-2 {
+        left: 77%;
+    }
        .home-sm{
         margin-top: -1rem !important;
        }
@@ -693,6 +699,13 @@
     // }
     .gallery-sm img{
         height: 282px !important;
+    }
+    .service-curve {
+        right: 24%;
+        top: -5%;
+    }
+    .service-curve-2{
+        left: 69%;
     }
     .dentist-t{
         height: 48%;

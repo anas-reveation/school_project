@@ -25,7 +25,9 @@
             data-aos-duration="400"
           >
             <h6 class="text-center">Best Dental Care</h6>
-            <h2 class="fw-bold secondary text-center text-md-start">
+            <h2
+              class="fw-bold secondary text-center text-md-center text-lg-start"
+            >
               We Make Your <span class="primary">Smile Beautiful</span>
             </h2>
             <P style="text-align: justify"

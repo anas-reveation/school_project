@@ -15,7 +15,7 @@
         <div
           class="row align-items-center justify-content-center text-center pt-5"
         >
-          <div class="col-lg-4 col-md-6">
+          <div class="col-xl-4 col-lg-5 col-md-6">
             <div class="text-md-end">
               <img src="../assets/img/Email.svg" alt="Email" />
               <span class="font-16"

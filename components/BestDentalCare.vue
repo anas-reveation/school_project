@@ -22,10 +22,10 @@
           data-aos="fade-left"
           data-aos-duration="400"
         >
-          <h5 class="text-md-start text-center" style="font-weight: 600">
+          <h5 class="text-lg-start text-center" style="font-weight: 600">
             Who we are
           </h5>
-          <h2 class="fw-bold secondary text-center text-md-start">
+          <h2 class="fw-bold secondary text-center text-lg-start">
             The Best Dental Clinic near you <span class="primary"></span>
           </h2>
           <P style="text-align: justify"

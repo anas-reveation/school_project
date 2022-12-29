@@ -84,7 +84,7 @@
                 >Our Dentists</nuxt-link
               >
             </li>
-            <li>
+            <li class="d-md-block d-none">
               <button
                 type="button"
                 class="btn bg-primary-color button-h rounded-pill btn-small"
