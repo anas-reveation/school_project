@@ -18,22 +18,21 @@
         data-aos="fade-right"
         data-aos-duration="400"
       >
-        <div class="col-md-4 col-12">
+        <div class="col-md-12 col-lg-4 col-12">
           <img
             src="../assets/img/dentist1.png"
             alt="Dr. Ravi Patel (MBBS, BDS)"
             class="p-3"
             style="width: 100%"
           />
-          <div
-            class="d-flex justify-content-center align-items-center flex-column dentist-t rounded"
-          >
-            <h5 class="fw-bold secondary">
+          <div class="dentist-t rounded">
+            <h5 class="fw-bold secondary text-center">
               Dr. Ravi Patel
               <span class="primary fw-light" style="font-size: 14px">
                 (BDS)</span
               >
             </h5>
+            <h6 class="degree text-center pt-2 fw-semibold">Implantologist</h6>
             <p class="py-3">
               He has completed his MBBS and BDS and is the founder of Vardan
               Dental Clinic. He has excellent experience in holistic dental care
@@ -41,46 +40,42 @@
             </p>
           </div>
         </div>
-        <div class="col-md-4 col-12">
+        <div class="col-md-12 col-lg-4 col-12">
           <img
             src="../assets/img/dentist2.png"
             alt="Dr. Urvashi Patel (MBBS, BDS)"
             class="p-3"
             style="width: 100%"
           />
-          <div
-            class="d-flex justify-content-center align-items-center flex-column dentist-t rounded"
-          >
-            <h5 class="fw-bold secondary">
+          <div class="dentist-t rounded">
+            <h5 class="fw-bold secondary text-center">
               Dr. Urvashi Patel
               <span class="primary fw-light" style="font-size: 14px">
                 (BDS)</span
               >
             </h5>
+            <h6 class="degree text-center pt-2 fw-semibold">Implantologist</h6>
             <p class="py-3">
               She has completed her MBBS and BDS and is the founder of Vardan
-              Dental Clinic. She is soft-spoken, pleasant, and a perfectionist,
-              and she believes in giving quality dental care to every patient
-              visiting us.
+              Dental Clinic. She is soft-spoken, and a perfectionist.
             </p>
           </div>
         </div>
-        <div class="col-md-4 col-12">
+        <div class="col-md-12 col-lg-4 col-12">
           <img
             src="../assets/img/dentist3.png"
             alt="Dr. Ketul Patel (MBBS, BDS)"
             class="p-3"
             style="width: 100%"
           />
-          <div
-            class="d-flex justify-content-center align-items-center flex-column dentist-t rounded"
-          >
-            <h5 class="fw-bold secondary">
+          <div class="dentist-t rounded">
+            <h5 class="fw-bold secondary text-center">
               Dr. Ketul Patel
               <span class="primary fw-light" style="font-size: 14px">
                 (BDS)</span
               >
             </h5>
+            <h6 class="degree pt-2 text-center fw-semibold">Implantologist</h6>
             <p class="py-3">
               He is a renowned implantologist. Our patients love him for his
               excellent handling of implant cases. He is the founder of Vardan

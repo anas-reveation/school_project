@@ -6,7 +6,7 @@
           <div class="container">
             <div class="row py-5 justify-content-end">
               <div class="col-md-11">
-                <h2 class="text-white fw-semibold">
+                <h2 class="text-white">
                   Great Reasons to Choose
                   <span class="primary">Vardan Dental Clinic</span>
                 </h2>

@@ -17,10 +17,10 @@
             style="width: 100%; height: 100%"
           />
           <div class="my-5">
-            <h4 class="fw-bold text-center">Book an Appointment</h4>
+            <h4 class="fw-bold text-center">Connect with us</h4>
             <p>
-              The Vardan Dental Clinic in Ahmedabad allows patients to schedule
-              an appointment online using our "Book an Appointment" Form.
+              Our Vardan Dental Clinic in Ahmedabad allows patients to schedule
+              an appointment online using our "Whatsapp" service.
             </p>
           </div>
         </div>

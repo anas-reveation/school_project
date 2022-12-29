@@ -11,14 +11,16 @@
           >
             <div class="text-white pt-5 mt-3 pb-5 home-sm">
               <h1 class="py-3 fw-bold" style="font-size: 58px">
-                Restore Your Smile with
-                <span class="fw-bold primary">Vardan Dental Treatment</span>
+                Restore your smile with
+                <span class="fw-bold primary"
+                  >our Trusted Liberty Dentists</span
+                >
               </h1>
               <p class="text-white text-justify">
-                Vardan dental treatment is a restorative surgery to replace
-                missing teeth and restore your smile back to its original
-                beauty. With this treatment, you can return one or two missing
-                teeth without needing dentures or bridges.
+                Get modern dentistry with a Personal Touch! We offer all the
+                treatments you’d expect from a great dentist. Not sure what your
+                smile needs? Start with an exam of your teeth and we’ll go from
+                there!
               </p>
               <div class="mt-5 pt-3">
                 <a
@@ -32,7 +34,7 @@
                     style="background-color: var(--light); border-radius: 19px"
                     ><img src="../assets/img/arrow-right.svg" />
                   </span>
-                  <span class="ps-1 fw-semibold"> Schedule an Appointment</span>
+                  <span class="ps-1 fw-semibold"> Whatsapp Us Today</span>
                 </a>
               </div>
             </div>

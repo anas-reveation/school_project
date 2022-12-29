@@ -61,11 +61,11 @@
         >
           <div class="row">
             <div class="col-md-6 col-6">
-              <img src="../assets/img/test-3.svg" alt="Happy Patients" />
+              <img src="../assets/img/test-2.svg" alt="Happy Patients" />
             </div>
             <div class="col-md-6 col-6 text-end text-md-start">
               <img
-                src="../assets/img/test-2.svg"
+                src="../assets/img/test-3.svg"
                 alt="Happy Patients"
                 class="test-img1"
               />

@@ -21,7 +21,7 @@
               <span class="font-16"
                 ><a
                   href="mailto:drketulpatel05051976@gmail.com"
-                  class="primary text-decoration-none fw-semibold"
+                  class="primary text-decoration-none fw-semibold light-anc"
                   >drketulpatel05051976@gmail.com</a
                 ></span
               >
@@ -33,7 +33,7 @@
               <span class="font-16"
                 ><a
                   href="tel: +91-9898025261"
-                  class="primary text-decoration-none fw-semibold"
+                  class="primary text-decoration-none fw-semibold light-anc"
                   >+91 - 9898025261</a
                 ></span
               >

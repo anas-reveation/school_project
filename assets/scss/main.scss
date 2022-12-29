@@ -404,6 +404,7 @@
     background-color: var(--light);
     margin-top: -5rem;
     margin-bottom: 10px;
+    height: 35%;
 }
 .special-treat::before{
     background-color: var(--primary);
@@ -458,6 +459,9 @@
         }
     .bann-h1{
         font-size: 25px;
+    }
+    .dentist-t{
+        height: auto;
     }
     .des-serv{
     margin-top: 4rem !important;
@@ -610,6 +614,9 @@
         margin-left: -52px;
     height: 513.612px;
        }
+       .dentist-t{
+        height: auto;
+    }
        .profession::before{
         margin-top: 27rem;
        }
@@ -687,6 +694,9 @@
     .gallery-sm img{
         height: 282px !important;
     }
+    .dentist-t{
+        height: 48%;
+    }
     .middle-bg{
       padding: 14px 0px 31px 0px;
     }
@@ -708,6 +718,28 @@
     }
     .sd-bg::before{
         height: 376.612px;
+    }
+}
+@media (min-width: 1200px) and (max-width: 1399px){
+
+    .home-sm{
+        margin-top: -2rem !important;
+    }
+    .our-doc1 img{
+        margin-top: -13rem !important;
+    }
+    .aboutbg::before{
+        margin-top: 324px;
+    }
+    .service-curve{
+        right: 17%;
+        top: -6%;
+    }
+    .profession::before{
+        margin-top: 21rem;
+    }
+    .sev-2 {
+        margin-left: -25rem;
     }
 }
 @media (min-width: 1200px){

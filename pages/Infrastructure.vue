@@ -8,7 +8,7 @@
             data-aos="zoom-in"
             data-aos-duration="400"
           >
-            <h1 class="text-white fw-semibold">Our Infrastructure</h1>
+            <h1 class="text-white">Our Infrastructure</h1>
             <h1 class="primary fw-bold bann-h1">
               Glimpse of Vardan’s Infrastructure
             </h1>

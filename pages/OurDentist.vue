@@ -8,7 +8,7 @@
             data-aos="zoom-in"
             data-aos-duration="400"
           >
-            <h1 class="text-white fw-semibold">Our Dentists</h1>
+            <h1 class="text-white">Our Dentists</h1>
             <h1 class="primary fw-bold bann-h1">Get Best Treatment</h1>
           </div>
         </div>

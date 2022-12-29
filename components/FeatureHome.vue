@@ -53,8 +53,8 @@
             </div>
             <div class="col-md-8 col-8 d-flex">
               <div class="">
-                <h4 class="fw-bold text-center">2+</h4>
-                <h5 class="fw-normal text-center">Speciality Clinics</h5>
+                <h4 class="fw-bold text-center">1</h4>
+                <h5 class="fw-normal text-center">Speciality Clinic</h5>
               </div>
             </div>
           </div>

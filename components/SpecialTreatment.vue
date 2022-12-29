@@ -12,7 +12,7 @@
     <div class="row mt-5">
       <div class="col-md-6" data-aos="flip-left" data-aos-duration="400">
         <div
-          class="p-4 rounded"
+          class="p-4 rounded h-100"
           style="box-shadow: 0px 4px 20px rgb(0 0 0 / 10%)"
         >
           <div class="" style="margin-top: -6rem">
@@ -40,7 +40,7 @@
         data-aos-duration="400"
       >
         <div
-          class="p-4 rounded"
+          class="p-4 rounded h-100"
           style="box-shadow: 0px 4px 20px rgb(0 0 0 / 10%)"
         >
           <div class="" style="margin-top: -6rem">
@@ -68,7 +68,7 @@
         data-aos-duration="400"
       >
         <div
-          class="p-4 rounded"
+          class="p-4 rounded h-100"
           style="box-shadow: 0px 4px 20px rgb(0 0 0 / 10%)"
         >
           <div class="" style="margin-top: -6rem">

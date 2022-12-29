@@ -8,7 +8,7 @@
             data-aos="zoom-in"
             data-aos-duration="400"
           >
-            <h1 class="text-white fw-semibold">About us</h1>
+            <h1 class="text-white">About us</h1>
             <h1 class="primary bann-h1 fw-bold">Know us better</h1>
           </div>
         </div>
