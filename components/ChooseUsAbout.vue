@@ -9,21 +9,21 @@
     </div>
     <div class="container-fluid">
       <div class="row">
-        <div class="col-md-8 col-12 bg-ChooseUsAbout">
+        <div class="col-md-12 col-lg-8 col-12 bg-ChooseUsAbout">
           <div class="container">
             <div class="row py-5 justify-content-end">
-              <div class="col-md-11">
+              <div class="col-md-12 col-lg-11">
                 <h2 class="text-white fw-semibold">
                   Great Reasons to Choose
 
                   <span class="primary">Vardan Dental Clinics</span>
                 </h2>
               </div>
-              <div class="col-md-11 text-white py-3">
+              <div class="col-md-12 col-lg-11 text-white py-3">
                 <p>Caring, highly trained clinical dental team.</p>
               </div>
               <div
-                class="row gy-5 mt-4 col-md-11 col-12 text-white justify-content-between"
+                class="row gy-5 mt-4 col-md-12 col-lg-11 col-12 text-white justify-content-between"
               >
                 <div
                   class="col-md-5 col-12"
@@ -82,7 +82,7 @@
             </div>
           </div>
         </div>
-        <div class="col-md-4 col-12 bg-chooseleft"></div>
+        <div class="col-lg-4 col-12 d-md-none d-lg-block bg-chooseleft"></div>
       </div>
     </div>
     <FeatureHome />

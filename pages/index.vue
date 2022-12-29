@@ -17,36 +17,41 @@
           <div
             id="carouselExampleControlsNoTouching"
             class="container carousel slide"
-            data-bs-touch="false"
-            data-bs-interval="false"
           >
-            <div class="row">
-              <div class="col-md-12 carousel-inner">
-                <div
-                  class="carousel-item active"
-                  v-for="(review, index) in reviews"
-                  :key="index"
-                >
-                  <Testimonial
-                    class="mtsm"
-                    :reviewName="review.name"
-                    :descriptionBody="review.description"
-                    :diagnoseName="review.diagnose"
-                  />
-                </div>
-              </div>
-              <button
-                class="carousel-control-next next-btn"
-                type="button"
-                data-bs-target="#carouselExampleControlsNoTouching"
-                data-bs-slide="next"
-                style="position: relative !important"
+            <div class="col-md-12 carousel-inner">
+              <div
+                class="carousel-item"
+                :class="{ active: index == 0 }"
+                v-for="(review, index) in reviews"
+                :key="index"
               >
-                <a class="text-decoration-none primary" style="font-weight: 500"
-                  >Next <i class="fa fa-arrow-right ml-2" aria-hidden="true"></i
-                ></a>
-              </button>
+                <Testimonial
+                  style="background-color: var(--bg-element)"
+                  class="mtsm p-3 mt-4 mb-2"
+                  :reviewName="review.name"
+                  :descriptionBody="review.description"
+                  :diagnoseName="review.diagnose"
+                />
+                <!-- <Testimonial
+                  style="background-color: var(--bg-element)"
+                  class="mtsm p-3 mt-4 mb-2"
+                  :reviewName="review.name"
+                  :descriptionBody="review.description"
+                  :diagnoseName="review.diagnose"
+                /> -->
+              </div>
             </div>
+            <button
+              class="carousel-control-next next-btn"
+              type="button"
+              data-bs-target="#carouselExampleControlsNoTouching"
+              data-bs-slide="next"
+              style="position: relative !important"
+            >
+              <a class="text-decoration-none primary" style="font-weight: 500"
+                >Next <i class="fa fa-arrow-right ml-2"></i
+              ></a>
+            </button>
           </div>
         </div>
         <div

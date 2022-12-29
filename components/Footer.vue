@@ -5,7 +5,7 @@
         <div class="row ul-l mb-5 gy-5">
           <div class="col-md-4">
             <div class="row">
-              <div class="col-lg-12 col-md-12 col-12">
+              <div class="col-lg-9 col-md-12 col-12">
                 <div class="logo-sm">
                   <a>
                     <img
@@ -20,8 +20,8 @@
                     class="anc"
                   >
                     <h6 class="text-white pt-3" style="line-height: 25px">
-                      T-8,9 Third floor, Shubh Complex, near Rajasthan Hospital,
-                      Shahibaug Ahmedabad –380004
+                      T-8,9 Third floor,shubh complex, near rajasthan hospital,
+                      Shahibaug, Ahmedabad – Gujarat 380004
                     </h6>
                   </a>
                 </div>
@@ -123,37 +123,13 @@
                 class="col-lg-3 col-md-3 col-6 psm-0 d-flex justify-content-md-center"
               >
                 <div class="text-white">
-                  <h5 class="text-white">Opening Hours</h5>
+                  <h5 class="text-white">Service Hours</h5>
                   <ul style="list-style-type: circle; padding-left: 18px">
                     <li><a href="#">Monday to Saturday</a></li>
                     <li><a href="#">9.00 am to 1.00 pm</a></li>
                     <li><a href="#">4.00 pm to 7.30 pm</a></li>
                     <li><a href="#">Sunday Close</a></li>
                   </ul>
-                </div>
-              </div>
-              <div class="col-md-12">
-                <div class="col-lg-12 col-md-12 col-12 mt-5">
-                  <div
-                    class="d-flex align-items-center justify-content-md-end justify-content-center"
-                  >
-                    <img
-                      src="../assets/img/brand3.png"
-                      alt="Brand"
-                      class="h-100 pe-4 d-lg-block"
-                    />
-                    <img
-                      src="../assets/img/brand1.png"
-                      alt="Brand"
-                      class="h-100 pe-4 d-lg-block"
-                    />
-                    <img
-                      src="../assets/img/brand3.png"
-                      alt="Brand"
-                      class="h-100 pe-4 d-lg-block d-none"
-                    />
-                    <img src="../assets/img/brand2.png" class="h-100" />
-                  </div>
                 </div>
               </div>
             </div>

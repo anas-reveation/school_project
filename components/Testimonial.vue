@@ -1,13 +1,11 @@
 <template>
-  <div>
-    <div class="p-3 mt-4 mb-2" style="background-color: var(--bg-element)">
-      <p>
-        {{ descriptionBody }}
-      </p>
-      <p class="secondary fw-semibold">
-        <span class="primary">{{ reviewName }}</span> ({{ diagnoseName }})
-      </p>
-    </div>
+  <div class="">
+    <p>
+      {{ descriptionBody }}
+    </p>
+    <p class="secondary fw-semibold">
+      <span class="primary">{{ reviewName }}</span> ({{ diagnoseName }})
+    </p>
   </div>
 </template>
 

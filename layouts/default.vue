@@ -27,6 +27,11 @@ export default {
           rel: "stylesheet",
         },
         {
+          href: "https://code.jquery.com/jquery-migrate-3.4.0.js",
+          integrity: "sha256-0Nkb10Hnhm4EJZ0QDpvInc3bRp77wQIbIQmWYH3Y7Vw=",
+          crossorigin: "anonymous",
+        },
+        {
           href: "https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap",
           rel: "stylesheet",
         },
