@@ -20,12 +20,20 @@
           <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
-          <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+          <ul class="navbar-nav ms-auto mb-2 mb-lg-0 nav-sm">
             <li class="nav-item pe-3" @click="myFunction()">
               <nuxt-link to="/" class="nav-link text-dark" exact
                 >Home</nuxt-link
               >
             </li>
+            <hr
+              class="d-block d-md-none mt-1 mb-3"
+              style="
+                opacity: 1;
+                width: 100%;
+                border-top: 1px solid rgba(188, 188, 188, 0.5);
+              "
+            />
             <!-- <li class="nav-item pe-3">
               <nuxt-link
                 to="/servicedetail"
@@ -61,6 +69,14 @@
                 </li>
               </ul>
             </li>
+            <hr
+              class="d-block d-md-none mt-1 mb-3"
+              style="
+                opacity: 1;
+                width: 100%;
+                border-top: 1px solid rgba(188, 188, 188, 0.5);
+              "
+            />
             <li class="nav-item pe-3" @click="myFunction()">
               <nuxt-link
                 to="/aboutus"
@@ -70,6 +86,14 @@
                 About Us
               </nuxt-link>
             </li>
+            <hr
+              class="d-block d-md-none mt-1 mb-3"
+              style="
+                opacity: 1;
+                width: 100%;
+                border-top: 1px solid rgba(188, 188, 188, 0.5);
+              "
+            />
             <li class="nav-item pe-3" @click="myFunction()">
               <nuxt-link
                 to="/infrastructure"
@@ -79,12 +103,28 @@
                 Infrastructure
               </nuxt-link>
             </li>
+            <hr
+              class="d-block d-md-none mt-1 mb-3"
+              style="
+                opacity: 1;
+                width: 100%;
+                border-top: 1px solid rgba(188, 188, 188, 0.5);
+              "
+            />
             <li class="nav-item pe-3" @click="myFunction()">
               <nuxt-link class="nav-link text-dark" to="/dentists"
                 >Our Dentists</nuxt-link
               >
             </li>
-            <li class="d-md-block d-none">
+            <hr
+              class="d-block d-md-none mt-1 mb-3"
+              style="
+                opacity: 1;
+                width: 100%;
+                border-top: 1px solid rgba(188, 188, 188, 0.5);
+              "
+            />
+            <li class="d-lg-block d-none">
               <button
                 type="button"
                 class="btn bg-primary-color button-h rounded-pill btn-small"
