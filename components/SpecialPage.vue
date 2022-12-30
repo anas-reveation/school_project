@@ -31,7 +31,7 @@
           </div>
           <div class="mt-5 pt-3">
             <nuxt-link
-              to="/servicespeciality"
+              to="/speciality"
               class="bg-primary-color text-decoration-none btn-special hover-speciality light-anc"
               style="border-radius: 21px; padding: 12px 30px 12px 5px"
             >
