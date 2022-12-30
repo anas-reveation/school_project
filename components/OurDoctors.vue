@@ -1,6 +1,27 @@
 <template>
   <div class="container mb-5 psm-4">
     <div class="row gy-4" data-aos="zoom-in" data-aos-duration="400">
+      <div class="col-md-6 col-lg-4 col-12">
+        <div class="shadow-s h-100 px-4 py-4">
+          <div class="text-center pb-2">
+            <img
+              class="rounded-circle"
+              src="../assets/img/ourdoc-2.png"
+              alt="Dr. Ketul Patel"
+              style="width: 187px; height: 187px"
+            />
+          </div>
+          <div class="text-center">
+            <h4 class="tertiary fw-semibold">Dr. Ketul Patel</h4>
+            <p class="fw-semibold">(BDS)</p>
+          </div>
+          <p>
+            He is a renowned implantologist. Our patients love him for his
+            excellent handling of implant cases. He is the founder of Vardan
+            Dental Clinic.
+          </p>
+        </div>
+      </div>
       <div class="col-lg-4 col-md-6 col-12">
         <div class="shadow-s h-100 px-4 py-4">
           <div class="text-center pb-2">
@@ -41,27 +62,6 @@
             Dental Clinic. She is soft-spoken, pleasant, and a perfectionist,
             and she believes in giving quality dental care to every patient
             visiting us.
-          </p>
-        </div>
-      </div>
-      <div class="col-md-6 col-lg-4 col-12">
-        <div class="shadow-s h-100 px-4 py-4">
-          <div class="text-center pb-2">
-            <img
-              class="rounded-circle"
-              src="../assets/img/ourdoc-2.png"
-              alt="Dr. Ketul Patel"
-              style="width: 187px; height: 187px"
-            />
-          </div>
-          <div class="text-center">
-            <h4 class="tertiary fw-semibold">Dr. Ketul Patel</h4>
-            <p class="fw-semibold">(BDS)</p>
-          </div>
-          <p>
-            He is a renowned implantologist. Our patients love him for his
-            excellent handling of implant cases. He is the founder of Vardan
-            Dental Clinic.
           </p>
         </div>
       </div>

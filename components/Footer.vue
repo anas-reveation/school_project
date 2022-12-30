@@ -74,11 +74,17 @@
               >
                 <div class="text-white logo-sm">
                   <h5 class="text-white">About Us</h5>
+
                   <ul>
                     <li>
-                      <nuxt-link to="#home_section">Our Clinic</nuxt-link>
+                      <nuxt-link to="/#home-section">Our Clinic</nuxt-link>
                     </li>
                     <li><nuxt-link to="/dentists">Our Doctors</nuxt-link></li>
+                    <!-- <li>
+                      <nuxt-link to="/Services/#pills-profile"
+                        >Our Doctors</nuxt-link
+                      >
+                    </li> -->
                   </ul>
                 </div>
               </div>

@@ -17,10 +17,11 @@
                 >
               </h1>
               <p class="text-white text-justify">
-                Get modern dentistry with a Personal Touch! We offer all the
-                treatments you’d expect from a great dentist. Not sure what your
-                smile needs? Start with an exam of your teeth and we’ll go from
-                there!
+                The Vardan Dental Clinic is a modern dental clinic offering
+                world class dental services in Shahibaug, Ahemdabad. With an
+                advanced, state of the art infrastructure and a professional
+                staff. We are a team of skilled dentists with access to the most
+                recent dental technology.
               </p>
               <div class="mt-5 pt-3">
                 <a

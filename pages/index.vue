@@ -4,7 +4,7 @@
     <FeatureHome />
     <HomeAbout class="psm-4 mtsm" />
     <Services class="psm-4 mtsm" />
-    <ChooseUs class="" />
+    <ChooseUs id="home-section" class="" />
     <MiddleBanner class="mtsm" />
 
     <div class="container psm-4">

@@ -4,8 +4,8 @@
       <h4 class="primary">Departments</h4>
       <h2 class="fw-bold secondary">Our Medical Services</h2>
       <p>
-        Placing you and your safety at the heart of everything we do With having
-        our entire team of Vardan Dental Clinic
+        Placing you and your safety at the heart of everything we do. With
+        having our entire team of Vardan Dental Clinic.
       </p>
     </div>
     <div class="row mt-4 gy-5" data-aos="zoom-in-up" data-aos-duration="400">

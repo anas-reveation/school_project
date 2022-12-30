@@ -28,7 +28,7 @@
     </div>
     <p>
       Look at some of our patients' notable before and after dental implant
-      photo galleries if you still need to decide the type of tooth replacement
+      photo galleries. if you still need to decide the type of tooth replacement
       option that would be ideal for you.
     </p>
   </div>
