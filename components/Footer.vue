@@ -20,8 +20,8 @@
                     class="anc"
                   >
                     <h6 class="text-white pt-3" style="line-height: 25px">
-                      T-8,9 Third floor,shubh complex, near rajasthan hospital,
-                      Shahibaug, Ahmedabad – Gujarat 380004
+                      T-8,9 Third floor, Shubh Complex, Near Rajasthan Hospital,
+                      Shahibaug, Ahmedabad, Gujarat – 380004
                     </h6>
                   </a>
                 </div>
