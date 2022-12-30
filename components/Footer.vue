@@ -104,13 +104,13 @@
                   <h5 class="text-white">Dentists</h5>
                   <ul>
                     <li>
-                      <nuxt-link to="/ourdentist">Dr. Ketul Patel</nuxt-link>
+                      <nuxt-link to="/dentists">Dr. Ketul Patel</nuxt-link>
                     </li>
                     <li>
-                      <nuxt-link to="/ourdentist">Dr. Ravi Patel</nuxt-link>
+                      <nuxt-link to="/dentists">Dr. Ravi Patel</nuxt-link>
                     </li>
                     <li>
-                      <nuxt-link to="/ourdentist">Dr. Urvashi Patel</nuxt-link>
+                      <nuxt-link to="/dentists">Dr. Urvashi Patel</nuxt-link>
                     </li>
                     <!-- <li><a href="#">Team Story</a></li>
                   <li><a href="#">What we do</a></li> -->
@@ -123,10 +123,10 @@
                 <div class="text-white">
                   <h5 class="text-white">Service Hours</h5>
                   <ul style="list-style-type: circle; padding-left: 18px">
-                    <li><a href="#">Monday to Saturday</a></li>
-                    <li><a href="#">9.00 am to 1.00 pm</a></li>
-                    <li><a href="#">4.00 pm to 7.30 pm</a></li>
-                    <li><a href="#">Sunday Close</a></li>
+                    <li>Monday to Saturday</li>
+                    <li>9.00 am to 1.00 pm</li>
+                    <li>4.00 pm to 7.30 pm</li>
+                    <li>Sunday Close</li>
                   </ul>
                 </div>
               </div>
