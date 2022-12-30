@@ -24,7 +24,7 @@
       </div>
     </div>
     <!-- <DentalServiceTwo class="sev-2 mt-5 pt-4" /> -->
-    <div class="row sev-2 mt-5 pt-5">
+    <div class="row sev-2 mt-5 pt-5 mb-5">
       <div class="col-md-12 col-lg-5">
         <h4 class="service-t fw-semibold">Benefits of Child Dental Care</h4>
         <p>

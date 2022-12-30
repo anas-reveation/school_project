@@ -55,7 +55,7 @@
           style="width: 15%; border-top: 3px solid var(--primary); opacity: 1"
         />
       </div>
-      <div class="row mt-5 gy-4">
+      <div class="row overflow-hidden mt-5 gy-4">
         <ul
           class="nav nav-pills s-tab mb-3 d-block col-md-12 col-xl-4 col-lg-12"
           id="pills-tab"
@@ -209,6 +209,8 @@
         <div
           class="tab-content col-md-12 col-xl-8 col-lg-12"
           id="pills-tabContent"
+          data-aos="fade-left"
+          data-aos-duration="400"
         >
           <div
             class="tab-pane fade show active"
@@ -293,6 +295,6 @@
         </div>
       </div>
     </div>
-    <SpecialPage />
+    <SpecialPage class="" />
   </div>
 </template>

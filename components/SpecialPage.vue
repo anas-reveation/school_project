@@ -9,11 +9,7 @@
         class="position-absolute"
         style="margin-top: -42px"
       />
-      <div
-        class="row justify-content-center gy-4"
-        data-aos="zoom-in-up"
-        data-aos-duration="400"
-      >
+      <div class="row justify-content-center gy-4">
         <div class="col-md-6 col-lg-4 col-12 d-flex justify-content-center">
           <div class="test-img special-treat">
             <img src="../assets/img/special-d.png" class="p-3" />
