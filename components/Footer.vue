@@ -18,6 +18,7 @@
                   <a
                     href="https://www.google.com/maps/place/Shubh+Complex,+Shahibaug/@23.0533544,72.5898767,16z/data=!4m10!1m2!2m1!1sT-8,9+Third+floor,shubh+complex,+near+rajasthan+hospital,+Shahibaug+Ahmedabad+%E2%80%93380004!3m6!1s0x395e84127728ea01:0xd4220cf6c213f594!8m2!3d23.053316!4d72.5958191!15sCldULTgsOSBUaGlyZCBmbG9vcixzaHViaCBjb21wbGV4LCBuZWFyIHJhamFzdGhhbiBob3NwaXRhbCwgU2hhaGliYXVnIEFobWVkYWJhZCDigJMzODAwMDRaVCJSdCA4IDkgdGhpcmQgZmxvb3Igc2h1YmggY29tcGxleCBuZWFyIHJhamFzdGhhbiBob3NwaXRhbCBzaGFoaWJhdWcgYWhtZWRhYmFkIDM4MDAwNJIBD3Nob3BwaW5nX2NlbnRlcpoBJENoZERTVWhOTUc5blMwVkpRMEZuU1VNdE0yRkVlamQzUlJBQuABAA!16s%2Fg%2F1hm59kgq3"
                     target="_blank"
+                    rel="noopener"
                     class="anc"
                   >
                     <h6 class="text-white pt-3" style="line-height: 25px">
@@ -149,6 +150,7 @@
               <a
                 href="https://www.instagram.com/vardan_dental_clinic/"
                 target="_blank"
+                rel="noopener"
               >
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
@@ -166,6 +168,7 @@
               <a
                 href="https://www.facebook.com/profile.php?id=100088409476132"
                 target="_blank"
+                rel="noopener"
                 ><svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 512 512"
@@ -178,7 +181,11 @@
               ></a>
             </div>
             <div class="col-2">
-              <a href="https://twitter.com/VardanDental" target="_blank">
+              <a
+                href="https://twitter.com/VardanDental"
+                target="_blank"
+                rel="noopener"
+              >
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 512 512"

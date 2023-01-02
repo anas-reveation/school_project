@@ -54,6 +54,11 @@
 }
 .secondary{
     color: var(--secondary);
+   
+}
+@font-face {
+    font-display: swap;
+    font-family: "Montserrat";
 }
 .anchor:hover{
     color: var(--primary);

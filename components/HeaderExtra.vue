@@ -65,10 +65,15 @@
                   <a
                     href="https://www.facebook.com/profile.php?id=100088409476132"
                     target="_blank"
+                    rel="noopener"
                   >
                     <img src="../assets/img/fb.svg" alt="fb" class="me-3" />
                   </a>
-                  <a href="https://twitter.com/VardanDental" target="_blank">
+                  <a
+                    href="https://twitter.com/VardanDental"
+                    target="_blank"
+                    rel="noopener"
+                  >
                     <img
                       src="../assets/img/twitter1.svg"
                       alt="twitter"
@@ -78,6 +83,7 @@
                   <a
                     href="https://www.instagram.com/vardan_dental_clinic/"
                     target="_blank"
+                    rel="noopener"
                   >
                     <img src="../assets/img/Instagram.svg" alt="insta" />
                   </a>
