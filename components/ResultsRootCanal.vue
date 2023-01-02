@@ -11,7 +11,7 @@
     <div class="row">
       <div class="col-md-6">
         <img
-          src="../assets/img/teeth3.png"
+          src="../assets/img/teeth3.svg"
           alt="Before Treatment"
           class="w-100 h-85"
         />
@@ -19,7 +19,7 @@
       </div>
       <div class="col-md-6">
         <img
-          src="../assets/img/teeth4.png"
+          src="../assets/img/teeth4.svg"
           alt="After Treatment"
           class="w-100 h-85"
         />

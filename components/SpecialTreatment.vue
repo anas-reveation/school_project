@@ -98,7 +98,7 @@
         <div class="p-4" style="box-shadow: 0px 4px 20px rgb(0 0 0 / 10%)">
           <div class="" style="margin-top: -6rem">
             <img
-              src="../assets/img/special-4.png"
+              src="../assets/img/special-4.svg"
               alt="Full mouth rehabilitation"
               style="width: 100%; height: 100%"
             />

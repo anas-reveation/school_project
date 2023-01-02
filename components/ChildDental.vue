@@ -2,7 +2,7 @@
   <div>
     <div class="">
       <img
-        src="../assets/img/child1.png"
+        src="../assets/img/child1.svg"
         alt="What is Child Dental Care?"
         style="width: 100%; height: 100%"
       />
@@ -43,7 +43,7 @@
       </div>
       <div class="col-md-12 col-lg-7">
         <img
-          src="../assets/img/child2.png"
+          src="../assets/img/child2.svg"
           alt="Benefits of Child Dental Care"
           class="w-100"
         />

@@ -16,7 +16,7 @@
     </div>
     <div class="col-md-12 col-lg-7">
       <img
-        src="../assets/img/service-2.png"
+        src="../assets/img/service-2.svg"
         alt="Benifits of Dental Implant"
         class="w-100"
       />

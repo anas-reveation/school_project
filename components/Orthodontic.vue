@@ -2,7 +2,7 @@
   <div>
     <div class="">
       <img
-        src="../assets/img/ortho1.png"
+        src="../assets/img/ortho1.svg"
         alt="What is Orthodontic Treatment?"
         style="width: 100%; height: 100%"
       />
@@ -45,7 +45,7 @@
       </div>
       <div class="col-md-12 col-lg-7">
         <img
-          src="../assets/img/ortho2.png"
+          src="../assets/img/ortho2.svg"
           alt="Benefits of Orthodontic Treatment"
           class="w-100"
         />
@@ -64,7 +64,7 @@
       <div class="row">
         <div class="col-md-6">
           <img
-            src="../assets/img/ortho3.png"
+            src="../assets/img/ortho3.svg"
             alt="Before Treatment"
             class="w-100 h-85"
           />
@@ -72,7 +72,7 @@
         </div>
         <div class="col-md-6">
           <img
-            src="../assets/img/ortho4.png"
+            src="../assets/img/ortho4.svg"
             alt="After Treatment"
             class="w-100 h-85"
           />

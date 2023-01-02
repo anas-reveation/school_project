@@ -2,7 +2,7 @@
   <div>
     <div class="">
       <img
-        src="../assets/img/smile1.png"
+        src="../assets/img/smile1.svg"
         alt="What is Smile Designing Treatment?"
         style="width: 100%; height: 100%"
       />
@@ -44,7 +44,7 @@
       </div>
       <div class="col-md-12 col-lg-7">
         <img
-          src="../assets/img/smile2.png"
+          src="../assets/img/smile2.svg"
           alt="Benefits of Smile Designing"
           class="w-100"
         />
@@ -63,7 +63,7 @@
       <div class="row">
         <div class="col-md-6">
           <img
-            src="../assets/img/smile3.png"
+            src="../assets/img/smile3.svg"
             alt="Before Treatment"
             class="w-100 h-85"
           />
@@ -71,7 +71,7 @@
         </div>
         <div class="col-md-6">
           <img
-            src="../assets/img/smile4.png"
+            src="../assets/img/smile4.svg"
             alt="After Treatment"
             class="w-100 h-85"
           />

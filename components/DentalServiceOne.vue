@@ -2,7 +2,7 @@
   <div>
     <div class="">
       <img
-        src="../assets/img/serviceone.png"
+        src="../assets/img/serviceone.svg"
         alt="What is Dental Implant?"
         style="width: 100%; height: 100%"
       />

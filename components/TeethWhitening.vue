@@ -2,7 +2,7 @@
   <div>
     <div class="">
       <img
-        src="../assets/img/white1.png"
+        src="../assets/img/white1.svg"
         alt="What is Teeth Whitening?"
         style="width: 100%; height: 100%"
       />

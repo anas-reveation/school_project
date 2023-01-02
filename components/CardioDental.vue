@@ -2,7 +2,7 @@
   <div>
     <div class="">
       <img
-        src="../assets/img/cardio1.png"
+        src="../assets/img/cardio1.svg"
         alt="What is Cardiac Diabetic Dental Care?"
         style="width: 100%; height: 100%"
       />
@@ -44,7 +44,7 @@
       </div>
       <div class="col-md-12 col-lg-7">
         <img
-          src="../assets/img/cardio2.png"
+          src="../assets/img/cardio2.svg"
           alt="Benefits of Cardiac and Diabetic Dental Care"
           class="w-100"
         />

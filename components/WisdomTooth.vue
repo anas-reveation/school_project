@@ -2,7 +2,7 @@
   <div>
     <div class="">
       <img
-        src="../assets/img/wisdom1.png"
+        src="../assets/img/wisdom1.svg"
         alt="What is Wisdom Tooth Removal?"
         style="width: 100%; height: 100%"
       />
@@ -38,7 +38,7 @@
       </div>
       <div class="col-md-12 col-lg-7">
         <img
-          src="../assets/img/wisdom2.png"
+          src="../assets/img/wisdom2.svg"
           alt="Benefits of Wishdom Tooth Removal"
           class="w-100"
         />
@@ -57,7 +57,7 @@
       <div class="row">
         <div class="col-md-6">
           <img
-            src="../assets/img/wisdom3.png"
+            src="../assets/img/wisdom3.svg"
             alt="Before Treatment"
             class="w-100 h-85"
           />
@@ -65,7 +65,7 @@
         </div>
         <div class="col-md-6">
           <img
-            src="../assets/img/wisdom4.png"
+            src="../assets/img/wisdom4.svg"
             alt="After Treatment"
             class="w-100 h-85"
           />

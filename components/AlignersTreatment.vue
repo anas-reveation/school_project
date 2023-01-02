@@ -2,7 +2,7 @@
   <div>
     <div class="">
       <img
-        src="../assets/img/aligner1.png"
+        src="../assets/img/aligner1.svg"
         alt="What is Clear Aligners Treatment?"
         style="width: 100%; height: 100%"
       />
@@ -43,7 +43,7 @@
       </div>
       <div class="col-md-12 col-lg-7">
         <img
-          src="../assets/img/aligner2.png"
+          src="../assets/img/aligner2.svg"
           alt="Benefits of Aligners Treatment"
           class="w-100"
         />
@@ -62,7 +62,7 @@
       <div class="row">
         <div class="col-md-6">
           <img
-            src="../assets/img/aligner3.png"
+            src="../assets/img/aligner3.svg"
             alt="Before Treatment"
             class="w-100 h-85"
           />
@@ -70,7 +70,7 @@
         </div>
         <div class="col-md-6">
           <img
-            src="../assets/img/aligner4.png"
+            src="../assets/img/aligner4.svg"
             alt="After Treatment"
             class="w-100 h-85"
           />

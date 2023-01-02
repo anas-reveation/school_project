@@ -13,7 +13,8 @@
           >
             <div class="sd-bg-1 sd-bg">
               <img
-                src="../assets/img/profession.png"
+                src="../assets/img/professions.svg"
+                style="margin-bottom: 30px"
                 alt="Best Dental Care in Ahmedabad"
                 class="w-100"
               />

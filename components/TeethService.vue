@@ -14,7 +14,7 @@
     </div>
     <div class="col-md-12 col-lg-7">
       <img
-        src="../assets/img/white2.png"
+        src="../assets/img/white2.svg"
         alt="Benefits of Teeth Whitening"
         class="w-100"
       />

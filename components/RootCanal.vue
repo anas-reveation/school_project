@@ -2,7 +2,7 @@
   <div>
     <div class="">
       <img
-        src="../assets/img/Root1.png"
+        src="../assets/img/Root1.svg"
         alt="What is Dental Root Canals?"
         style="width: 100%; height: 100%"
       />
