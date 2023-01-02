@@ -45,7 +45,12 @@ export default {
       {
         hid: "og:url",
         property: "og:url",
-        content: "https://www.vardandental.in",
+        content: "https://vardandental.in/dentists",
+      },
+      {
+        hid: "og:type",
+        property: "og:type",
+        content: "website",
       },
       {
         hid: "og:description",

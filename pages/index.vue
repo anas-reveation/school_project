@@ -136,6 +136,11 @@ export default {
         content: "https://www.vardandental.in",
       },
       {
+        hid: "og:type",
+        property: "og:type",
+        content: "website",
+      },
+      {
         hid: "og:description",
         property: "og:description",
         content:

@@ -3,7 +3,7 @@
     <div class="">
       <img
         src="../assets/img/cardio1.svg"
-        alt="What is Cardiac Diabetic Dental Care?"
+        alt="Cardiac and Diabetic Dental Care in Ahmedabad"
         style="width: 100%; height: 100%"
       />
       <div class="mt-4">

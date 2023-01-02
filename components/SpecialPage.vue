@@ -15,7 +15,7 @@
           <div class="test-img special-treat">
             <img
               src="../assets/img/special-d.svg"
-              alt="Special Services"
+              alt="Dental Clinic Near Shahibaug"
               class="p-3"
             />
           </div>

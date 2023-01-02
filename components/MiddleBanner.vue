@@ -48,7 +48,7 @@
           <div class="">
             <img
               src="../assets/img/doctor1.svg"
-              alt="Best Dentist in Ahmedabad"
+              alt="Top Dentists In Shahibaug Ahmedabad"
               style="width: 100%; height: 100%; margin-top: -15rem"
             />
           </div>

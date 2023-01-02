@@ -12,7 +12,7 @@
           <div class="sd-bg-1 sd-bg">
             <img
               src="../assets/img/whowe.svg"
-              alt="The Best Dental Clinic near you"
+              alt="Best Dental Clinic in Shahibaug, Ahmedabad"
               class="w-100"
             />
           </div>

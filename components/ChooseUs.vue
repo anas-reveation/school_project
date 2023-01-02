@@ -6,7 +6,7 @@
           <div>
             <img
               src="../assets/img/choose-img.svg"
-              alt="Choose us to get the best service"
+              alt="Best Dental Service in Shahibaug, Ahmedabad"
               style="width: 100%"
             />
           </div>

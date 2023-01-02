@@ -3,7 +3,7 @@
     <div class="">
       <img
         src="../assets/img/wisdom1.svg"
-        alt="What is Wisdom Tooth Removal?"
+        alt="Wisdom Tooth Removal"
         style="width: 100%; height: 100%"
       />
       <div class="mt-4">
@@ -58,7 +58,7 @@
         <div class="col-md-6">
           <img
             src="../assets/img/wisdom3.svg"
-            alt="Before Treatment"
+            alt="Before Wisdom Tooth Removal Treatment"
             class="w-100 h-85"
           />
           <p class="text-center fw-semibold mt-2">Before</p>
@@ -66,7 +66,7 @@
         <div class="col-md-6">
           <img
             src="../assets/img/wisdom4.svg"
-            alt="After Treatment"
+            alt="After Wisdom Tooth Removal Treatment"
             class="w-100 h-85"
           />
           <p class="text-center fw-semibold mt-2">After</p>

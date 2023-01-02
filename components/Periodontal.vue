@@ -3,7 +3,7 @@
     <div class="">
       <img
         src="../assets/img/flap1.svg"
-        alt="What is Periodontal Flap Surgery?"
+        alt="Periodontal Flap Surgery"
         style="width: 100%; height: 100%"
       />
       <div class="mt-4">
@@ -62,7 +62,7 @@
         <div class="col-md-6">
           <img
             src="../assets/img/flapb-1.svg"
-            alt="Before Treatment"
+            alt="Before Periodontal Flap Surgery Treatment"
             class="w-100 h-85"
           />
           <p class="text-center fw-semibold mt-2">Before</p>
@@ -70,7 +70,7 @@
         <div class="col-md-6">
           <img
             src="../assets/img/flapa-2.svg"
-            alt="After Treatment"
+            alt="After Periodontal Flap Surgery Treatment"
             class="w-100 h-85"
           />
           <p class="text-center fw-semibold mt-2">After</p>

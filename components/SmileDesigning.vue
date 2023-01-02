@@ -3,7 +3,7 @@
     <div class="">
       <img
         src="../assets/img/smile1.svg"
-        alt="What is Smile Designing Treatment?"
+        alt="Best Smile Designing Treatment in Shahibaug, Ahmedabad"
         style="width: 100%; height: 100%"
       />
       <div class="mt-4">
@@ -64,7 +64,7 @@
         <div class="col-md-6">
           <img
             src="../assets/img/smile3.svg"
-            alt="Before Treatment"
+            alt="Before Smile Designing Treatment"
             class="w-100 h-85"
           />
           <p class="text-center fw-semibold mt-2">Before</p>
@@ -72,7 +72,7 @@
         <div class="col-md-6">
           <img
             src="../assets/img/smile4.svg"
-            alt="After Treatment"
+            alt="After Smile Designing Treatment"
             class="w-100 h-85"
           />
           <p class="text-center fw-semibold mt-2">After</p>

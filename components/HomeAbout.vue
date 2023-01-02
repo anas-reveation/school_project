@@ -13,7 +13,7 @@
         />
         <img
           src="../assets/img/Home1.svg"
-          alt="Meet the Best Dentists
+          alt="Best Dental Clinic in Shahibaug, Ahmedabad
 "
           class=""
           style="width: 100%"

@@ -10,7 +10,7 @@
         src="../assets/img/accord-element.svg"
         class="position-absolute d-md-block d-none accord-elem"
         style="margin-top: -144px; margin-left: 52rem"
-        alt="Eelements"
+        alt="Elements"
       />
     </div>
     <div class="row gy-4">

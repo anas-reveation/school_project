@@ -3,7 +3,7 @@
     <div class="">
       <img
         src="../assets/img/child1.svg"
-        alt="What is Child Dental Care?"
+        alt="Top Dental Clinic in Shahibaug, Ahmedabad"
         style="width: 100%; height: 100%"
       />
       <div class="mt-4">

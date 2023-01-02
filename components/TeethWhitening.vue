@@ -3,7 +3,7 @@
     <div class="">
       <img
         src="../assets/img/white1.svg"
-        alt="What is Teeth Whitening?"
+        alt="Teeth Whitening Near Shahibaug"
         style="width: 100%; height: 100%"
       />
       <div class="mt-4">

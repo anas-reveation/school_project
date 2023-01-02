@@ -3,7 +3,7 @@
     <div class="">
       <img
         src="../assets/img/ortho1.svg"
-        alt="What is Orthodontic Treatment?"
+        alt="Best Orthodontic Treatment in Ahmedabad"
         style="width: 100%; height: 100%"
       />
       <div class="mt-4">
@@ -65,7 +65,7 @@
         <div class="col-md-6">
           <img
             src="../assets/img/ortho3.svg"
-            alt="Before Treatment"
+            alt="Before Orthodontic Treatment"
             class="w-100 h-85"
           />
           <p class="text-center fw-semibold mt-2">Before</p>
@@ -73,7 +73,7 @@
         <div class="col-md-6">
           <img
             src="../assets/img/ortho4.svg"
-            alt="After Treatment"
+            alt="After Orthodontic Treatment"
             class="w-100 h-85"
           />
           <p class="text-center fw-semibold mt-2">After</p>
