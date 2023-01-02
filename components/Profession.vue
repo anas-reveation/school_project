@@ -31,7 +31,7 @@
         <div class="col-lg-6 col-md-12 col-12">
           <div class="profession">
             <img
-              src="../assets/img/profession.png"
+              src="../assets/img/profession.svg"
               alt="Our Doctors of Vardan"
               class="w-100 rounded"
             />

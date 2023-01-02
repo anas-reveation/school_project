@@ -17,7 +17,11 @@
     <div class="row mt-4 gy-5" data-aos="zoom-in" data-aos-duration="400">
       <div class="col-md-6 col-lg-4">
         <div class="shadow px-5 py-4 h-100 rounded">
-          <img src="../assets/img/bg-semicircle.svg" class="service-curve" />
+          <img
+            src="../assets/img/bg-semicircle.svg"
+            class="service-curve"
+            alt="Elements"
+          />
           <div class="service-curve-1">
             <div class="text-center">
               <img
@@ -38,12 +42,20 @@
               received praise for his outstanding outcomes.
             </p>
           </div>
-          <img src="../assets/img/element.svg" class="service-curve-2" />
+          <img
+            src="../assets/img/element.svg"
+            class="service-curve-2"
+            alt="Elements"
+          />
         </div>
       </div>
       <div class="col-md-6 col-lg-4">
         <div class="shadow px-5 py-4 h-100 rounded">
-          <img src="../assets/img/bg-semicircle.svg" class="service-curve" />
+          <img
+            src="../assets/img/bg-semicircle.svg"
+            class="service-curve"
+            alt="Elements"
+          />
           <div class="service-curve-1">
             <div class="text-center">
               <img
@@ -64,12 +76,20 @@
               and surgical competence.
             </p>
           </div>
-          <img src="../assets/img/element.svg" class="service-curve-2" />
+          <img
+            src="../assets/img/element.svg"
+            class="service-curve-2"
+            alt="Elements"
+          />
         </div>
       </div>
       <div class="col-md-6 col-lg-4">
         <div class="shadow px-5 py-4 h-100 rounded">
-          <img src="../assets/img/bg-semicircle.svg" class="service-curve" />
+          <img
+            src="../assets/img/bg-semicircle.svg"
+            class="service-curve"
+            alt="Elements"
+          />
           <div class="service-curve-1">
             <div class="text-center">
               <img
@@ -90,12 +110,20 @@
               with excellent organizational and interpersonal skills.
             </p>
           </div>
-          <img src="../assets/img/element.svg" class="service-curve-2" />
+          <img
+            src="../assets/img/element.svg"
+            class="service-curve-2"
+            alt="Elements"
+          />
         </div>
       </div>
       <div class="col-md-6 col-lg-4">
         <div class="shadow px-5 py-4 h-100 rounded">
-          <img src="../assets/img/bg-semicircle.svg" class="service-curve" />
+          <img
+            src="../assets/img/bg-semicircle.svg"
+            class="service-curve"
+            alt="Elements"
+          />
           <div class="service-curve-1">
             <div class="text-center">
               <img
@@ -116,12 +144,20 @@
               highest levels of ethics.
             </p>
           </div>
-          <img src="../assets/img/element.svg" class="service-curve-2" />
+          <img
+            src="../assets/img/element.svg"
+            class="service-curve-2"
+            alt="Elements"
+          />
         </div>
       </div>
       <div class="col-md-6 col-lg-4">
         <div class="shadow px-5 py-4 h-100 rounded">
-          <img src="../assets/img/bg-semicircle.svg" class="service-curve" />
+          <img
+            src="../assets/img/bg-semicircle.svg"
+            class="service-curve"
+            alt="Elements"
+          />
           <div class="service-curve-1">
             <div class="text-center">
               <img
@@ -142,7 +178,11 @@
               She wants to make a difference in Dental care.
             </p>
           </div>
-          <img src="../assets/img/element.svg" class="service-curve-2" />
+          <img
+            src="../assets/img/element.svg"
+            class="service-curve-2"
+            alt="Elements"
+          />
         </div>
       </div>
     </div>

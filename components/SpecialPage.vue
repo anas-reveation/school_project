@@ -7,12 +7,17 @@
       <img
         src="../assets/img/element1.png"
         class="position-absolute"
+        alt="Elements"
         style="margin-top: -42px"
       />
       <div class="row justify-content-center gy-4">
         <div class="col-md-6 col-lg-4 col-12 d-flex justify-content-center">
           <div class="test-img special-treat">
-            <img src="../assets/img/special-d.png" class="p-3" />
+            <img
+              src="../assets/img/special-d.svg"
+              alt="Special Services"
+              class="p-3"
+            />
           </div>
         </div>
         <div class="col-md-6 col-lg-7 col-12">
@@ -34,7 +39,10 @@
               <span
                 class="p-2"
                 style="background-color: var(--light); border-radius: 19px"
-                ><img src="../assets/img/arrow-right.svg" />
+                ><img
+                  src="../assets/img/arrow-right.svg"
+                  alt="Arrow Redirect"
+                />
               </span>
               <span class="ps-1 fw-semibold"> Check Our Special Treatment</span>
             </nuxt-link>
@@ -44,6 +52,7 @@
       <img
         src="../assets/img/element2.png"
         class="d-md-block d-none"
+        alt="Elements"
         style="position: absolute; margin-left: 25rem; margin-top: -1rem"
       />
     </div>

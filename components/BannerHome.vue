@@ -33,7 +33,10 @@
                   <span
                     class="p-2 span1"
                     style="background-color: var(--light); border-radius: 19px"
-                    ><img src="../assets/img/arrow-right.svg" />
+                    ><img
+                      src="../assets/img/arrow-right.svg"
+                      alt="Arrow Redirect"
+                    />
                   </span>
                   <span class="ps-1 fw-semibold"> Whatsapp Us Today</span>
                 </a>

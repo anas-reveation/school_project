@@ -9,9 +9,10 @@
         <img
           src="../assets/img/about-elemt.svg"
           class="element-ab d-none d-md-block"
+          alt="Elements"
         />
         <img
-          src="../assets/img/Home1.png"
+          src="../assets/img/Home1.svg"
           alt="Meet the Best Dentists
 "
           class=""

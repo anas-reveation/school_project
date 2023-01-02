@@ -6,7 +6,7 @@
           <div class="text-center pb-2">
             <img
               class="rounded-circle"
-              src="../assets/img/ourdoc-2.png"
+              src="../assets/img/ourdoc-2.svg"
               alt="Dr. Ketul Patel"
               style="width: 187px; height: 187px"
             />
@@ -27,7 +27,7 @@
           <div class="text-center pb-2">
             <img
               class="rounded-circle"
-              src="../assets/img/doctor-1.png"
+              src="../assets/img/doctor-1.svg"
               alt="Dr. Ravi Patel"
               style="width: 187px; height: 187px"
             />
@@ -48,7 +48,7 @@
           <div class="text-center pb-2">
             <img
               class="rounded-circle"
-              src="../assets/img/doctor-2.png"
+              src="../assets/img/doctor-2.svg"
               alt="Dr. Urvashi Patel"
               style="width: 187px; height: 187px"
             />

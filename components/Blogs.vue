@@ -10,13 +10,14 @@
         src="../assets/img/accord-element.svg"
         class="position-absolute d-md-block d-none accord-elem"
         style="margin-top: -144px; margin-left: 52rem"
+        alt="Eelements"
       />
     </div>
     <div class="row gy-4">
       <div class="col-lg-12 col-xl-5 col-md-12 col-12">
         <div>
           <img
-            src="../assets/img/Accord.png"
+            src="../assets/img/Accord.svg"
             alt="Frequently asked questions"
             style="width: 100%; height: 100%"
           />

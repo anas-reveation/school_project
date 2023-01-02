@@ -12,14 +12,14 @@
             >
               <img
                 src="../assets/img/Alarm Clock.svg"
+                alt="Clock"
                 style="width: 22px; height: 22px"
               />
               <span
-                ><a
-                  class="text-white text-decoration-none"
-                  style="font-size: 14px"
-                  >Open Hours : Mon - Sat (9am to 1pm & 4pm to 7.30pm)</a
-                ></span
+                class="text-white text-decoration-none"
+                style="font-size: 14px"
+              >
+                Open Hours : Mon - Sat (9am to 1pm & 4pm to 7.30pm)</span
               >
             </div>
           </div>
@@ -37,6 +37,7 @@
                   <img
                     src="../assets/img/Email.svg"
                     style="width: 22px; height: 22px"
+                    alt="Email"
                   />
                   <span
                     ><a
@@ -49,6 +50,7 @@
                   <img
                     src="../assets/img/Phone.svg"
                     style="width: 22px; height: 22px"
+                    alt="Phone"
                   />
                   <span>
                     <a

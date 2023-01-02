@@ -20,7 +20,7 @@
       >
         <div class="col-md-12 col-lg-4 col-12">
           <img
-            src="../assets/img/dentist3.png"
+            src="../assets/img/dentist3.svg"
             alt="Dr. Ketul Patel (MBBS, BDS)"
             class="p-3"
             style="width: 100%"
@@ -42,7 +42,7 @@
         </div>
         <div class="col-md-12 col-lg-4 col-12">
           <img
-            src="../assets/img/dentist1.png"
+            src="../assets/img/dentist1.svg"
             alt="Dr. Ravi Patel (MBBS, BDS)"
             class="p-3"
             style="width: 100%"
@@ -64,7 +64,7 @@
         </div>
         <div class="col-md-12 col-lg-4 col-12">
           <img
-            src="../assets/img/dentist2.png"
+            src="../assets/img/dentist2.svg"
             alt="Dr. Urvashi Patel (MBBS, BDS)"
             class="p-3"
             style="width: 100%"

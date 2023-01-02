@@ -6,7 +6,8 @@
     "dev": "nuxt",
     "build": "nuxt build",
     "start": "nuxt start",
-    "generate": "nuxt generate"
+    "generate": "nuxt generate",
+    "ci:lighthouse": "lhci autorun"
   },
   "dependencies": {
     "@nuxt/bridge": "^0.10.1",

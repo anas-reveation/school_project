@@ -5,6 +5,7 @@
         src="../assets/img/middle-elemtn.svg"
         class="d-none d-md-block"
         style="position: absolute; margin-top: 124px; margin-left: -110px"
+        alt="Elements"
       />
       <div class="row align-items-center">
         <div
@@ -29,7 +30,10 @@
               <span
                 class="p-2"
                 style="background-color: #ffff; border-radius: 19px"
-                ><img src="../assets/img/arrow-right.svg" />
+                ><img
+                  src="../assets/img/arrow-right.svg"
+                  alt="Arrow Redirect"
+                />
               </span>
               <span class="ps-1 fw-semibold">Connect with us</span>
             </a>
@@ -42,7 +46,7 @@
         >
           <div class="">
             <img
-              src="../assets/img/doctor1.png"
+              src="../assets/img/doctor1.svg"
               alt="Best Dentist in Ahmedabad"
               style="width: 100%; height: 100%; margin-top: -15rem"
             />

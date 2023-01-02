@@ -10,7 +10,11 @@
           <div class="row align-items-center">
             <div class="col-md-4 col-4">
               <div class="pe-4">
-                <img src="../assets/img/ficon2.svg" style="width: 82px" />
+                <img
+                  src="../assets/img/ficon2.svg"
+                  alt="Experience"
+                  style="width: 82px"
+                />
               </div>
             </div>
             <div class="col-md-8 col-8 d-flex">
@@ -29,7 +33,11 @@
           <div class="row align-items-center">
             <div class="col-md-4 col-4">
               <div class="pe-4">
-                <img src="../assets/img/ficon1.svg" style="width: 82px" />
+                <img
+                  src="../assets/img/ficon1.svg"
+                  alt="Happy Clients"
+                  style="width: 82px"
+                />
               </div>
             </div>
             <div class="col-md-8 col-8 d-flex">
@@ -48,7 +56,11 @@
           <div class="row align-items-center">
             <div class="col-md-4 col-4">
               <div class="pe-4">
-                <img src="../assets/img/ficon3.svg" style="width: 82px" />
+                <img
+                  src="../assets/img/ficon3.svg"
+                  alt="Speciality Clinic"
+                  style="width: 82px"
+                />
               </div>
             </div>
             <div class="col-md-8 col-8 d-flex">

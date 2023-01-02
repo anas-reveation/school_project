@@ -11,7 +11,11 @@
     <div class="row mt-4 gy-5" data-aos="zoom-in-up" data-aos-duration="400">
       <div class="col-md-6 col-lg-4">
         <div class="shadow px-5 py-4 h-100 rounded">
-          <img src="../assets/img/bg-semicircle.svg" class="service-curve" />
+          <img
+            src="../assets/img/bg-semicircle.svg"
+            alt="Elements"
+            class="service-curve"
+          />
           <div class="service-curve-1">
             <div class="text-center">
               <img
@@ -28,12 +32,20 @@
               designed to suit their teeth.
             </p>
           </div>
-          <img src="../assets/img/element.svg" class="service-curve-2" />
+          <img
+            src="../assets/img/element.svg"
+            class="service-curve-2"
+            alt="Elements"
+          />
         </div>
       </div>
       <div class="col-md-6 col-lg-4">
         <div class="shadow px-5 py-4 h-100 rounded">
-          <img src="../assets/img/bg-semicircle.svg" class="service-curve" />
+          <img
+            src="../assets/img/bg-semicircle.svg"
+            alt="Elements"
+            class="service-curve"
+          />
           <div class="service-curve-1">
             <div class="text-center">
               <img
@@ -50,12 +62,20 @@
               tailored treatment and long-lasting results.
             </p>
           </div>
-          <img src="../assets/img/element.svg" class="service-curve-2" />
+          <img
+            src="../assets/img/element.svg"
+            class="service-curve-2"
+            alt="Elements"
+          />
         </div>
       </div>
       <div class="col-md-6 col-lg-4">
         <div class="shadow px-5 py-4 h-100 rounded">
-          <img src="../assets/img/bg-semicircle.svg" class="service-curve" />
+          <img
+            src="../assets/img/bg-semicircle.svg"
+            alt="Elements"
+            class="service-curve"
+          />
           <div class="service-curve-1">
             <div class="text-center">
               <img
@@ -72,12 +92,20 @@
               position without the inconvenience of metal wires and brackets.
             </p>
           </div>
-          <img src="../assets/img/element.svg" class="service-curve-2" />
+          <img
+            src="../assets/img/element.svg"
+            class="service-curve-2"
+            alt="Elements"
+          />
         </div>
       </div>
       <div class="col-md-6 col-lg-4">
         <div class="shadow px-5 py-4 h-100 rounded">
-          <img src="../assets/img/bg-semicircle.svg" class="service-curve" />
+          <img
+            src="../assets/img/bg-semicircle.svg"
+            alt="Elements"
+            class="service-curve"
+          />
           <div class="service-curve-1">
             <div class="text-center">
               <img
@@ -95,12 +123,20 @@
               care.
             </p>
           </div>
-          <img src="../assets/img/element.svg" class="service-curve-2" />
+          <img
+            src="../assets/img/element.svg"
+            class="service-curve-2"
+            alt="Elements"
+          />
         </div>
       </div>
       <div class="col-md-6 col-lg-4">
         <div class="shadow px-5 py-4 h-100 rounded">
-          <img src="../assets/img/bg-semicircle.svg" class="service-curve" />
+          <img
+            src="../assets/img/bg-semicircle.svg"
+            alt="Elements"
+            class="service-curve"
+          />
           <div class="service-curve-1">
             <div class="text-center">
               <img
@@ -116,12 +152,20 @@
               teeth! They offer enormous advantages to people of all ages.
             </p>
           </div>
-          <img src="../assets/img/element.svg" class="service-curve-2" />
+          <img
+            src="../assets/img/element.svg"
+            class="service-curve-2"
+            alt="Elements"
+          />
         </div>
       </div>
       <div class="col-md-6 col-lg-4">
         <div class="shadow px-5 py-4 h-100 rounded">
-          <img src="../assets/img/bg-semicircle.svg" class="service-curve" />
+          <img
+            src="../assets/img/bg-semicircle.svg"
+            alt="Elements"
+            class="service-curve"
+          />
           <div class="service-curve-1">
             <div class="text-center">
               <img
@@ -138,7 +182,11 @@
               infection.
             </p>
           </div>
-          <img src="../assets/img/element.svg" class="service-curve-2" />
+          <img
+            src="../assets/img/element.svg"
+            class="service-curve-2"
+            alt="Elements"
+          />
         </div>
       </div>
     </div>

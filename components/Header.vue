@@ -6,6 +6,7 @@
           ><img
             src="../assets/img/Vardan-logo.svg"
             style="width: 203px; height: 48px"
+            alt="Vardan Logo"
         /></a>
         <button
           class="navbar-toggler"

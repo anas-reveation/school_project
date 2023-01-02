@@ -17,7 +17,7 @@
         >
           <div class="" style="margin-top: -6rem">
             <img
-              src="../assets/img/special1.png"
+              src="../assets/img/special1.svg"
               alt="Implant Surgery"
               style="width: 100%; height: 100%"
             />
@@ -45,7 +45,7 @@
         >
           <div class="" style="margin-top: -6rem">
             <img
-              src="../assets/img/special-2.png"
+              src="../assets/img/special-2.svg"
               alt="Cosmetic Dentistry"
               style="width: 100%; height: 100%"
             />
@@ -73,7 +73,7 @@
         >
           <div class="" style="margin-top: -6rem">
             <img
-              src="../assets/img/special-3.png"
+              src="../assets/img/special-3.svg"
               alt="Single sitting RCT"
               style="width: 100%; height: 100%"
             />

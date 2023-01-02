@@ -5,7 +5,7 @@
         <div class="col-md-6 d-flex justify-content-center choose-bg">
           <div>
             <img
-              src="../assets/img/choose-img.png"
+              src="../assets/img/choose-img.svg"
               alt="Choose us to get the best service"
               style="width: 100%"
             />
@@ -30,7 +30,7 @@
             >
               <div class="col-md-3 col-xl-2 col-lg-3 mb-2">
                 <img
-                  src="../assets/img/technology.png"
+                  src="../assets/img/technology.svg"
                   alt="Advanced Technology"
                   style="width: 82px; height: 82px"
                 />
@@ -49,7 +49,7 @@
             >
               <div class="col-md-3 col-xl-2 col-lg-3 mb-2">
                 <img
-                  src="../assets/img/laboratory.png"
+                  src="../assets/img/laboratory.svg"
                   alt="In House Laboratory"
                   style="width: 82px; height: 82px"
                 />
@@ -65,7 +65,7 @@
             <div class="row mt-4 align-items-center">
               <div class="col-md-3 col-xl-2 col-lg-3">
                 <img
-                  src="../assets/img/friendly.png"
+                  src="../assets/img/friendly.svg"
                   alt="Friendly Staff"
                   style="width: 82px; height: 82px"
                 />

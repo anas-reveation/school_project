@@ -12,7 +12,7 @@
       >
         <div class="test-img">
           <img
-            src="../assets/img/health1.png"
+            src="../assets/img/health1.svg"
             alt="Book an Appointment"
             style="width: 100%; height: 100%"
           />
@@ -33,7 +33,7 @@
       >
         <div class="test-img">
           <img
-            src="../assets/img/health2.png"
+            src="../assets/img/health2.svg"
             alt="Checkup"
             style="width: 100%; height: 100%"
           />
@@ -54,7 +54,7 @@
       >
         <div class="test-img">
           <img
-            src="../assets/img/health3.png"
+            src="../assets/img/health3.svg"
             alt="Enjoy Healthy Life"
             style="width: 100%; height: 100%"
           />

@@ -7,10 +7,11 @@
             <div class="row">
               <div class="col-lg-9 col-md-12 col-12">
                 <div class="logo-sm">
-                  <a>
+                  <a href="/">
                     <img
                       src="../assets/img/logo white.svg"
                       style="width: 178px; height: 48px"
+                      alt="Footer Logo"
                     />
                   </a>
 
@@ -31,6 +32,7 @@
                   <img
                     src="../assets/img/Phone.svg"
                     style="width: 18px; height: 18px"
+                    alt="Phone"
                   />
                   <span
                     >India,
@@ -43,6 +45,7 @@
                   <img
                     src="../assets/img/Phone.svg"
                     style="width: 18px; height: 18px"
+                    alt="Phone"
                   />
                   <span
                     >India,
@@ -55,6 +58,7 @@
                   <img
                     src="../assets/img/Email.svg"
                     style="width: 18px; height: 18px"
+                    alt="Email"
                   />
                   <span
                     ><a
