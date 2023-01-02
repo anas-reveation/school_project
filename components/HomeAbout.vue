@@ -1,6 +1,9 @@
 <template>
   <div class="container my-5 pt-5">
-    <div class="row align-items-center gy-5 aos-overflow">
+    <div
+      class="row align-items-center gy-5 overflow-hidden aos-overflow"
+      style="padding-bottom: 22px"
+    >
       <div
         class="col-lg-6 col-md-12 aboutbg"
         data-aos="fade-right"
