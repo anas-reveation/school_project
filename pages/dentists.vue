@@ -9,7 +9,9 @@
             data-aos-duration="400"
           >
             <h1 class="text-white">Our Dentists</h1>
-            <h1 class="primary fw-bold bann-h1">Get Best Treatment</h1>
+            <h1 class="primary fw-bold bann-h1 text-center">
+              Meet Our Best Dentists in Ahmedabad
+            </h1>
           </div>
         </div>
       </div>

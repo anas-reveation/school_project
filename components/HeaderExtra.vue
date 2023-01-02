@@ -16,7 +16,6 @@
               />
               <span
                 ><a
-                  href="mailto:drketulpatel05051976@gmail.com"
                   class="text-white text-decoration-none"
                   style="font-size: 14px"
                   >Open Hours : Mon - Sat (9am to 1pm & 4pm to 7.30pm)</a

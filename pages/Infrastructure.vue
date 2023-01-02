@@ -9,8 +9,8 @@
             data-aos-duration="400"
           >
             <h1 class="text-white">Our Infrastructure</h1>
-            <h1 class="primary fw-bold bann-h1">
-              Glimpse of Vardan’s Infrastructure
+            <h1 class="primary fw-bold bann-h1 text-center">
+              Vardan Dental Clinic Infrastructure
             </h1>
           </div>
         </div>

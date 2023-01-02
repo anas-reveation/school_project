@@ -9,7 +9,9 @@
             data-aos-duration="400"
           >
             <h1 class="text-white">Services</h1>
-            <h1 class="primary fw-bold bann-h1">What We Do</h1>
+            <h1 class="primary fw-bold bann-h1 text-center">
+              Best Dental Services In Ahmedabad
+            </h1>
           </div>
         </div>
       </div>

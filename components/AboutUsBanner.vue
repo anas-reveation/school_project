@@ -9,7 +9,9 @@
             data-aos-duration="400"
           >
             <h1 class="text-white">About us</h1>
-            <h1 class="primary bann-h1 fw-bold">Know us better</h1>
+            <h1 class="primary bann-h1 fw-bold text-center">
+              Best Dental Clinic in Ahmedabad
+            </h1>
           </div>
         </div>
       </div>

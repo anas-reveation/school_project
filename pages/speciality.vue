@@ -9,7 +9,9 @@
             data-aos-duration="400"
           >
             <h1 class="text-white text-center">Our Special Treatment</h1>
-            <h1 class="primary bann-h1 fw-bold">What We Do</h1>
+            <h1 class="primary bann-h1 fw-bold text-center">
+              Our Best Dental Specialties
+            </h1>
           </div>
         </div>
       </div>
