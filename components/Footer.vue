@@ -23,7 +23,7 @@
                   >
                     <h6 class="text-white pt-3" style="line-height: 25px">
                       T-8,9 Third floor, Shubh Complex, Near Rajasthan Hospital,
-                      Shahibaug, Ahmedabad, Gujarat – 380004
+                      Shahibaug, Ahmedabad – 380004 Gujarat, India
                     </h6>
                   </a>
                 </div>
@@ -35,10 +35,9 @@
                     style="width: 18px; height: 18px"
                     alt="Phone"
                   />
-                  <span
-                    >India,
+                  <span>
                     <a href="tel: +91-9898025261" class="text-white">
-                      +91 - 9898025261</a
+                      (+91-9898025261)</a
                     ></span
                   >
                 </div>
@@ -48,10 +47,9 @@
                     style="width: 18px; height: 18px"
                     alt="Phone"
                   />
-                  <span
-                    >India,
+                  <span>
                     <a href="tel: +91-9979973277" class="text-white"
-                      >+91 - 9979973277</a
+                      >(+91-9979973277)</a
                     ></span
                   >
                 </div>
@@ -78,13 +76,19 @@
                 class="col-lg-3 col-md-3 col-6 d-flex justify-content-md-center"
               >
                 <div class="text-white logo-sm">
-                  <h5 class="text-white">About Us</h5>
+                  <h5 class="text-white mb-3">About Us</h5>
 
                   <ul>
-                    <li>
-                      <nuxt-link to="/#home-section">Our Clinic</nuxt-link>
+                    <li class="pb-1">
+                      <nuxt-link to="/#home-section"
+                        >Best Dental Clinic near Shahibaug</nuxt-link
+                      >
                     </li>
-                    <li><nuxt-link to="/dentists">Our Doctors</nuxt-link></li>
+                    <li class="pb-1">
+                      <nuxt-link to="/dentists"
+                        >Top Dentists in Shahibaug Ahmedabad</nuxt-link
+                      >
+                    </li>
                     <!-- <li>
                       <nuxt-link to="/Services/#pills-profile"
                         >Our Doctors</nuxt-link
@@ -94,33 +98,73 @@
                 </div>
               </div>
               <div
-                class="col-lg-3 col-md-3 col-6 d-flex justify-content-md-center"
+                class="col-lg-4 col-md-3 col-6 d-flex justify-content-md-center"
               >
                 <div class="text-white logo-sm">
-                  <h5 class="text-white">Services</h5>
+                  <h5 class="text-white mb-3">Services</h5>
                   <ul>
-                    <li>
-                      <nuxt-link to="/services">Our Services</nuxt-link>
+                    <li class="pb-1">
+                      <nuxt-link to="/services/#tab-p"
+                        >Best Implant service in Shahibaug</nuxt-link
+                      >
                     </li>
-                    <li>
-                      <nuxt-link to="/speciality">Our Speciality</nuxt-link>
+                    <li class="pb-1">
+                      <nuxt-link to="/services/#tab-p"
+                        >Best Root Canal service in Shahibaug</nuxt-link
+                      >
+                    </li>
+                    <li class="pb-1">
+                      <nuxt-link to="/services/#tab-p"
+                        >Best cosmetic surgery in Shahibaug</nuxt-link
+                      >
+                    </li>
+                    <li class="pb-1">
+                      <nuxt-link to="/services/#tab-p"
+                        >Best Teeth Whitening in Shahibaug</nuxt-link
+                      >
+                    </li>
+                    <li class="pb-1">
+                      <nuxt-link to="/services/#tab-p"
+                        >Best Orthodontic service in Shahibaug</nuxt-link
+                      >
+                    </li>
+                    <li class="pb-1">
+                      <nuxt-link to="/services/#tab-p"
+                        >Best Smile Designing services in Shahibaug</nuxt-link
+                      >
+                    </li>
+                    <li class="pb-1">
+                      <nuxt-link to="/services/#tab-p"
+                        >Best Periodontal Flap Surgery in Shahibaug</nuxt-link
+                      >
+                    </li>
+                    <li class="pb-1">
+                      <nuxt-link to="/services/#tab-p"
+                        >Best Clear Aligners service in Shahibaug</nuxt-link
+                      >
+                    </li>
+                    <li class="pb-1">
+                      <nuxt-link to="/services/#tab-p"
+                        >Best Cardiac Diabetic Dental Care in
+                        Shahibaug</nuxt-link
+                      >
                     </li>
                   </ul>
                 </div>
               </div>
               <div
-                class="col-lg-3 col-md-3 col-6 d-flex justify-content-md-center"
+                class="col-lg-2 col-md-3 col-6 d-flex justify-content-md-center"
               >
                 <div class="text-white">
-                  <h5 class="text-white">Dentists</h5>
+                  <h5 class="text-white mb-3">Dentists</h5>
                   <ul>
-                    <li>
+                    <li class="pb-1">
                       <nuxt-link to="/dentists">Dr. Ketul Patel</nuxt-link>
                     </li>
-                    <li>
+                    <li class="pb-1">
                       <nuxt-link to="/dentists">Dr. Ravi Patel</nuxt-link>
                     </li>
-                    <li>
+                    <li class="pb-1">
                       <nuxt-link to="/dentists">Dr. Urvashi Patel</nuxt-link>
                     </li>
                     <!-- <li><a href="#">Team Story</a></li>
@@ -132,13 +176,20 @@
                 class="col-lg-3 col-md-3 col-6 psm-0 d-flex justify-content-md-center"
               >
                 <div class="text-white">
-                  <h5 class="text-white">Service Hours</h5>
-                  <ul style="list-style-type: circle; padding-left: 18px">
-                    <li>Monday to Saturday</li>
-                    <li>9.00 am to 1.00 pm</li>
-                    <li>4.00 pm to 7.30 pm</li>
-                    <li>Sunday Close</li>
+                  <h5 class="text-white mb-3">Service Hours</h5>
+                  <p class="mb-2">Monday to Saturday</p>
+                  <ul
+                    class="office-hr mb-2"
+                    style="list-style-type: disc; padding-left: 18px"
+                  >
+                    <li class="pb-1" style="color: var(--footer-text)">
+                      9.00 am to 1.00 pm
+                    </li>
+                    <li class="pb-1" style="color: var(--footer-text)">
+                      4.00 pm to 7.30 pm
+                    </li>
                   </ul>
+                  <p class="mb-1">Sunday Closed</p>
                 </div>
               </div>
             </div>
@@ -203,7 +254,7 @@
       </div>
     </div>
     <div class="container footer-text">
-      <h5 class="text-center pt-4 pb-0 footer-tx-bt" style="font-size: 16px">
+      <h5 class="text-center pt-4 pb-0 footer-tx-bt" style="font-size: 14px">
         © Copyright {{ new Date().getFullYear() }} Vardan Dental Clinic | All
         Rights Reserved
       </h5>
@@ -211,7 +262,7 @@
     <div
       class="d-flex justify-content-center align-items-baseline pb-3 footer-text"
     >
-      <h5 class="text-center pe-2 footer-tx-bt" style="font-size: 16px">
+      <h5 class="text-center pe-2 footer-tx-bt" style="font-size: 14px">
         Design With
       </h5>
       <span class="pb-2 footer-tx-bt">

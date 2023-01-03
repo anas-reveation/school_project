@@ -51,6 +51,7 @@
     margin-bottom: 15px;
     text-decoration: none;
     color: var(--footer-text);
+    font-size: 12px;
 }
 .secondary{
     color: var(--secondary);
@@ -439,6 +440,12 @@
 .healthy-md{
     margin-bottom: -5rem !important;
     margin-top: 6rem !important;
+}
+.logo-sm h6{
+    font-size: 14px;
+}
+.office-hr li{
+    font-size: 14px;
 }
 //phone
 @media (max-width: 767px){

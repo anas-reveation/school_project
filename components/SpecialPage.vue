@@ -23,7 +23,8 @@
         <div class="col-md-6 col-lg-7 col-12">
           <div>
             <h2 class="fw-bold secondary">
-              We have Our special <span class="primary">Dental Treatments</span>
+              Best Dental Implant Clinic
+              <span class="primary">Near Shahibaug</span>
             </h2>
             <p>
               Want to get special treatment? Reach out to us for personalized
