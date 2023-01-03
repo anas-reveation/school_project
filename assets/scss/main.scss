@@ -73,6 +73,9 @@
 .shadow-s{
     box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.12);
 }
+.middle-bg h2{
+    font-size: 40px;
+}
 .tertiary{
     color: var(--tertiary);
 }
@@ -279,6 +282,9 @@
     background-size: cover;
     padding: 103px 0px 119px 0px;
 }
+.contact-bg h2{
+    font-size: 40px;
+}
 .test-img img{
     border: 4px dashed var(--dashed-img);
     border-radius: 50%;
@@ -479,6 +485,12 @@
     margin-top: 4rem !important;
     margin-bottom: 2rem !important;
     }
+    .middle-bg h2{
+        font-size: 26.628px;
+    }
+    .contact-bg h2{
+        font-size: 26.628px;
+    }
     .healthy-md{
         margin-bottom: -3rem !important;
     }
@@ -657,7 +669,7 @@
     .galleries::after{
         margin-top: 15rem;
     }
-    .middle-bg h1{
+    .middle-bg h2{
         font-size: 18px;
     }
     .sd-bg::before{

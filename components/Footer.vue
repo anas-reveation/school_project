@@ -23,7 +23,7 @@
                   >
                     <h6 class="text-white pt-3" style="line-height: 25px">
                       T-8,9 Third floor, Shubh Complex, Near Rajasthan Hospital,
-                      Shahibaug, Ahmedabad – 380004 Gujarat, India
+                      Shahibaug, Ahmedabad – 380004, Gujarat, India
                     </h6>
                   </a>
                 </div>
@@ -109,17 +109,17 @@
                       >
                     </li>
                     <li class="pb-1">
-                      <nuxt-link to="/services/#tab-p"
+                      <nuxt-link to="/services/#tab-s"
                         >Best Root Canal service in Shahibaug</nuxt-link
                       >
                     </li>
                     <li class="pb-1">
-                      <nuxt-link to="/services/#tab-p"
+                      <nuxt-link to="/services/#tab-t"
                         >Best cosmetic surgery in Shahibaug</nuxt-link
                       >
                     </li>
                     <li class="pb-1">
-                      <nuxt-link to="/services/#tab-p"
+                      <nuxt-link to="/services/#tab-u"
                         >Best Teeth Whitening in Shahibaug</nuxt-link
                       >
                     </li>

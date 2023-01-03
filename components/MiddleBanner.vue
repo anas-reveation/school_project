@@ -11,9 +11,9 @@
         <div
           class="col-md-7 col-12 d-flex justify-content-center flex-column align-items-md-start align-items-center"
         >
-          <h1 class="fw-bold text-white">
+          <h2 class="fw-bold text-white">
             Your great smile begins with a great DENTIST!
-          </h1>
+          </h2>
           <p class="text-white" style="text-align: justify">
             Do you want dental care with current equipment and professional
             dental practice? Are you trying to get the greatest dental implants

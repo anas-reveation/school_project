@@ -64,8 +64,8 @@
           data-aos="fade-right"
           data-aos-duration="400"
         >
-          <div class="p-3" style="background-color: #f2fafc">
-            <li class="nav-item" role="presentation">
+          <div class="p-3" style="background-color: #f2fafc" id="tab-s">
+            <li class="nav-item" role="presentation" id="tab-t">
               <button
                 class="nav-link active"
                 id="pills-home-tab"
@@ -79,7 +79,7 @@
                 Dental Implant
               </button>
             </li>
-            <li class="nav-item mt-3" role="presentation">
+            <li class="nav-item mt-3" role="presentation" id="tab-u">
               <button
                 class="nav-link"
                 id="pills-profile-tab"

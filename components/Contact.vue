@@ -6,14 +6,14 @@
           class="col-md-12 d-flex align-items-center justify-content-center flex-column text-center"
         >
           <div>
-            <h1 class="text-white">
+            <h2 class="text-white">
               <span class="primary fw-semibold">Ask us Anything!</span> Our
               vision is to make the world smile
-            </h1>
-            <h1 class="text-white mt-3">
+            </h2>
+            <h2 class="text-white mt-3">
               The Future Of Dental Care is
               <span class="primary fw-semibold">Vardan Dental Clinic</span>
-            </h1>
+            </h2>
           </div>
         </div>
         <div
