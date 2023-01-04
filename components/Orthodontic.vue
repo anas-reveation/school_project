@@ -72,7 +72,7 @@
       <div class="row">
         <div class="col-md-6">
           <img
-            src="../assets/img/ortho3.svg"
+            src="../assets/img/ortho-d.svg"
             alt="Before Orthodontic Treatment"
             class="w-100 h-85"
           />

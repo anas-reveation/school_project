@@ -7,38 +7,37 @@
         style="width: 100%; height: 100%"
       />
       <div class="mt-4">
-        <h4 class="service-t fw-semibold">What is Child Dental Care?</h4>
+        <h4 class="service-t fw-semibold">Child Dental Care in Shahibaug</h4>
         <p>
-          Brushing and washing your child's teeth and gums daily is part of
-          proper dental care. It also entails receiving essential treatments,
-          such as fluoride, sealants, extractions, fillings, braces, and other
-          orthodontics, as well as routine dental examinations.
+          The Vardan Dental Clinic team enjoys providing exceptional dental care
+          to children, babies, adolescents, and young adults in a fun and safe
+          environment. A Pediatric dentist is part of the team that only treats
+          children.
         </p>
         <p>
-          Baby teeth are important because they shape a child's bite and
-          determine where the permanent teeth will erupt as the youngster grows.
-          Because of this, young children can still benefit from orthodontics
-          (braces), even though their baby or milk teeth should eventually fall
-          out.
+          We take pride in protecting children's dental health and are dedicated
+          to making every child's time with us enjoyable, simple, and
+          educational. The cutting-edge pediatric dentist in the Ahmedabad team,
+          the enjoyable atmosphere, the vibrant décor, and our attentive
+          consultant will make all children feel at ease.
         </p>
       </div>
     </div>
     <!-- <DentalServiceTwo class="sev-2 mt-5 pt-4" /> -->
     <div class="row sev-2 mt-5 pt-5 mb-5">
       <div class="col-md-12 col-lg-5">
-        <h4 class="service-t fw-semibold">Benefits of Child Dental Care</h4>
+        <h4 class="service-t fw-semibold">Choose us for Child dental care.</h4>
         <p>
-          When a baby drinks from a bottle, tooth decay can highlight the value
-          of paediatric dental care. Bacteria on your baby's teeth from sugars
-          in foods and drinks can cause damage to the enamel of milk teeth. This
-          is why it's crucial to instil dental hygiene in your child from an
-          early age, even if only through preventative measures.
+          Our pediatric dentistry clinic in Ahmedabad concentrates on oral
+          hygiene and each child's specific needs. They make every effort to
+          avoid dental problems. We use unique methodologies and a personalized
+          approach to the best and most appropriate treatment mode for each
+          child's age and dental growth.
         </p>
         <p>
-          Sucking is a distinct newborn development stage that helps calm
-          anxious kids. Since babies spend most of their first few months
-          sucking on their mother's teat, when they are weaned from
-          breastfeeding (or from bottle feeding), they will continue sucking.
+          We provide a special treat for children by being friendly and
+          cheerful. A specialized Pediatric dentist is part of the team that
+          only treats children.
         </p>
       </div>
       <div class="col-md-12 col-lg-7">

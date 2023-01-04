@@ -628,21 +628,18 @@
     .feature-h img{
         width: 44px !important;
     }
-    .footer-h5 h5{
-        font-size: 12px;
-       }
-       .logo-sm h6{
-           font-size: 10px;
-       }
-       .add-f span{
-           font-size: 10px;
+       .add-f {
+        margin-top: 0 !important;
        }
        .profession::after{
         margin-left: -52px;
-    height: 513.612px;
+        height: 513.612px;
        }
        .dentist-t{
         height: auto;
+    }
+    .ul-l ul li a{
+        font-size: 16px;
     }
        .profession::before{
         margin-top: 27rem;
@@ -655,9 +652,6 @@
     }
        .home-sm{
         margin-top: -1rem !important;
-       }
-       .ul-l ul li{
-           font-size: 10px;
        }
        .gallery-sm img{
         height: 208px !important;
@@ -727,6 +721,12 @@
     .gallery-sm img{
         height: 282px !important;
     }
+    .add-f {
+        margin-top: 0 !important;
+       }
+       .ul-l ul li a{
+        font-size: 14px;
+       }
     .service-curve {
         right: 24%;
         top: -5%;

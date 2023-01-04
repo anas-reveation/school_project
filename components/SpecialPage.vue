@@ -27,8 +27,8 @@
               <span class="primary">Near Shahibaug</span>
             </h2>
             <p>
-              Want to get special treatment? Reach out to us for personalized
-              treatment at an affordable cost
+              Do you want to get an Affordable dental implant in Shahibaug?
+              Connect with you us today
             </p>
           </div>
           <div class="mt-5 pt-3">

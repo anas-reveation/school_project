@@ -7,40 +7,41 @@
         style="width: 100%; height: 100%"
       />
       <div class="mt-4">
-        <h4 class="service-t fw-semibold">
-          What is Smile Designing Treatment?
-        </h4>
+        <h4 class="service-t fw-semibold">Smile Makeover in Shahibaug</h4>
         <p>
-          Smile Design Treatment is a cosmetic surgery that focuses on enhancing
-          the look of your smile using specific techniques such as composite
-          bonding, dental veneers, teeth whitening, and tooth implants. People
-          with tooth decay, tooth sensitivity, discoloration, and bacterial
-          plaque frequently choose this makeover procedure. This treatment
-          considers several variables, such as lips, gum tissues, skin tone, and
-          facial features.
-        </p>
-        <p>
-          Smile design is a cosmetic dentistry surgery that improves the
-          appearance and health of your teeth by repairing minor flaws. It
-          incorporates a tailored treatment and long-lasting results for a
-          straighter, whiter, and more realistic-looking smile.
+          Your smile is crucial! It is the first thing people notice about you.
+          It says a lot about your personality and serves as your first
+          impression. An attractive smile enhances not only your character but
+          also your self-confidence. We not only specialize in restoring smiles
+          but also in creating attractive smiles. With the introduction of
+          Digital Smile Designing software, analyzing and designing smiles has
+          become extremely precise.
         </p>
       </div>
     </div>
     <!-- <DentalServiceTwo class="sev-2 mt-5 pt-4" /> -->
     <div class="row sev-2 mt-5 pt-5">
       <div class="col-md-12 col-lg-5">
-        <h4 class="service-t fw-semibold">Benefits of Smile Designing</h4>
+        <h4 class="service-t fw-semibold">
+          Choose Vardan Dental for Smile Designing
+        </h4>
         <p>
-          Our dental team at Vardan is committed to providing treatments that
-          meet each patient's specific needs and help them achieve the desired
-          look. Your self-confidence can be significantly increased by having a
-          healthy smile, and we provide a variety of therapies to help you do
-          so. They can also provide you with various models to help you better
-          picture how your new smile will appear and feel. That's what Smile
-          Designing does! With a bit of planning, you can see your smile change
-          before your eyes.
+          You will receive the best treatment from our highly qualified
+          individuals who have the best ethics and will treat you gently. The
+          dentists work together to solve your dental problems. You can give us
+          a painless and high-quality service if you express your opinion with
+          an open heart.
         </p>
+        <p>
+          Here are some common dental issues we can treat to improve the
+          appearance of your smile.
+        </p>
+        <ul class="row">
+          <li class="col-md-12">Make smooth structure</li>
+          <li class="col-md-12">Treat surface defect</li>
+          <li class="col-md-12">Cavity composite</li>
+          <li class="col-md-12">Compound Veneers</li>
+        </ul>
       </div>
       <div class="col-md-12 col-lg-7">
         <img

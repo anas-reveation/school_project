@@ -8,21 +8,19 @@
       />
       <div class="mt-4">
         <h4 class="service-t fw-semibold">
-          What is Cardiac Diabetic Dental Care?
+          Cardiac Diabetic Dental Care in Shahibaug
         </h4>
         <p>
-          When it comes to dental care, those with diabetes and heart disease
-          have particular requirements. Informing your dentist about your
-          anticoagulant use (blood-thinning drugs). Taking these drugs during
-          specific oral surgery procedures may cause excessive bleeding. Some
-          medications for high blood pressure can make you feel dry-mouthed,
-          change your sense of taste, or enlarge or swell your gums.
+          Vardan Dental Clinic has a specialist team that can advise our
+          patients on Diabetes and Cardiac-related dental issues. We believe in
+          treating the disease and then on to dental treatments.
         </p>
         <p>
-          Diabetes can impact your mouth as well as the rest of your body.
-          Therefore, it would be best to give considerable attention to your
-          teeth and gums. Maintaining control over your blood sugar is also
-          crucial.
+          Our experts have the experience and knowledge to prevent potential
+          complications during and after dental treatment procedures, such as
+          multiple drug interactions, cardiac abnormalities, and infectious
+          disease, that would otherwise cause unnecessary morbidity and
+          mortality in people with diabetes.
         </p>
       </div>
     </div>
@@ -30,17 +28,28 @@
     <div class="row sev-2 mt-5 pt-5">
       <div class="col-md-12 col-lg-5">
         <h4 class="service-t fw-semibold">
-          Benefits of Cardiac and Diabetic Dental Care
+          Vardan provides the best Cardiac Diabetic Dental Care.
         </h4>
         <p>
-          Diabetes lowers the body's ability to fight off infections. The gums
-          are among the tissues most likely to be impacted. According to
-          studies, those with moderate or severe gum (periodontitis) illness are
-          likelier than those with healthy gums to suffer heart disease or
-          diabetes. Oral health can provide insight into general health.
-          According to studies, dental health might be a warning sign for
-          diabetes and heart disease, among other illnesses or ailments.
+          We provide special attention and care for diabetic and cardiac
+          patients' teeth and gums, such as:
         </p>
+        <ul class="row">
+          <li class="col-md-12">
+            An in-depth examination of the oral condition,
+          </li>
+          <li class="col-md-12">Teeth scaling and polishing regularly,</li>
+          <li class="col-md-12">
+            Removal of any infective or septic foci from the mouth,
+          </li>
+          <li class="col-md-12">Special programmes for gum care,</li>
+          <li class="col-md-12">Pyorrhea and bleeding gums treatment</li>
+          <li class="col-md-12">
+            Looking for any risk factors for the heart, lungs, kidneys, and so
+            on,
+          </li>
+          <li class="col-md-12">Screening for oral cancer</li>
+        </ul>
       </div>
       <div class="col-md-12 col-lg-7">
         <img

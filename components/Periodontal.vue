@@ -7,19 +7,19 @@
         style="width: 100%; height: 100%"
       />
       <div class="mt-4">
-        <h4 class="service-t fw-semibold">What is Periodontal Flap Surgery?</h4>
+        <h4 class="service-t fw-semibold">
+          Flap Periodontal Surgery Can Recover your Smile
+        </h4>
         <p>
-          Flap surgery is frequently carried out under local anaesthetic,
-          perhaps with the help of oral sedatives; it can also be done under
-          intravenous conscious sedation. A minor incision is performed to
-          detach the gums from the teeth after the anaesthetic has taken effect.
-          The outer gum tissue is gently folded aside to access the roots and
-          the supporting ligament and bone tissue. In this typical treatment,
-          doctors make a few tiny incisions in your gums and remove a piece of
-          tissue back. Then, they clean the bacteria and tartar off your teeth
-          and the area around your gums. The gums are sutured back to ensure
-          that the tissue fits snugly around your teeth. Cleaning particular
-          parts of your teeth and gums will be simpler once you have recovered.
+          Are you experiencing tooth pain? Do you have gums that bleed? Do you
+          have difficulty chewing or moving your gums? All of these could be
+          symptoms of gum disease, and you may need surgery to resolve the
+          problem.
+        </p>
+        <p>
+          As a veteran dental care service provider in the medical industry,
+          Vardan Dental Care guarantees you the safest and most productive gum
+          surgeries at reasonable prices.
         </p>
       </div>
     </div>
@@ -27,18 +27,27 @@
     <div class="row sev-2 mt-5 pt-5">
       <div class="col-md-12 col-lg-5">
         <h4 class="service-t fw-semibold">
-          Benefits of Periodontal Flap Surgery
+          Best Flap Periodontal Surgery in Shahibaug, Ahmedabad
         </h4>
         <p>
-          Your smile will look better since the operation can help your gum
-          tissue to reattach to your roots and lessen the depth and appearance
-          of gum pockets by eliminating plaque and tartar that have built up
-          below your gum line. Reduce the likelihood of developing a significant
-          illness: Heart disease, cancer, and other systemic diseases like
-          cancer and respiratory disease have all been associated with gum
-          disease. Professional treatment for gum disease can lower your risk of
-          contracting these illnesses and improve your general health.
+          We are competent and know what we are doing. You can completely rely
+          on our professional approach, which has been relied on by many over
+          the years.
         </p>
+        <p>Our dental flap surgery methods are as follows:</p>
+        <ul class="row">
+          <li class="col-md-6">Painless</li>
+          <li class="col-md-6">Non-invasive</li>
+          <li class="col-md-6">Very secure</li>
+          <li class="col-md-6">Completely certified</li>
+          <li class="col-md-6">
+            A variety of modern tools and advanced technologies were used.
+          </li>
+          <li class="col-md-6">There are no negative effects.</li>
+          <li class="col-md-6">It takes a long time to complete.</li>
+          <li class="col-md-6">Pocket-friendly and thus cost-effective</li>
+          <li class="col-md-6">Exceptionally precise</li>
+        </ul>
       </div>
       <div class="col-md-12 col-lg-7">
         <img

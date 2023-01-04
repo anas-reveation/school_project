@@ -2,7 +2,7 @@
   <div>
     <div class="container my-5 pt-4">
       <h2 class="fw-bold secondary text-center text-center mb-3">
-        Meet our <span class="primary"> Elite Team</span>
+        Our Founders <span class="primary"> Team</span>
       </h2>
       <div
         class="col-12 d-flex justify-content-center align-items-center flex-row"
