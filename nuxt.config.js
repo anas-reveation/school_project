@@ -15,7 +15,7 @@ export default {
 
     link: [
       { rel: "icon", type: "image/x-icon", href: "/fav.svg" },
-      { hid: "canonical", rel: "canonical", href: "https://vardandental.in" },
+      { hid: "canonical", rel: "canonical", href: "https://vardandental.in/" },
       {
         hid: "alternate",
         rel: "alternate",
