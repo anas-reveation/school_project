@@ -148,7 +148,7 @@
                       @click="myFunction3(5)"
                     >
                       <nuxt-link to="/services/#f"
-                        >Best Wisdom Tooth Removal service in Shahibaug
+                        >Best Smile Designing services in Shahibaug
                       </nuxt-link>
                     </li>
                     <li
@@ -156,7 +156,7 @@
                       @click="myFunction3(6)"
                     >
                       <nuxt-link to="/services/#g"
-                        >Best Smile Designing services in Shahibaug
+                        >Best Periodontal Flap Surgery in Shahibaug
                       </nuxt-link>
                     </li>
                     <li
@@ -164,15 +164,16 @@
                       @click="myFunction3(7)"
                     >
                       <nuxt-link to="/services/#h"
-                        >Best Periodontal Flap Surgery in Shahibaug</nuxt-link
+                        >Best Child Dental Care in Shahibaug</nuxt-link
                       >
                     </li>
                     <li
                       class="pb-1 col-6 col-lg-12 col-md-12"
                       @click="myFunction3(8)"
                     >
-                      <nuxt-link to="/services/#i"
-                        >Best Child Dental Care in Shahibaug</nuxt-link
+                      <nuxt-link to="/services/#i">
+                        Best Wisdom Tooth Removal service in
+                        Shahibaug</nuxt-link
                       >
                     </li>
                   </ul>
@@ -249,6 +250,7 @@
               >
                 <img
                   src="../assets/img/facebook1.svg"
+                  alt="facebook"
                   style="height: 44px; width: 38.5px"
                 />
               </a>

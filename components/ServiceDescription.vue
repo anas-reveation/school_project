@@ -135,21 +135,8 @@
                 Clear Aligners Treatment
               </button>
             </li>
+
             <li class="nav-item mt-3" role="presentation" id="f">
-              <button
-                class="nav-link bta"
-                id="pills-wisdom-tab"
-                data-bs-toggle="pill"
-                data-bs-target="#pills-wisdom"
-                type="button"
-                role="tab"
-                aria-controls="pills-wisdom"
-                aria-selected="false"
-              >
-                Wisdom Tooth Removal
-              </button>
-            </li>
-            <li class="nav-item mt-3" role="presentation" id="g">
               <button
                 class="nav-link bta"
                 id="pills-smile-tab"
@@ -163,7 +150,7 @@
                 Smile Designing
               </button>
             </li>
-            <li class="nav-item mt-3" role="presentation" id="h">
+            <li class="nav-item mt-3" role="presentation" id="g">
               <button
                 class="nav-link bta"
                 id="pills-flap-tab"
@@ -177,7 +164,7 @@
                 Periodontal Flap Surgery
               </button>
             </li>
-            <li class="nav-item mt-3" role="presentation" id="i">
+            <li class="nav-item mt-3" role="presentation" id="h">
               <button
                 class="nav-link bta"
                 id="pills-child-tab"
@@ -189,6 +176,20 @@
                 aria-selected="false"
               >
                 Child Dental Care
+              </button>
+            </li>
+            <li class="nav-item mt-3" role="presentation" id="i">
+              <button
+                class="nav-link bta"
+                id="pills-wisdom-tab"
+                data-bs-toggle="pill"
+                data-bs-target="#pills-wisdom"
+                type="button"
+                role="tab"
+                aria-controls="pills-wisdom"
+                aria-selected="false"
+              >
+                Wisdom Tooth Removal
               </button>
             </li>
             <li class="nav-item mt-3" role="presentation" id="j">
@@ -253,14 +254,7 @@
           >
             <AlignersTreatment />
           </div>
-          <div
-            class="tab-pane fade tba"
-            id="pills-wisdom"
-            role="tabpanel"
-            aria-labelledby="pills-wisdom-tab"
-          >
-            <WisdomTooth />
-          </div>
+
           <div
             class="tab-pane fade tba"
             id="pills-smile"
@@ -284,6 +278,14 @@
             aria-labelledby="pills-child-tab"
           >
             <ChildDental />
+          </div>
+          <div
+            class="tab-pane fade tba"
+            id="pills-wisdom"
+            role="tabpanel"
+            aria-labelledby="pills-wisdom-tab"
+          >
+            <WisdomTooth />
           </div>
           <div
             class="tab-pane fade tba"
