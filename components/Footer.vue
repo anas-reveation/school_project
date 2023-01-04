@@ -3,9 +3,9 @@
     <div class="border-bottom">
       <div class="container">
         <div class="row ul-l mb-5 gy-5">
-          <div class="col-md-4">
+          <div class="col-md-12 col-xl-4">
             <div class="row">
-              <div class="col-lg-9 col-md-12 col-12">
+              <div class="col-xl-9 col-md-6 col-12">
                 <div class="logo-sm">
                   <a href="/">
                     <img
@@ -28,7 +28,7 @@
                   </a>
                 </div>
               </div>
-              <div class="col-lg-12 col-md-12 col-12 text-white mt-5 add-f">
+              <div class="col-xl-12 col-md-6 col-12 text-white mt-5 add-f">
                 <div>
                   <img
                     src="../assets/img/Phone.svg"
@@ -70,10 +70,10 @@
               </div>
             </div>
           </div>
-          <div class="col-md-8">
+          <div class="col-md-12 col-xl-8">
             <div class="row gy-3 footer-h5">
               <div
-                class="col-lg-3 col-md-3 col-12 d-flex justify-content-md-center"
+                class="col-xl-3 col-md-6 col-12 d-flex justify-content-xl-center"
               >
                 <div class="text-white logo-sm">
                   <h5 class="text-white mb-3">About Us</h5>
@@ -98,61 +98,88 @@
                 </div>
               </div>
               <div
-                class="col-lg-4 col-md-3 col-12 d-flex justify-content-md-center"
+                class="col-xl-4 col-md-6 col-12 d-flex justify-content-xl-center"
               >
                 <div class="text-white logo-sm">
                   <h5 class="text-white mb-3">Services</h5>
                   <ul class="row">
-                    <li class="pb-1 col-6 col-lg-12 col-md-12">
-                      <a href="/services/#tab-p"
-                        >Best Implant service in Shahibaug</a
+                    <li
+                      class="pb-1 col-6 col-lg-12 col-md-12"
+                      @click="myFunction3(0)"
+                    >
+                      <nuxt-link to="/services/#a"
+                        >Best Implant service in Shahibaug</nuxt-link
                       >
                     </li>
-                    <li class="pb-1 col-6 col-lg-12 col-md-12">
-                      <a href="/services/#tab-p"
-                        >Best Root Canal service in Shahibaug</a
+                    <li
+                      class="pb-1 col-6 col-lg-12 col-md-12"
+                      @click="myFunction3(1)"
+                    >
+                      <nuxt-link to="/services/#b"
+                        >Best Root Canal service in Shahibaug</nuxt-link
                       >
                     </li>
-                    <li class="pb-1 col-6 col-lg-12 col-md-12">
-                      <a href="/services/#tab-p"
-                        >Best cosmetic surgery in Shahibaug</a
+                    <li
+                      class="pb-1 col-6 col-lg-12 col-md-12"
+                      @click="myFunction3(2)"
+                    >
+                      <nuxt-link to="/services/#c"
+                        >Best Teeth Whitening in Shahibaug
+                      </nuxt-link>
+                    </li>
+                    <li
+                      class="pb-1 col-6 col-lg-12 col-md-12"
+                      @click="myFunction3(3)"
+                    >
+                      <nuxt-link to="/services/#d"
+                        >Best Orthodontic service in Shahibaug</nuxt-link
                       >
                     </li>
-                    <li class="pb-1 col-6 col-lg-12 col-md-12">
-                      <a href="/services/#tab-p"
-                        >Best Teeth Whitening in Shahibaug</a
+                    <li
+                      class="pb-1 col-6 col-lg-12 col-md-12"
+                      @click="myFunction3(4)"
+                    >
+                      <nuxt-link to="/services/#e">
+                        Best Clear Aligners service in Shahibaug</nuxt-link
                       >
                     </li>
-                    <li class="pb-1 col-6 col-lg-12 col-md-12">
-                      <a href="/services/#tab-p"
-                        >Best Orthodontic service in Shahibaug</a
+                    <li
+                      class="pb-1 col-6 col-lg-12 col-md-12"
+                      @click="myFunction3(5)"
+                    >
+                      <nuxt-link to="/services/#f"
+                        >Best Wisdom Tooth Removal service in Shahibaug
+                      </nuxt-link>
+                    </li>
+                    <li
+                      class="pb-1 col-6 col-lg-12 col-md-12"
+                      @click="myFunction3(6)"
+                    >
+                      <nuxt-link to="/services/#g"
+                        >Best Smile Designing services in Shahibaug
+                      </nuxt-link>
+                    </li>
+                    <li
+                      class="pb-1 col-6 col-lg-12 col-md-12"
+                      @click="myFunction3(7)"
+                    >
+                      <nuxt-link to="/services/#h"
+                        >Best Periodontal Flap Surgery in Shahibaug</nuxt-link
                       >
                     </li>
-                    <li class="pb-1 col-6 col-lg-12 col-md-12">
-                      <a href="/services/#tab-p"
-                        >Best Smile Designing services in Shahibaug</a
-                      >
-                    </li>
-                    <li class="pb-1 col-6 col-lg-12 col-md-12">
-                      <a href="/services/#tab-p"
-                        >Best Periodontal Flap Surgery in Shahibaug</a
-                      >
-                    </li>
-                    <li class="pb-1 col-6 col-lg-12 col-md-12">
-                      <a href="/services/#tab-p"
-                        >Best Clear Aligners service in Shahibaug</a
-                      >
-                    </li>
-                    <li class="pb-1 col-6 col-lg-12 col-md-12">
-                      <a href="/services/#tab-p"
-                        >Best Cardiac Diabetic Dental Care in Shahibaug</a
+                    <li
+                      class="pb-1 col-6 col-lg-12 col-md-12"
+                      @click="myFunction3(8)"
+                    >
+                      <nuxt-link to="/services/#i"
+                        >Best Child Dental Care in Shahibaug</nuxt-link
                       >
                     </li>
                   </ul>
                 </div>
               </div>
               <div
-                class="col-lg-2 col-md-3 col-6 d-flex justify-content-md-center"
+                class="col-xl-2 col-md-6 col-6 d-flex justify-content-xl-center"
               >
                 <div class="text-white">
                   <h5 class="text-white mb-3">Dentists</h5>
@@ -172,11 +199,11 @@
                 </div>
               </div>
               <div
-                class="col-lg-3 col-md-3 col-6 psm-0 d-flex justify-content-md-center"
+                class="col-xl-3 col-md-6 col-6 psm-0 d-flex justify-content-xl-center"
               >
                 <div class="text-white">
                   <h5 class="text-white mb-3">Service Hours</h5>
-                  <p class="mb-2">Monday to Saturday</p>
+                  <p class="mb-2" style="font-size: 14px">Monday to Saturday</p>
                   <ul
                     class="office-hr mb-2"
                     style="list-style-type: disc; padding-left: 18px"
@@ -188,7 +215,7 @@
                       4.00 pm to 7.30 pm
                     </li>
                   </ul>
-                  <p class="mb-1">Sunday Closed</p>
+                  <p class="mb-1" style="font-size: 14px">Sunday Closed</p>
                 </div>
               </div>
             </div>
@@ -219,16 +246,12 @@
                 href="https://www.facebook.com/profile.php?id=100088409476132"
                 target="_blank"
                 rel="noopener"
-                ><svg
-                  xmlns="http://www.w3.org/2000/svg"
-                  viewBox="0 0 512 512"
-                  fill="#fff"
-                >
-                  <!--! Font Awesome Pro 6.2.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. -->
-                  <path
-                    d="M504 256C504 119 393 8 256 8S8 119 8 256c0 123.78 90.69 226.38 209.25 245V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.28c-30.8 0-40.41 19.12-40.41 38.73V256h68.78l-11 71.69h-57.78V501C413.31 482.38 504 379.78 504 256z"
-                  /></svg
-              ></a>
+              >
+                <img
+                  src="../assets/img/facebook1.svg"
+                  style="height: 44px; width: 38.5px"
+                />
+              </a>
             </div>
             <div class="col-2">
               <a
@@ -287,3 +310,60 @@
     </div>
   </div>
 </template>
+
+<script>
+export default {
+  methods: {
+    myFunction3: function (event) {
+      setTimeout(() => {
+        let btnContainer = document.getElementById("tab-p");
+        let tabContainer = document.getElementById("tab-p");
+
+        let btns = btnContainer.getElementsByClassName("bta");
+        let tabs = tabContainer.getElementsByClassName("tba");
+        console.log(this.target);
+        console.log(event);
+        console.log(tabs);
+        for (var k = 0; k < tabs.length; k++) {
+          if (k == event) {
+            tabs[k].className = "tab-pane fade show active tba";
+          } else {
+            tabs[k].className = "tab-pane fade tba";
+          }
+          // btns[i].addEventListener("click", function () {
+          //   var current = document.getElementsByClassName("active");
+          //   current[0].className = current[0].className.replace(" active", "");
+          //   this.className += " active";
+          // });
+          console.log(tabs[k].className);
+          console.log();
+        }
+        var k = 0;
+
+        for (var i = 0; i < btns.length; i++) {
+          if (i == event) {
+            btns[i].className = "nav-link bta active";
+            btns[i].ariaSelected = "true";
+          } else {
+            btns[i].className = "nav-link bta";
+            btns[i].ariaSelected = "false";
+          }
+          // btns[i].addEventListener("click", function () {
+          //   var current = document.getElementsByClassName("active");
+          //   current[0].className = current[0].className.replace(" active", "");
+          //   this.className += " active";
+          // });
+          console.log(btns[i].className);
+          console.log();
+        }
+        var i = 0;
+      }, 300);
+    },
+  },
+};
+
+//
+// export default {
+
+// };
+</script>

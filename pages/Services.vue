@@ -81,6 +81,13 @@ export default {
           "we offer dental implant, root canal treatment, teeth whitening, orthodontic treatment, clear aligner treatment, wisdom tooth removal, smile designing, periodontal flap surgery, child dental care, and cardiac diabetic dental care.",
       },
     ],
+    link: [
+      {
+        hid: "canonical",
+        rel: "canonical",
+        href: "https://vardandental.in/services",
+      },
+    ],
   },
 };
 </script>

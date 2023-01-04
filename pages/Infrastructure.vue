@@ -81,6 +81,13 @@ export default {
           "We offer the patients the right amenities, have well-maintained equipment, and a clean, hygienic environment. Friendly and knowledgeable employees work for us.",
       },
     ],
+    link: [
+      {
+        hid: "canonical",
+        rel: "canonical",
+        href: "https://vardandental.in/infrastructure",
+      },
+    ],
   },
 };
 </script>

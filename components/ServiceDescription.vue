@@ -56,7 +56,7 @@
           style="width: 15%; border-top: 3px solid var(--primary); opacity: 1"
         />
       </div>
-      <div class="row overflow-hidden mt-5 gy-4" id="tab-p">
+      <div class="row overflow-hidden mt-5 gy-4" id="tab-p" ref="tabp">
         <ul
           class="nav nav-pills s-tab mb-3 d-block col-md-12 col-xl-4 col-lg-12"
           id="pills-tab"
@@ -65,9 +65,9 @@
           data-aos-duration="400"
         >
           <div class="p-3" style="background-color: #f2fafc" id="tab-s">
-            <li class="nav-item" role="presentation">
+            <li class="nav-item" role="presentation" id="a">
               <button
-                class="nav-link active"
+                class="nav-link active bta"
                 id="pills-home-tab"
                 data-bs-toggle="pill"
                 data-bs-target="#pills-home, #pills-homes"
@@ -79,9 +79,9 @@
                 Dental Implant
               </button>
             </li>
-            <li class="nav-item mt-3" role="presentation">
+            <li class="nav-item mt-3" role="presentation" id="b">
               <button
-                class="nav-link"
+                class="nav-link bta"
                 id="pills-profile-tab"
                 data-bs-toggle="pill"
                 data-bs-target="#pills-profile"
@@ -93,9 +93,9 @@
                 Root Canal Treatment
               </button>
             </li>
-            <li class="nav-item mt-3" role="presentation">
+            <li class="nav-item mt-3" role="presentation" id="c">
               <button
-                class="nav-link"
+                class="nav-link bta"
                 id="pills-contact-tab"
                 data-bs-toggle="pill"
                 data-bs-target="#pills-contact"
@@ -107,9 +107,9 @@
                 Teeth Whitening
               </button>
             </li>
-            <li class="nav-item mt-3" role="presentation">
+            <li class="nav-item mt-3" role="presentation" id="d">
               <button
-                class="nav-link"
+                class="nav-link bta"
                 id="pills-ortho-tab"
                 data-bs-toggle="pill"
                 data-bs-target="#pills-ortho"
@@ -121,9 +121,9 @@
                 Orthodontic Treatment
               </button>
             </li>
-            <li class="nav-item mt-3" role="presentation">
+            <li class="nav-item mt-3" role="presentation" id="e">
               <button
-                class="nav-link"
+                class="nav-link bta"
                 id="pills-aligner-tab"
                 data-bs-toggle="pill"
                 data-bs-target="#pills-aligner"
@@ -135,9 +135,9 @@
                 Clear Aligners Treatment
               </button>
             </li>
-            <li class="nav-item mt-3" role="presentation">
+            <li class="nav-item mt-3" role="presentation" id="f">
               <button
-                class="nav-link"
+                class="nav-link bta"
                 id="pills-wisdom-tab"
                 data-bs-toggle="pill"
                 data-bs-target="#pills-wisdom"
@@ -149,9 +149,9 @@
                 Wisdom Tooth Removal
               </button>
             </li>
-            <li class="nav-item mt-3" role="presentation">
+            <li class="nav-item mt-3" role="presentation" id="g">
               <button
-                class="nav-link"
+                class="nav-link bta"
                 id="pills-smile-tab"
                 data-bs-toggle="pill"
                 data-bs-target="#pills-smile"
@@ -163,9 +163,9 @@
                 Smile Designing
               </button>
             </li>
-            <li class="nav-item mt-3" role="presentation">
+            <li class="nav-item mt-3" role="presentation" id="h">
               <button
-                class="nav-link"
+                class="nav-link bta"
                 id="pills-flap-tab"
                 data-bs-toggle="pill"
                 data-bs-target="#pills-flap"
@@ -177,9 +177,9 @@
                 Periodontal Flap Surgery
               </button>
             </li>
-            <li class="nav-item mt-3" role="presentation">
+            <li class="nav-item mt-3" role="presentation" id="i">
               <button
-                class="nav-link"
+                class="nav-link bta"
                 id="pills-child-tab"
                 data-bs-toggle="pill"
                 data-bs-target="#pills-child"
@@ -191,9 +191,9 @@
                 Child Dental Care
               </button>
             </li>
-            <li class="nav-item mt-3" role="presentation">
+            <li class="nav-item mt-3" role="presentation" id="j">
               <button
-                class="nav-link"
+                class="nav-link bta"
                 id="pills-cardio-tab"
                 data-bs-toggle="pill"
                 data-bs-target="#pills-cardio"
@@ -214,7 +214,7 @@
           data-aos-duration="400"
         >
           <div
-            class="tab-pane fade show active"
+            class="tab-pane fade show active tba"
             id="pills-home"
             role="tabpanel"
             aria-labelledby="pills-home-tab"
@@ -222,7 +222,7 @@
             <DentalServiceOne class="" />
           </div>
           <div
-            class="tab-pane fade"
+            class="tab-pane fade tba"
             id="pills-profile"
             role="tabpanel"
             aria-labelledby="pills-profile-tab"
@@ -230,7 +230,7 @@
             <RootCanal class="" />
           </div>
           <div
-            class="tab-pane fade"
+            class="tab-pane fade tba"
             id="pills-contact"
             role="tabpanel"
             aria-labelledby="pills-contact-tab"
@@ -238,7 +238,7 @@
             <TeethWhitening />
           </div>
           <div
-            class="tab-pane fade"
+            class="tab-pane fade tba"
             id="pills-ortho"
             role="tabpanel"
             aria-labelledby="pills-ortho-tab"
@@ -246,7 +246,7 @@
             <Orthodontic />
           </div>
           <div
-            class="tab-pane fade"
+            class="tab-pane fade tba"
             id="pills-aligner"
             role="tabpanel"
             aria-labelledby="pills-aligner-tab"
@@ -254,7 +254,7 @@
             <AlignersTreatment />
           </div>
           <div
-            class="tab-pane fade"
+            class="tab-pane fade tba"
             id="pills-wisdom"
             role="tabpanel"
             aria-labelledby="pills-wisdom-tab"
@@ -262,7 +262,7 @@
             <WisdomTooth />
           </div>
           <div
-            class="tab-pane fade"
+            class="tab-pane fade tba"
             id="pills-smile"
             role="tabpanel"
             aria-labelledby="pills-smile-tab"
@@ -270,7 +270,7 @@
             <SmileDesigning />
           </div>
           <div
-            class="tab-pane fade"
+            class="tab-pane fade tba"
             id="pills-flap"
             role="tabpanel"
             aria-labelledby="pills-flap-tab"
@@ -286,7 +286,7 @@
             <ChildDental />
           </div>
           <div
-            class="tab-pane fade"
+            class="tab-pane fade tba"
             id="pills-cardio"
             role="tabpanel"
             aria-labelledby="pills-cardio-tab"

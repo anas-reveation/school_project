@@ -83,6 +83,13 @@ export default {
           "Our dentists provide the best dental treatment in Ahmedabad. Dr. Ravi Patel, Dr. Urvashi Patel, and Dr. Ketul Patel provide quality dental care to all age groups.",
       },
     ],
+    link: [
+      {
+        hid: "canonical",
+        rel: "canonical",
+        href: "https://vardandental.in/dentists",
+      },
+    ],
   },
 };
 </script>

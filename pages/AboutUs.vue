@@ -70,6 +70,13 @@ export default {
           "Vardaan Dental Clinic was established in 2010 with the aim of Treatment by Experts. We provide high quality dental care at a reasonable cost using professional dental practice.",
       },
     ],
+    link: [
+      {
+        hid: "canonical",
+        rel: "canonical",
+        href: "https://vardandental.in/aboutus",
+      },
+    ],
   },
 };
 </script>

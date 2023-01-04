@@ -87,6 +87,13 @@ export default {
           "Our dental specialists provide best dental treatment, which includes dental implant surgery, cosmetic dentistry, single sitting RCT, and full mouth rehabilitation.",
       },
     ],
+    link: [
+      {
+        hid: "canonical",
+        rel: "canonical",
+        href: "https://vardandental.in/speciality",
+      },
+    ],
   },
 };
 </script>

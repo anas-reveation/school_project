@@ -171,6 +171,13 @@ export default {
           "Vardan Dental Clinic & Implant Center is committed to offering high volume, excellent dental care at affordable prices and has over 22 years of experience..",
       },
     ],
+    link: [
+      {
+        hid: "canonical",
+        rel: "canonical",
+        href: "https://vardandental.in/",
+      },
+    ],
   },
 };
 </script>
