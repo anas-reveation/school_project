@@ -7,21 +7,18 @@
         style="width: 100%; height: 100%"
       />
       <div class="mt-4">
-        <h4 class="service-t fw-semibold">What is Teeth Whitening?</h4>
+        <h4 class="service-t fw-semibold">
+          Want to get Best Teeth Whitening in Shahibaug?
+        </h4>
         <p>
-          The term "teeth whitening" describes several procedures intended to
-          enhance the brightness and whiteness of someone's natural teeth.
-          Sanding away stains, bleaching, ultraviolet (UV) light therapy, and
-          other techniques are used to whiten teeth.
+          Teeth whitening is the process of using bleach to brighten the
+          appearance of teeth. Stains or discolouration factors are removed from
+          the tooth's surface to whiten teeth. Make an appointment today for the
+          most trusted Teeth Whitening treatment.
         </p>
         <p>
-          Almost everyone who chooses a teeth whitening method notices a
-          moderate to a significant increase in the brilliance and clarity of
-          their smile. Nevertheless, it is a temporary fix for discolouration
-          and calls for upkeep or "touch-ups" for a lasting look. Your partner
-          for cost-effective yet high-quality teeth whitening options is Vardan
-          Dental Clinic. We hope to help your smile regain some of its original
-          natural beauty through quick, effective procedures.
+          Vardan Dental Care's professional Teeth Whitening procedures add value
+          to the gloss of your teeth, making your smile even more valuable.
         </p>
       </div>
     </div>

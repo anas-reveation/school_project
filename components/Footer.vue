@@ -73,7 +73,7 @@
           <div class="col-md-8">
             <div class="row gy-3 footer-h5">
               <div
-                class="col-lg-3 col-md-3 col-6 d-flex justify-content-md-center"
+                class="col-lg-3 col-md-3 col-12 d-flex justify-content-md-center"
               >
                 <div class="text-white logo-sm">
                   <h5 class="text-white mb-3">About Us</h5>
@@ -98,55 +98,54 @@
                 </div>
               </div>
               <div
-                class="col-lg-4 col-md-3 col-6 d-flex justify-content-md-center"
+                class="col-lg-4 col-md-3 col-12 d-flex justify-content-md-center"
               >
                 <div class="text-white logo-sm">
                   <h5 class="text-white mb-3">Services</h5>
-                  <ul>
-                    <li class="pb-1">
-                      <nuxt-link to="/services/#tab-p"
-                        >Best Implant service in Shahibaug</nuxt-link
+                  <ul class="row">
+                    <li class="pb-1 col-6 col-lg-12 col-md-12">
+                      <a href="/services/#tab-p"
+                        >Best Implant service in Shahibaug</a
                       >
                     </li>
-                    <li class="pb-1">
-                      <nuxt-link to="/services/#tab-s"
-                        >Best Root Canal service in Shahibaug</nuxt-link
+                    <li class="pb-1 col-6 col-lg-12 col-md-12">
+                      <a href="/services/#tab-p"
+                        >Best Root Canal service in Shahibaug</a
                       >
                     </li>
-                    <li class="pb-1">
-                      <nuxt-link to="/services/#tab-t"
-                        >Best cosmetic surgery in Shahibaug</nuxt-link
+                    <li class="pb-1 col-6 col-lg-12 col-md-12">
+                      <a href="/services/#tab-p"
+                        >Best cosmetic surgery in Shahibaug</a
                       >
                     </li>
-                    <li class="pb-1">
-                      <nuxt-link to="/services/#tab-u"
-                        >Best Teeth Whitening in Shahibaug</nuxt-link
+                    <li class="pb-1 col-6 col-lg-12 col-md-12">
+                      <a href="/services/#tab-p"
+                        >Best Teeth Whitening in Shahibaug</a
                       >
                     </li>
-                    <li class="pb-1">
-                      <nuxt-link to="/services/#tab-p"
-                        >Best Orthodontic service in Shahibaug</nuxt-link
+                    <li class="pb-1 col-6 col-lg-12 col-md-12">
+                      <a href="/services/#tab-p"
+                        >Best Orthodontic service in Shahibaug</a
                       >
                     </li>
-                    <li class="pb-1">
-                      <nuxt-link to="/services/#tab-p"
-                        >Best Smile Designing services in Shahibaug</nuxt-link
+                    <li class="pb-1 col-6 col-lg-12 col-md-12">
+                      <a href="/services/#tab-p"
+                        >Best Smile Designing services in Shahibaug</a
                       >
                     </li>
-                    <li class="pb-1">
-                      <nuxt-link to="/services/#tab-p"
-                        >Best Periodontal Flap Surgery in Shahibaug</nuxt-link
+                    <li class="pb-1 col-6 col-lg-12 col-md-12">
+                      <a href="/services/#tab-p"
+                        >Best Periodontal Flap Surgery in Shahibaug</a
                       >
                     </li>
-                    <li class="pb-1">
-                      <nuxt-link to="/services/#tab-p"
-                        >Best Clear Aligners service in Shahibaug</nuxt-link
+                    <li class="pb-1 col-6 col-lg-12 col-md-12">
+                      <a href="/services/#tab-p"
+                        >Best Clear Aligners service in Shahibaug</a
                       >
                     </li>
-                    <li class="pb-1">
-                      <nuxt-link to="/services/#tab-p"
-                        >Best Cardiac Diabetic Dental Care in
-                        Shahibaug</nuxt-link
+                    <li class="pb-1 col-6 col-lg-12 col-md-12">
+                      <a href="/services/#tab-p"
+                        >Best Cardiac Diabetic Dental Care in Shahibaug</a
                       >
                     </li>
                   </ul>

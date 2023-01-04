@@ -1,15 +1,22 @@
 <template>
   <div class="row">
     <div class="col-md-12 col-lg-5">
-      <h4 class="service-t fw-semibold">Benefits of Teeth Whitening</h4>
+      <h4 class="service-t fw-semibold">Get Advanced White Teething</h4>
       <p>
-        It's Quick to Whiten Your Teeth. It frequently takes a long time for
-        operations to be effective, both during and after. Whitening your teeth
-        is different from those drawn-out processes. A skilled dentist should be
-        able to improve your smile in about an hour with teeth whitening! While
-        a few over-the-counter teeth whitening treatments make similar claims,
-        the outcomes and timeliness you'll experience working with a dental
-        professional are unsurpassed.
+        At Vardan Dental Care, we provide entirely painless Teeth Whitening
+        Treatment in Ahmedabad using cutting-edge technology, certified
+        products, and a safe and secure process.
+      </p>
+      <p>
+        Professional-quality teeth whitening at Vardan Clinic provides safe,
+        dramatic results. Teeth can be brightened up to 6 shades whiter with the
+        professional product, erasing years of stains caused by lifestyle
+        habits, ageing teeth, trauma, or medications.
+      </p>
+      <p>
+        Teeth whitening is a simple, painless procedure that can be completed in
+        about an hour at the clinic or home in about two weeks. Professional
+        products can lighten teeth up to 6 shades lighter.
       </p>
     </div>
     <div class="col-md-12 col-lg-7">

@@ -1,18 +1,28 @@
 <template>
   <div class="row">
     <div class="col-md-12 col-lg-5">
-      <h4 class="service-t fw-semibold">Benefits of Root Canal</h4>
+      <h4 class="service-t fw-semibold">
+        Get the Top Quality RCT Dental at Vardan Dental Clinic in Shahibaug
+      </h4>
       <p>
-        The primary cause of decay in the tooth cavity is frequently a pulp
-        infection. The buildup of bacteria in this region causes infection of
-        the pulp. The affected pulp is still harbouring these germs; if not
-        treated, they could easily spread to nearby teeth.
+        Do you want to get the best Root Canal surgery? Connect with Vardan
+        Dental care in Shahibaug. The following are the process's main
+        characteristics:
       </p>
-      <p>
-        The pulp that is infected must be removed during a root canal. Cleaning
-        the afflicted area and fitting the tooth with a crown or filling the
-        cavity with a polymer material are the next steps in the procedure.
-      </p>
+      <ul class="row">
+        <li class="col-md-12">Methods that are certified</li>
+        <li class="col-md-12">
+          Conducted by dentists with years of medical industry experience.
+          Guaranteed results
+        </li>
+        <li class="col-md-12">The result is visually appealing.</li>
+        <li class="col-md-12">Zero Pain!</li>
+        <li class="col-md-12">Extremely cost-effective</li>
+        <li class="col-md-12">
+          Use of advanced technologies that are optimally controlled
+        </li>
+        <li class="col-md-12">An implementation that is safe and secure</li>
+      </ul>
     </div>
     <div class="col-md-12 col-lg-7">
       <img

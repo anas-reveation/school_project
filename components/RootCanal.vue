@@ -7,23 +7,26 @@
         style="width: 100%; height: 100%"
       />
       <div class="mt-4">
-        <h4 class="service-t fw-semibold">What is Dental Root Canals?</h4>
+        <h4 class="service-t fw-semibold">
+          Best Root Canal Treatment Near Shahibaug, Ahemdabad
+        </h4>
         <p>
-          A "root canal" is a component of a tooth, not a medical procedure. The
-          pulp, commonly referred to as the hollow part of a tooth, is where the
-          nerves, blood vessels, and other cells are located. The crown and
-          roots make up a tooth. The roots are below the gum, whereas the crown
-          is above it. The tooth is joined to the jawbone via the roots. The
-          pulp is located inside the crown, root, or canal. The pulp hydrates
-          the tissue around the tooth and feeds it nutrients. The pulp's nerves
-          interpret heat and cold as painful.
+          Root canal treatment is performed when the cavity is too deep, too
+          close to a pulp, or the pulp is already infected.
         </p>
         <p>
-          The term "root canal" actually refers to a dentistry procedure called
-          endodontic therapy, which means "within the tooth." Even if the pulp
-          is dead, the tooth's crown, the portion visible above the gums, can
-          still be intact. The greatest technique to protect the tooth's
-          structure is to remove damaged or infected pulp.
+          The pulp tissue is completely removed up to the roots during this
+          procedure, and the canals are cleaned with chemicals before being
+          widened. The root canals are filled with resin cones.
+        </p>
+        <p>
+          This entire procedure necessitates three to four visits. The tooth
+          becomes brittle after root canal treatment because its blood supply is
+          cut off.
+        </p>
+        <p>
+          This type of tooth is prone to fracture. The crown or cap is then
+          placed on top.
         </p>
       </div>
     </div>

@@ -7,41 +7,49 @@
         style="width: 100%; height: 100%"
       />
       <div class="mt-4">
-        <h4 class="service-t fw-semibold">What is Orthodontic Treatment?</h4>
+        <h4 class="service-t fw-semibold">
+          Best Orthodontic Treatment in Ahmedabad
+        </h4>
         <p>
-          Orthodontic treatment aims to straighten or move teeth to enhance
-          their function and appearance. Spreading the pressure of biting over
-          all of your teeth can also protect the long-term health of your teeth,
-          gums, and jaw joints. The teeth will be straightened or moved into a
-          better place with orthodontic therapy.
+          Orthodontic treatment is a standard device to correct your smile and
+          boost your confidence when interacting with guests at a social
+          gathering. Vardan Dental Clinic is a well-known name in the dental
+          care industry, providing dental braces to hundreds of people,
+          significantly improving the quality of their smile and aligning their
+          teeth.
         </p>
         <p>
-          In addition to making them easier to clean, this can enhance their
-          appearance and the way their teeth bite together. Some people have
-          ugly, protruding upper front teeth. The likelihood of damage to these
-          "prominent" teeth is higher, but orthodontic therapy can realign them.
-          The way the upper and lower jaws come together can make teeth appear
-          ugly and result in a bad bite. Both of these issues might be resolved
-          with orthodontic treatment.
+          Book a consultation to learn more about our Orthodontic Treatment's
+          benefits.
         </p>
       </div>
     </div>
     <!-- <DentalServiceTwo class="sev-2 mt-5 pt-4" /> -->
     <div class="row sev-2 mt-5 pt-5">
       <div class="col-md-12 col-lg-5">
-        <h4 class="service-t fw-semibold">Benefits of Orthodontic Treatment</h4>
+        <h4 class="service-t fw-semibold">
+          Connect with us for Orthodontic Treatment
+        </h4>
         <p>
-          Orthodontic therapy can enhance your facial features, improve your
-          dental health, and increase your self-esteem. It might give you a
-          chance to take part in enhancing your appearance. Even before their
-          treatments are over, patients frequently report feeling more assured.
+          Vardan Dental Clinic offers Orthodontic Treatment in Ahmedabad through
+          experienced Services.
         </p>
-        <p>
-          Both your appearance and dental health can be improved with
-          orthodontic therapy. Cleaning and maintaining teeth that are straight
-          and in alignment is simpler. Orthodontic issues can be fixed to help
-          stop tooth decay, gum disease, and even tooth loss.
-        </p>
+        <p>We use the following dental braces:</p>
+        <ul class="row">
+          <li class="col-md-12">Made from genuine materials</li>
+          <li class="col-md-12">Extremely long-lasting</li>
+          <li class="col-md-12">
+            Not affected by regular use Highly functional, producing results
+            quickly
+          </li>
+          <li class="col-md-12">Implementation is extremely cost-effective.</li>
+          <li class="col-md-12">
+            Capable of addressing the specific issue with utmost precision
+          </li>
+          <li class="col-md-12">
+            Don't jeopardize your oral hygiene standards.
+          </li>
+        </ul>
       </div>
       <div class="col-md-12 col-lg-7">
         <img

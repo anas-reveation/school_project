@@ -7,33 +7,42 @@
         style="width: 100%; height: 100%"
       />
       <div class="mt-4">
-        <h4 class="service-t fw-semibold">What is Wisdom Tooth Removal?</h4>
+        <h4 class="service-t fw-semibold">
+          Best Dental Clinic in Shahibaug for Wisdom Tooth Removal
+        </h4>
         <p>
-          The four permanent adult teeth, known as wisdom teeth, are placed at
-          the top and bottom back corners of your mouth. A wisdom tooth
-          extraction is a surgical procedure to remove one or more of these
-          teeth. You'll need to have a wisdom tooth extracted if it is impacted
-          or causing you pain, an infection, or other dental issues. An oral
-          surgeon or a dentist can remove a wisdom tooth. Even if impacted teeth
-          aren't causing issues, some dentists and oral surgeons advise wisdom
-          tooth extraction to avoid future problems.
+          Vardan Dental Clinic employs an experienced and skilled oral surgeon
+          specializing in wisdom tooth extraction. Through clinical examination
+          and 2D or 3D X-rays, our dental professionals will thoroughly examine
+          and evaluate the position and condition of your wisdom teeth to
+          determine the best treatment plan and safe surgery for you. A wisdom
+          tooth surgery can result in:
         </p>
+        <ul class="row">
+          <li class="col-md-6">Gum inflammation</li>
+          <li class="col-md-6">Tooth crowding between adjacent teeth</li>
+          <li class="col-md-6">Smile distortion</li>
+          <li class="col-md-6">Chewing and grinding difficulties</li>
+          <li class="col-md-6">Cavity problems will be exacerbated.</li>
+        </ul>
       </div>
     </div>
     <!-- <DentalServiceTwo class="sev-2 mt-5 pt-4" /> -->
     <div class="row sev-2 mt-5 pt-5">
       <div class="col-md-12 col-lg-5">
-        <h4 class="service-t fw-semibold">Benefits of Wishdom Tooth Removal</h4>
+        <h4 class="service-t fw-semibold">
+          Painless Wisdom Tooth Removal at Vardan Dental
+        </h4>
         <p>
-          When wisdom teeth grow in and erupt, they may crowd your teeth and
-          harm other molars. Wisdom teeth can eventually cause alignment
-          problems if there isn't enough room for them because other teeth are
-          gradually pushed out of the way. As a result, getting your wisdom
-          teeth out reduces the possibility of requiring braces or different
-          pricey types of corrective surgery to fix your teeth' alignment.
-          Having your wisdom teeth removed minimizes the possibility of your
-          carefully crafted smile being undone, especially if you've already
-          undergone braces or oral surgery for correction.
+          If you're searching for a Dental Clinic in Ahmedabad for Wisdom Tooth
+          Removal, Vardan Dental Care is a well-known and advanced Dental Clinic
+          in Shahibaug, Ahmedabad. Consultation with Vardan Dental Clinic expert
+          dentists is the best way to address the problem.
+        </p>
+        <p>
+          Our dentists are proactive and will quickly diagnose the problem that
+          you are experiencing. We would remove your wisdom teeth gently and
+          painlessly. There would be no complications in the entire process.
         </p>
       </div>
       <div class="col-md-12 col-lg-7">

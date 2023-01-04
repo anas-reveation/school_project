@@ -7,39 +7,51 @@
         style="width: 100%; height: 100%"
       />
       <div class="mt-4">
-        <h4 class="service-t fw-semibold">What is Clear Aligners Treatment?</h4>
+        <h4 class="service-t fw-semibold">
+          Get the Best Clear Aligners Treatment in Shahibaug
+        </h4>
         <p>
-          As an alternative to traditional braces, clear aligners are made to
-          assist in moving teeth into the right position. Clear aligners, which
-          lack metal wires and brackets but employ a progressive force to
-          control tooth movement, are similar to braces. The aligners are
-          designed to fit each person's mouth out of sturdy plastic. If a series
-          of aligners is required, the teeth are moved incrementally with each
-          aligner until the necessary movement is accomplished.
+          Vardan Dental Care is the name to remember when you need Clear
+          Aligners. We are the market's highest-rated service provider, with
+          years of experience fitting high-end clear aligners for various
+          people. After consulting with us, several customers improved their
+          teeth alignment and transformed their smiles.
         </p>
         <p>
-          For alignment devices to work as effectively as possible, wearers must
-          wear them for at least 20 hours daily. Before moving on to the
-          subsequent aligner, each one is worn for three weeks. The severity of
-          each condition determines how long each person has to wear aligners
-          for treatment.
+          Vardan dentists have many years of experience fitting people's aligner
+          braces. We value the appearance of your smile and the oral health and
+          aesthetic standard of your teeth.
         </p>
       </div>
     </div>
     <!-- <DentalServiceTwo class="sev-2 mt-5 pt-4" /> -->
     <div class="row sev-2 mt-5 pt-5">
       <div class="col-md-12 col-lg-5">
-        <h4 class="service-t fw-semibold">Benefits of Aligners Treatment</h4>
+        <h4 class="service-t fw-semibold">
+          Benefits of Clear Aligners Treatment
+        </h4>
         <p>
-          Clear aligners are a fantastic alternative for people who desire a
-          straighter smile but do not want to wear traditional metal braces.
-          Additionally, individuals who have had orthodontic treatment in the
-          past and want to make small changes to their smile can benefit from
-          aligners. Clear Aligners will improve your oral well-being and health
-          once your teeth are straight. This is so that you can brush and floss
-          your teeth more easily if they are straight. This is because you'll be
-          able to clean all of your teeth's surfaces of plaque and food debris.
+          Want to get multiple advantages of Clear Aligners Treatment? Connect
+          with our top dentists in Shahibaug, Ahmedabad.
         </p>
+        <ul class="row">
+          <li class="col-md-12">
+            Straightening your teeth without any complications
+          </li>
+          <li class="col-md-12">
+            There will be no adverse effects on your gums.
+          </li>
+          <li class="col-md-12">
+            Compared to other service providers' devices, aligning your teeth
+            takes less than half the time.
+          </li>
+          <li class="col-md-12">High-quality clear aligner devices</li>
+          <li class="col-md-12">High-quality clear aligner devices</li>
+          <li class="col-md-12">
+            The procedure is extremely comfortable to use.
+          </li>
+          <li class="col-md-12">It can be easily removed whenever you want</li>
+        </ul>
       </div>
       <div class="col-md-12 col-lg-7">
         <img
