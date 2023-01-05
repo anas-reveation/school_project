@@ -4,7 +4,7 @@
       <div class="container psm-4">
         <div class="row">
           <div
-            class="col-md-9 col-lg-8 col-xl-6"
+            class="col-md-11 col-lg-9 col-xl-6"
             data-aos="fade-right"
             data-aos-offset="300"
             data-aos-easing="ease-in-sine"
@@ -28,14 +28,17 @@
                   href="https://api.whatsapp.com/send?phone=+919111222105&text=Hi,%20I%20would%20like%20to%20get%20more%20information.."
                   target="_blank"
                   rel="noopener"
-                  class="bg-primary-color text-decoration-none light-anc hover-speciality"
-                  style="border-radius: 21px; padding: 12px 30px 12px 5px"
-                >
-                  <span
-                    class="p-2 span1"
-                    style="background-color: var(--light); border-radius: 19px"
+                  class="bg-primary-color d-flex w-38 align-items-center text-decoration-none light-anc hover-speciality"
+                  style="border-radius: 34px; padding: 4px 30px 5px 5px"
+                  ><span class="span1 p-1"
                     ><img
-                      src="../assets/img/arrow-right.svg"
+                      src="../assets/img/WhatsApp.svg"
+                      class="link"
+                      alt="Arrow Redirect"
+                    />
+                    <img
+                      src="../assets/img/WA.svg"
+                      class="link2"
                       alt="Arrow Redirect"
                     />
                   </span>

@@ -107,10 +107,19 @@
 .hover-speciality:hover{
     background-color: var(--light) !important;
     color: var(--primary);
-    border: 2px solid var(--primary);
+    // border: 2px solid var(--primary);
 }
-.hover-speciality:hover .span1{
-    // border: 1px solid var(--primary);
+.hover-speciality:hover .link{
+    display: none;
+}
+.link2{
+    display: none;
+}
+.hover-speciality:hover .link2{
+    display: block;
+}
+.w-38{
+    width: 38%;
 }
 .s-tab {
     height: 100%;
@@ -206,18 +215,6 @@
     margin-top: 378px;
     margin-left: -17px;
 }
-// .choose-bg1::after{
-//     background-image: url(../img/Rectangle-seven.svg);
-//     content: "";
-//     z-index: -1;
-//     position: absolute;
-//     height: 34.15px;
-//     background-size: cover;
-//     right: 1%;
-//     align-items: center;
-//     display: flex;
-//     width: 91.15px;
-// }
 .our-doc::before{
     background-image: url(../img/Ellipse.svg);
     content: "";
@@ -231,19 +228,6 @@
     width: 151.931px;
     margin-top: -94px;
 }
-// .our-doc1::after{
-//     background-image: url(../img/circle-svg.svg);
-//     content: "";
-//     z-index: -1;
-//     position: absolute;
-//     height: 29%;
-//     background-size: cover;
-//     right: 3%;
-//     align-items: center;
-//     display: flex;
-//     width: 10%;
-//     bottom: -350%;
-// }
 .our-doc2::before{
     background-image: url(../img/semicircle.svg);
     content: "";
@@ -477,6 +461,9 @@
         }
     .bann-h1{
         font-size: 25px;
+    }
+    .w-38{
+        width: 74%;
     }
     .dentist-t{
         height: auto;
@@ -765,6 +752,9 @@
     .home-sm{
         margin-top: -2rem !important;
     }
+    .w-38{
+        width: 45%;
+    }
     .our-doc1 img{
         margin-top: -13rem !important;
     }
@@ -792,5 +782,11 @@
     height: 94.4px;
     margin-top: 134px;
     width: 93.913px;
+    }
+    .w-38{
+        width: 89%;
+    }
+    .home-sm{
+        margin-top: -32px !important;
     }
 }
