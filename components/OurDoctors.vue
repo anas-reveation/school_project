@@ -37,9 +37,9 @@
             <p class="fw-semibold">(BDS)</p>
           </div>
           <p>
-            He has completed his MBBS and BDS and is the founder of Vardan
-            Dental Clinic. He has excellent experience in holistic dental care
-            for patients of all age groups.
+            He has completed his BDS and is the founder of Vardan Dental Clinic.
+            He has excellent experience in holistic dental care for patients of
+            all age groups.
           </p>
         </div>
       </div>
@@ -58,10 +58,9 @@
             <p class="fw-semibold">(BDS)</p>
           </div>
           <p>
-            She has completed her MBBS and BDS and is the founder of Vardan
-            Dental Clinic. She is soft-spoken, pleasant, and a perfectionist,
-            and she believes in giving quality dental care to every patient
-            visiting us.
+            She has completed her BDS and is the founder of Vardan Dental
+            Clinic. She is soft-spoken, pleasant, and a perfectionist, and she
+            believes in giving quality dental care to every patient visiting us.
           </p>
         </div>
       </div>

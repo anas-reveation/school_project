@@ -42,7 +42,7 @@
             </div>
             <div class="col-md-8 col-8 d-flex">
               <div class="">
-                <h4 class="fw-bold text-center">500+</h4>
+                <h4 class="fw-bold text-center">3000+</h4>
                 <h5 class="fw-normal text-center">Happy Clients</h5>
               </div>
             </div>
@@ -65,7 +65,7 @@
             </div>
             <div class="col-md-8 col-8 d-flex">
               <div class="">
-                <h4 class="fw-bold text-center">1</h4>
+                <h4 class="fw-bold text-center">2</h4>
                 <h5 class="fw-normal text-center">Speciality Clinic</h5>
               </div>
             </div>

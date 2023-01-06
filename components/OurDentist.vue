@@ -54,11 +54,10 @@
                 (BDS)</span
               >
             </h5>
-            <h6 class="degree text-center pt-2 fw-semibold">Implantologist</h6>
             <p class="py-3">
-              He has completed his MBBS and BDS and is the founder of Vardan
-              Dental Clinic. He has excellent experience in holistic dental care
-              for patients of all age groups.
+              He has completed his BDS and is the founder of Vardan Dental
+              Clinic. He has excellent experience in holistic dental care for
+              patients of all age groups.
             </p>
           </div>
         </div>
@@ -76,10 +75,9 @@
                 (BDS)</span
               >
             </h5>
-            <h6 class="degree text-center pt-2 fw-semibold">Implantologist</h6>
             <p class="py-3">
-              She has completed her MBBS and BDS and is the founder of Vardan
-              Dental Clinic. She is soft-spoken, and a perfectionist.
+              She has completed her BDS and is the founder of Vardan Dental
+              Clinic. She is soft-spoken, and a perfectionist.
             </p>
           </div>
         </div>

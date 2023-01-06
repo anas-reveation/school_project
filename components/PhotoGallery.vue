@@ -16,7 +16,7 @@
               style="width: 100%; height: 100%"
             />
           </div>
-          <p class="mt-5" style="text-align: justify">
+          <p class="mt-5 text-center text-md-start">
             Vardan's core advantages come from a comprehensive, state-of-the-art
             infrastructure. Our clinic is adequately set up, with well-equipped
             machinery, a clean, hygienic environment, and appropriate facilities

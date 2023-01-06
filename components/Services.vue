@@ -1,8 +1,7 @@
 <template>
   <div class="container py-5 our-doc2">
     <div class="text-center">
-      <h4 class="primary">Departments</h4>
-      <h2 class="fw-bold secondary">Our Medical Services</h2>
+      <h2 class="fw-bold secondary">Our Dental Services</h2>
       <p>
         Placing you and your safety at the heart of everything we do. With
         having our entire team of Vardan Dental Clinic.

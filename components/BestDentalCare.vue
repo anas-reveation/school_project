@@ -29,16 +29,16 @@
             The Best Dental Clinic near you <span class="primary"></span>
           </h2>
           <P style="text-align: justify"
-            >Vardan dental clinic was established in 2010 with the specific
+            >Vardan dental clinic was established in 1998 with the specific
             intention of offering "treatment by specialists." Patients can
             receive comprehensive, multidisciplinary care from different
             specialists who cover every area of dentistry clinical practise.
           </P>
           <P class="primary" style="text-align: justify"
             >The dental clinic is nicely furnished with the most recent
-            equipment. Dr. Ravi Patel, Urvashi Patel & Ketul Patel thoroughly
-            investigates all situations and delicately manage the more
-            challenging ones.
+            equipment. Dr. Ravi Patel, Dr. Urvashi Patel & Dr. Ketul Patel
+            thoroughly investigates all situations and delicately manage the
+            more challenging ones.
           </P>
         </div>
       </div>
