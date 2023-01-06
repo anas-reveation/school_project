@@ -20,7 +20,7 @@
               <img
                 src="../assets/img/serv-i1.svg"
                 alt="Teeth Whitening"
-                style="width: 88px; height: 88px"
+                style="width: 88px; height: 87px"
               />
               <h4 class="py-4 tertiary fw-semibold">Teeth Whitening</h4>
             </div>
