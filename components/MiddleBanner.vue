@@ -22,7 +22,7 @@
           </p>
           <div class="mt-5 pt-3">
             <a
-              href="https://api.whatsapp.com/send?phone=+919111222105&text=Hi,%20I%20would%20like%20to%20get%20more%20information.."
+              href="https://api.whatsapp.com/send?phone=+919898025261&text=Hi,%20I%20would%20like%20to%20get%20more%20information.."
               target="_blank"
               rel="noopener"
               class="bg-primary-color text-decoration-none light-anc hover-speciality"
