@@ -95,14 +95,32 @@
                 border-top: 1px solid rgba(188, 188, 188, 0.5);
               "
             />
-            <li class="nav-item pe-3" @click="myFunction()">
-              <nuxt-link
-                to="/infrastructure"
-                class="nav-link text-dark"
-                aria-current="page"
+            <li class="nav-item dropdown pe-3" @click="myFunction3()">
+              <a
+                class="nav-link dropdown-toggle text-dark"
+                id="navbarDropdown"
+                role="button"
+                data-bs-toggle="dropdown"
+                aria-expanded="false"
               >
-                Infrastructure
-              </nuxt-link>
+                Gallery
+              </a>
+              <ul
+                class="dropdown-menu"
+                aria-labelledby="navbarDropdown"
+                id="dropdown-3"
+              >
+                <li @click="myFunction1()">
+                  <nuxt-link class="dropdown-item" to="/infrastructure"
+                    >Infrastructure</nuxt-link
+                  >
+                </li>
+                <li @click="myFunction1()">
+                  <nuxt-link class="dropdown-item" to="/treatmentgallery"
+                    >Treatment</nuxt-link
+                  >
+                </li>
+              </ul>
             </li>
             <hr
               class="d-block d-md-none mt-1 mb-3"
@@ -162,6 +180,22 @@ export default {
     },
     myFunction2() {
       const z = document.getElementById("dropdown-2");
+      if (z.style.display === "block") {
+        z.style.display = "none";
+      } else {
+        z.style.display = "block";
+      }
+    },
+    myFunction1() {
+      const y = document.getElementById("navbarSupportedContent");
+      if (y.style.display === "block") {
+        y.style.display = "none";
+      } else {
+        y.style.display = "block";
+      }
+    },
+    myFunction3() {
+      const z = document.getElementById("dropdown-3");
       if (z.style.display === "block") {
         z.style.display = "none";
       } else {
