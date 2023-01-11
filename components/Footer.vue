@@ -89,11 +89,11 @@
                         >Top Dentists in Shahibaug Ahmedabad</nuxt-link
                       >
                     </li>
-                    <!-- <li>
-                      <nuxt-link to="/Services/#pills-profile"
-                        >Our Doctors</nuxt-link
+                    <li>
+                      <nuxt-link to="/treatmentgallery"
+                        >treatmentgallery</nuxt-link
                       >
-                    </li> -->
+                    </li>
                   </ul>
                 </div>
               </div>
