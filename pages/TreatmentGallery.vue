@@ -10,7 +10,7 @@
           >
             <h1 class="text-white">Treatment</h1>
             <h1 class="primary fw-bold bann-h1 text-center">
-              Get the best dental treatment
+              Best Dental Treatment Near Shahibaug
             </h1>
           </div>
         </div>
@@ -18,26 +18,27 @@
     </div>
     <div class="container my-5 psm-4" style="margin-top: 5rem !important">
       <h2 class="fw-bold secondary text-center mb-5">
-        Choose us to get the
-        <span class="primary">best treatment</span>
+        Get the latest pictures from
+        <span class="primary">Vardan's Ahmedabad Dental Clinic</span>
       </h2>
       <div class="row gy-3 align-items-md-center align-items-lg-start">
         <div class="col-md-12">
           <div class="galleries">
             <img
               src="../assets/img/tgallery.svg"
-              alt="Vardan’s Infrastructure"
+              alt="Vardan’s Best Treatment"
               data-aos="zoom-in"
               data-aos-duration="400"
               style="width: 100%; height: 100%"
             />
           </div>
           <p class="mt-5 text-center text-md-start">
-            Vardan's core advantages come from a comprehensive, state-of-the-art
-            infrastructure. Our clinic is adequately set up, with well-equipped
-            machinery, a clean, hygienic environment, and appropriate facilities
-            provided to the patients. We have highly qualified staff who are
-            friendly.
+            We will always keep you up to date on the latest picture at our
+            dental clinic. Furthermore, you will find more pictures related to
+            our dental treatment. We provide advanced dental treatments and
+            provisions to care for your smile. We have designed our Ahmedabad
+            dental clinic to have a boutique-style ambiance and to provide
+            treatments in a completely relaxing environment.
           </p>
         </div>
       </div>
@@ -74,28 +75,28 @@ export default {
     return { treatments };
   },
   head: {
-    title: "Our Infrastructure - Vardan Dental Clinic & Implant Centre",
+    title: "Best Dental Treatment Near Shahibaug - Vardan Dental Clinic",
     meta: [
       {
         hid: "description",
         name: "description",
         content:
-          "We offer the patients the right amenities, have well-maintained equipment, and a clean, hygienic environment. Friendly and knowledgeable employees work for us.",
+          "If you are looking for dental treatment near Shahibagh, Ahmedabad, Vardaan Dental Clinic is your best option. View our results after dental surgical treatment.",
       },
       {
         name: "keywords",
         content:
-          "Our Infrastructure, Vardan Photo Gallery, well-equipped machinery, hygienic environment, Oral Implants and Reconstructive Dentistry, highly qualified experts, healthy smile",
+          "Best Dental Treatment Near Shahibaug, best treatment, dental treatment images, Wishdom Tooth Removal Images, Dental Implant Images, Orthodonic Treatment Images, Clear Aligners Treatment Images",
       },
       {
         hid: "og:title",
         property: "og:title",
-        content: "Our Infrastructure - Vardan Dental Clinic & Implant Centre",
+        content: "Best Dental Treatment Near Shahibaug - Vardan Dental Clinic",
       },
       {
         hid: "og:url",
         property: "og:url",
-        content: "https://vardandental.in/infrastructure",
+        content: "https://vardandental.in/treatmentgallery/",
       },
       {
         hid: "og:type",
@@ -106,7 +107,7 @@ export default {
         hid: "og:description",
         property: "og:description",
         content:
-          "We offer the patients the right amenities, have well-maintained equipment, and a clean, hygienic environment. Friendly and knowledgeable employees work for us.",
+          "Best Dental Treatment Near Shahibaug, best treatment, dental treatment images, Wishdom Tooth Removal Images, Dental Implant Images, Orthodonic Treatment Images, Clear Aligners Treatment Images",
       },
       {
         hid: "og:image",
@@ -124,20 +125,20 @@ export default {
       {
         hid: "twitter:title",
         name: "twitter:title",
-        content: "Our Infrastructure - Vardan Dental Clinic & Implant Centre",
+        content: "Best Dental Treatment Near Shahibaug - Vardan Dental Clinic",
       },
       {
         hid: "twitter:description",
         name: "twitter:description",
         content:
-          "We offer the patients the right amenities, have well-maintained equipment, and a clean, hygienic environment. Friendly and knowledgeable employees work for us.",
+          "Best Dental Treatment Near Shahibaug, best treatment, dental treatment images, Wishdom Tooth Removal Images, Dental Implant Images, Orthodonic Treatment Images, Clear Aligners Treatment Images",
       },
     ],
     link: [
       {
         hid: "canonical",
         rel: "canonical",
-        href: "https://vardandental.in/infrastructure",
+        href: "https://vardandental.in/treatmentgallery/",
       },
     ],
   },
