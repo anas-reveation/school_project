@@ -10,7 +10,7 @@
             class="treat-img"
             style="width: 624px; height: 336.625px"
             :asset-id="before"
-            alt="before-img"
+            :alt="altBefore"
           />
           <p class="text-center fw-semibold">Before</p>
         </div>
@@ -21,7 +21,7 @@
             class="treat-img"
             style="width: 624px; height: 336.625px"
             :asset-id="after"
-            alt="after-img"
+            :alt="altAfter"
           />
           <p class="text-center fw-semibold">After</p>
         </div>
@@ -31,11 +31,15 @@
 </template>
 
 <script>
+import { stringify } from "querystring";
+
 export default {
   props: {
     tittle: String,
     before: String,
     after: String,
+    altBefore: String,
+    altAfter: String,
   },
 };
 </script>

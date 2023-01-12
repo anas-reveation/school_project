@@ -50,6 +50,8 @@
           :tittle="treatment.tittle"
           :before="treatment.before.asset._ref"
           :after="treatment.after.asset._ref"
+          :altBefore="treatment.altbe"
+          :altAfter="treatment.altaf"
         />
       </div>
     </div>
