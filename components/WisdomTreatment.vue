@@ -7,7 +7,8 @@
       <div class="col-md-6">
         <div>
           <SanityImage
-            style="width: 100%; height: 100%"
+            class="treat-img"
+            style="width: 624px; height: 336.625px"
             :asset-id="before"
             alt="before-img"
           />
@@ -17,7 +18,8 @@
       <div class="col-md-6">
         <div>
           <SanityImage
-            style="width: 100%; height: 100%"
+            class="treat-img"
+            style="width: 624px; height: 336.625px"
             :asset-id="after"
             alt="after-img"
           />
