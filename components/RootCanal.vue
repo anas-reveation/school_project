@@ -8,25 +8,13 @@
       />
       <div class="mt-4">
         <h4 class="service-t fw-semibold">
-          Best Root Canal Treatment Near Shahibaug, Ahemdabad
+          When a person needs RCT?
         </h4>
         <p>
-          Root canal treatment is performed when the cavity is too deep, too
-          close to a pulp, or the pulp is already infected.
+          Root Canal Treatment (RCT) of a tooth is needed when the blood or nerve supply of the tooth (pulp) is irreversibly inflamed or infected because of decay (cavity), cracks, root infection, gums infection, traumatic occlusion or due to many other reasons.
         </p>
         <p>
-          The pulp tissue is completely removed up to the roots during this
-          procedure, and the canals are cleaned with chemicals before being
-          widened. The root canals are filled with resin cones.
-        </p>
-        <p>
-          This entire procedure necessitates three to four visits. The tooth
-          becomes brittle after root canal treatment because its blood supply is
-          cut off.
-        </p>
-        <p>
-          This type of tooth is prone to fracture. The crown or cap is then
-          placed on top.
+          Purpose of the root canal treatment is to remove the damaged/inflamed/infected pulp from the tooth and make sure that it is infection-sealed and the tooth is restored to its required function.
         </p>
       </div>
     </div>
