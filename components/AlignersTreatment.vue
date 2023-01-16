@@ -74,7 +74,7 @@
       <div class="row">
         <div class="col-md-6">
           <img
-            src="../assets/img/aligner3.svg"
+            src="../assets/img/aligner-b.svg"
             alt="Before Aligners Treatment"
             class="w-100 h-85"
           />
@@ -82,7 +82,7 @@
         </div>
         <div class="col-md-6">
           <img
-            src="../assets/img/aligner4.svg"
+            src="../assets/img/aligner-a.svg"
             alt="After Aligners Treatment"
             class="w-100 h-85"
           />
