@@ -2,7 +2,8 @@
   <div>
     <div class="">
       <img
-        src="../assets/img/aligner1.svg"
+        src="../assets/img/aligner-11.svg"
+        class="rounded-3"
         alt="Clear Aligners Treatment Near Shahibaug"
         style="width: 100%; height: 100%"
       />
@@ -25,40 +26,60 @@
       </div>
     </div>
     <!-- <DentalServiceTwo class="sev-2 mt-5 pt-4" /> -->
-    <div class="row sev-2 mt-5 pt-5">
-      <div class="col-md-12 col-lg-5">
+    <div class="row sev-2 gy-4 mt-5 pt-5">
+      <div class="col-md-12 col-lg-12">
         <h4 class="service-t fw-semibold">
-          Benefits of Clear Aligners Treatment
+          Key Benefits With Clear Aligner Therapy
         </h4>
         <p>
-          Want to get multiple advantages of Clear Aligners Treatment? Connect
-          with our top dentists in Shahibaug, Ahmedabad.
+          Clear aligners not only offer the end benefits of traditional
+          orthodontic treatment without using wires and braces, such as straight
+          teeth and improved bite function but also offers unique benefits
+          during treatment of its being TOTALLY WIRELESS (in the age of wifi)
         </p>
-        <ul class="row">
-          <li class="col-md-12">
-            Straightening your teeth without any complications
-          </li>
-          <li class="col-md-12">
-            There will be no adverse effects on your gums.
-          </li>
-          <li class="col-md-12">
-            Compared to other service providers' devices, aligning your teeth
-            takes less than half the time.
-          </li>
-          <li class="col-md-12">High-quality clear aligner devices</li>
-          <li class="col-md-12">High-quality clear aligner devices</li>
-          <li class="col-md-12">
-            The procedure is extremely comfortable to use.
-          </li>
-          <li class="col-md-12">It can be easily removed whenever you want</li>
-        </ul>
+        <p>
+          <b>Clear:</b> No brackets and wires. No need to hide your smile. The
+          aligners are so clear that they go unnoticed while you are wearing
+          them as the treatment continues.
+        </p>
+        <p>
+          <b>Comfortable:</b> Clear aligners are comfortable to wear and easy to
+          maintain than braces, and even painless
+        </p>
       </div>
-      <div class="col-md-12 col-lg-7">
+      <div class="col-md-4 col-lg-4">
         <img
-          src="../assets/img/aligner2.svg"
+          src="../assets/img/aligner-benefits1.svg"
           alt="Benefits of Aligners Treatment"
           class="w-100"
         />
+      </div>
+      <div class="col-md-4 col-lg-4">
+        <img
+          src="../assets/img/aligner-benefits2.svg"
+          alt="Benefits of Aligners Treatment"
+          class="w-100"
+        />
+      </div>
+      <div class="col-md-4 col-lg-4">
+        <img
+          src="../assets/img/aligner-benefits3.svg"
+          alt="Benefits of Aligners Treatment"
+          class="w-100"
+        />
+      </div>
+      <div class="col-md-12 col-lg-12">
+        <p>
+          <b>Convenient:</b> With aligners, there is often less time spent at
+          the orthodontist office than with traditional braces
+        </p>
+        <p>
+          <b>Removable:</b> As these are removable, they allow you to eat,
+          drink, brush and floss with complete freedom. At Vardan Dental, we
+          bring you a customized set of aligners consisting of a series of
+          thermoplastic trays that need to be worn for 20 to 22 hours each day
+          for 7 to 10 days each.
+        </p>
       </div>
     </div>
     <!-- <ResultsDental class="sev-2 mt-5 pt-3" /> -->
@@ -74,7 +95,7 @@
       <div class="row">
         <div class="col-md-6">
           <img
-            src="../assets/img/aligner-b.svg"
+            src="../assets/img/aligner-a.svg"
             alt="Before Aligners Treatment"
             class="w-100 h-85"
           />
@@ -82,7 +103,7 @@
         </div>
         <div class="col-md-6">
           <img
-            src="../assets/img/aligner-a.svg"
+            src="../assets/img/aligner-b.svg"
             alt="After Aligners Treatment"
             class="w-100 h-85"
           />

@@ -11,7 +11,7 @@
     <div class="row">
       <div class="col-md-6">
         <img
-          src="../assets/img/before.svg"
+          src="../assets/img/dental-before.svg"
           alt="Before Dental Implant Treatment"
           class="w-100 h-85"
         />
@@ -19,7 +19,7 @@
       </div>
       <div class="col-md-6">
         <img
-          src="../assets/img/after.svg"
+          src="../assets/img/dental-after.svg"
           alt="After Dental Implant Treatment"
           class="w-100 h-85"
         />

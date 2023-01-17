@@ -25,70 +25,12 @@
               <h4 class="py-4 tertiary fw-semibold">Teeth Whitening</h4>
             </div>
             <p class="font-p" style="text-align: justify">
-              Our clinic provides chairside and at-home whitening solutions for
-              individuals interested in attaining a whiter hue for their teeth.
-              At the same time, home bleaching is done by the patient on a tray
-              designed to suit their teeth.
-            </p>
-          </div>
-          <img
-            src="../assets/img/element.svg"
-            class="service-curve-2"
-            alt="Elements"
-          />
-        </div>
-      </div>
-      <div class="col-md-6 col-lg-4">
-        <div class="shadow px-5 py-4 h-100 rounded">
-          <img
-            src="../assets/img/bg-semicircle.svg"
-            alt="Elements"
-            class="service-curve"
-          />
-          <div class="service-curve-1">
-            <div class="text-center">
-              <img
-                src="../assets/img/serv-i2.svg"
-                alt="Smile Designing"
-                style="width: 88px; height: 88px"
-              />
-              <h4 class="py-4 tertiary fw-semibold">Smile Designing</h4>
-            </div>
-            <p class="font-p" style="text-align: justify">
-              In our practice, a full smile makeover primarily concerns your
-              dental health. We adopt a coordinated strategy to ensure that we
-              are creating a solid foundation for your smile. It incorporates a
-              tailored treatment and long-lasting results.
-            </p>
-          </div>
-          <img
-            src="../assets/img/element.svg"
-            class="service-curve-2"
-            alt="Elements"
-          />
-        </div>
-      </div>
-      <div class="col-md-6 col-lg-4">
-        <div class="shadow px-5 py-4 h-100 rounded">
-          <img
-            src="../assets/img/bg-semicircle.svg"
-            alt="Elements"
-            class="service-curve"
-          />
-          <div class="service-curve-1">
-            <div class="text-center">
-              <img
-                src="../assets/img/serv-i6.svg"
-                alt="Clear Aligners"
-                style="width: 88px; height: 88px"
-              />
-              <h4 class="py-4 tertiary fw-semibold">Clear Aligners</h4>
-            </div>
-            <p class="font-p" style="text-align: justify">
-              Similar to braces, Clear Aligners are translucent trays composed
-              of a specific material used to align teeth. They gently and
-              consistently provide force to shift the teeth into the desired
-              position without the inconvenience of metal wires and brackets.
+              It is a process of removing stains from the tooth surface and
+              restoring the natural color of the teeth. Whitening is a one-time
+              procedure performed by a dentist. It is amongst the most common
+              and widely adopted procedure. With the advent of the latest Dental
+              technology, we have advanced whitening treatment procedures which
+              give reliable and long-lasting results.
             </p>
           </div>
           <img
@@ -139,6 +81,66 @@
           <div class="service-curve-1">
             <div class="text-center">
               <img
+                src="../assets/img/serv-i2.svg"
+                alt="Smile Designing"
+                style="width: 88px; height: 88px"
+              />
+              <h4 class="py-4 tertiary fw-semibold">Smile Designing</h4>
+            </div>
+            <p class="font-p" style="text-align: justify">
+              In our practice, a full smile makeover primarily concerns your
+              dental health. We adopt a coordinated strategy to ensure that we
+              are creating a solid foundation for your smile. It incorporates a
+              tailored treatment and long-lasting results.
+            </p>
+          </div>
+          <img
+            src="../assets/img/element.svg"
+            class="service-curve-2"
+            alt="Elements"
+          />
+        </div>
+      </div>
+      <div class="col-md-6 col-lg-4">
+        <div class="shadow px-5 py-4 h-100 rounded">
+          <img
+            src="../assets/img/bg-semicircle.svg"
+            alt="Elements"
+            class="service-curve"
+          />
+          <div class="service-curve-1">
+            <div class="text-center">
+              <img
+                src="../assets/img/home-clear.svg"
+                alt="Clear Aligners"
+                style="width: 88px; height: 88px"
+              />
+              <h4 class="py-4 tertiary fw-semibold">Clear Aligners</h4>
+            </div>
+            <p class="font-p" style="text-align: justify">
+              Similar to braces, Clear Aligners are translucent trays composed
+              of a specific material used to align teeth. They gently and
+              consistently provide force to shift the teeth into the desired
+              position without the inconvenience of metal wires and brackets.
+            </p>
+          </div>
+          <img
+            src="../assets/img/element.svg"
+            class="service-curve-2"
+            alt="Elements"
+          />
+        </div>
+      </div>
+      <div class="col-md-6 col-lg-4">
+        <div class="shadow px-5 py-4 h-100 rounded">
+          <img
+            src="../assets/img/bg-semicircle.svg"
+            alt="Elements"
+            class="service-curve"
+          />
+          <div class="service-curve-1">
+            <div class="text-center">
+              <img
                 src="../assets/img/serv-i4.svg"
                 alt="Dental Implant"
                 style="width: 88px; height: 88px"
@@ -168,7 +170,7 @@
           <div class="service-curve-1">
             <div class="text-center">
               <img
-                src="../assets/img/serv-i5.svg"
+                src="../assets/img/home-root.svg"
                 alt="Root Canal"
                 style="width: 88px; height: 88px"
               />
