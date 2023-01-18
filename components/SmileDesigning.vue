@@ -64,7 +64,7 @@
       <div class="row">
         <div class="col-md-6">
           <img
-            src="../assets/img/smile3.svg"
+            src="../assets/img/smile3-svg.webp"
             alt="Before Smile Designing Treatment"
             class="w-100 h-85"
           />
@@ -72,7 +72,7 @@
         </div>
         <div class="col-md-6">
           <img
-            src="../assets/img/smile4.svg"
+            src="../assets/img/smile4-svg.webp"
             alt="After Smile Designing Treatment"
             class="w-100 h-85"
           />

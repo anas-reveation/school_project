@@ -74,7 +74,7 @@
         </div>
         <div class="col-md-6">
           <img
-            src="../assets/img/wisdom4.svg"
+            src="../assets/img/wisdom4-svg.webp"
             alt="After Wisdom Tooth Removal Treatment"
             class="w-100 h-85"
           />

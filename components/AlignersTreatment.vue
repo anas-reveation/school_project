@@ -49,21 +49,21 @@
       </div>
       <div class="col-md-4 col-lg-4">
         <img
-          src="../assets/img/aligner-benefits1.svg"
+          src="../assets/img/aligner-benefits1-svg.webp"
           alt="Benefits of Aligners Treatment"
           class="w-100"
         />
       </div>
       <div class="col-md-4 col-lg-4">
         <img
-          src="../assets/img/aligner-benefits2.svg"
+          src="../assets/img/aligner-benefits2-svg.webp"
           alt="Benefits of Aligners Treatment"
           class="w-100"
         />
       </div>
       <div class="col-md-4 col-lg-4">
         <img
-          src="../assets/img/aligner-benefits3.svg"
+          src="../assets/img/aligner-benefits3-svg.webp"
           alt="Benefits of Aligners Treatment"
           class="w-100"
         />
@@ -96,7 +96,7 @@
       <div class="row">
         <div class="col-md-6">
           <img
-            src="../assets/img/aligner-a.svg"
+            src="../assets/img/aligner-a-svg.webp"
             alt="Before Aligners Treatment"
             class="w-100 h-85"
           />
@@ -104,7 +104,7 @@
         </div>
         <div class="col-md-6">
           <img
-            src="../assets/img/aligner-b.svg"
+            src="../assets/img/aligner-b-svg.webp"
             alt="After Aligners Treatment"
             class="w-100 h-85"
           />

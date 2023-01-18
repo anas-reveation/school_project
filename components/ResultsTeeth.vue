@@ -11,7 +11,7 @@
     <div class="row">
       <div class="col-md-6">
         <img
-          src="../assets/img/white3.svg"
+          src="../assets/img/white3-svg.webp"
           alt="Before Teeth Whitening Treatment"
           class="w-100 h-85"
         />

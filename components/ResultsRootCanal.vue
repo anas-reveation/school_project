@@ -11,7 +11,7 @@
     <div class="row">
       <div class="col-md-6">
         <img
-          src="../assets/img/teeth3.svg"
+          src="../assets/img/teeth3-svg.webp"
           alt="Before Root Canal Treatment"
           class="w-100 h-85"
         />
@@ -19,7 +19,7 @@
       </div>
       <div class="col-md-6">
         <img
-          src="../assets/img/t-w-1.svg"
+          src="../assets/img/t-w-1-svg.webp"
           alt="After Root Canal Treatment"
           class="w-100 h-85"
         />
