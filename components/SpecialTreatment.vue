@@ -108,9 +108,10 @@
               Full mouth rehabilitation
             </h3>
             <p>
-              Full mouth reconstructions enhance the mouth's health, function,
-              and appearance by combining aesthetics with restorative dentistry
-              science.
+              Full Mouth Rehabilitation is a type of anti-ageing treatment that
+              we offer in Shahibaug Ahmedabad, in which a person's teeth and
+              smile are rejuvenated. Many people lose their teeth as they get
+              older, or their teeth become atrophied, damaged, or broken.
             </p>
           </div>
         </div>

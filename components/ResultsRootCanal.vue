@@ -19,7 +19,7 @@
       </div>
       <div class="col-md-6">
         <img
-          src="../assets/img/teeth4.svg"
+          src="../assets/img/t-w-1.svg"
           alt="After Root Canal Treatment"
           class="w-100 h-85"
         />

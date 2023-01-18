@@ -7,18 +7,25 @@
         style="width: 100%; height: 100%"
       />
       <div class="mt-4">
-        <h4 class="service-t fw-semibold">
-          When a person needs RCT?
-        </h4>
+        <h4 class="service-t fw-semibold">Painless Root Canal Treatment</h4>
         <p>
-          Root Canal Treatment (RCT) of a tooth is needed when the blood or nerve supply of the tooth (pulp) is irreversibly inflamed or infected because of decay (cavity), cracks, root infection, gums infection, traumatic occlusion or due to many other reasons.
+          Root canal treatment at Vardan dental clinic has been proven to save a
+          failing tooth for a long time. When a person tries to search for a
+          dentist near me, the Vardan dental clinic at Shahibaug comes into the
+          picture.
         </p>
         <p>
-          Purpose of the root canal treatment is to remove the damaged/inflamed/infected pulp from the tooth and make sure that it is infection-sealed and the tooth is restored to its required function.
+          We offer painless Root Canal Treatment in Ahmedabad by utilising
+          cutting-edge technology such as the NSK (UK) Endomotor, ENDOMATE DT (a
+          ROBOTIC instrument for Root Canal Treatment), and DENTSPLY PROTAPER
+          ROTARY Flexi, among others. You can count on our root canal specialist
+          dentist in Ahmedabad to make your experience as painless and pleasant
+          as possible. Most of our procedures are single-sitting root canal
+          treatments at our Shahibaug dental clinic.
         </p>
       </div>
     </div>
-    <RootCanalService class="sev-2 mt-5 pt-5" />
+    <RootCanalService class="sev-2 mt-1 pt-5" />
     <ResultsRootCanal class="sev-2 mt-5 pt-3" />
   </div>
 </template>

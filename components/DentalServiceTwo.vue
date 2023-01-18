@@ -77,7 +77,7 @@ A permanent and effective solution like dental implantology functions as natural
     </div>
     <div class="col-md-12 col-lg-12">
       <img
-        src="../assets/img/procedure.webp"
+        src="../assets/img/d-pro.webp"
         alt="Benifits of Dental Implant"
         class="w-100"
       />

@@ -8,44 +8,44 @@
         style="width: 100%; height: 100%"
       />
       <div class="mt-4">
-        <h4 class="service-t fw-semibold">
-          Get the Best Clear Aligners Treatment in Shahibaug
-        </h4>
+        <h4 class="service-t fw-semibold">What exactly are Clear Aligners?</h4>
         <p>
-          Vardan Dental Care is the name to remember when you need Clear
-          Aligners. We are the market's highest-rated service provider, with
-          years of experience fitting high-end clear aligners for various
-          people. After consulting with us, several customers improved their
-          teeth alignment and transformed their smiles.
+          Clear Aligner therapy is an orthodontic treatment that uses a series
+          of clear removable thermoplastic trays to gradually move your teeth to
+          improve bite function and aesthetic appearance without using wires or
+          braces.
         </p>
         <p>
-          Vardan dentists have many years of experience fitting people's aligner
-          braces. We value the appearance of your smile and the oral health and
-          aesthetic standard of your teeth.
+          Vardan Dental Clinic and our team are pleased to provide a guarantee
+          on Clear Aligner treatment in Ahmedabad. We offer the best dental
+          Clear Aligners in Ahmedabad (Invisalign treatment in Ahmedabad). It is
+          the most recent dental appliance used to straighten teeth.
         </p>
       </div>
     </div>
     <!-- <DentalServiceTwo class="sev-2 mt-5 pt-4" /> -->
-    <div class="row sev-2 gy-4 mt-5 pt-5">
+    <div class="row sev-2 gy-4 mt-1 pt-5">
       <div class="col-md-12 col-lg-12">
         <h4 class="service-t fw-semibold">
-          Key Benefits With Clear Aligner Therapy
+          The Most Important Advantages of Clear Aligner Treatment
         </h4>
         <p>
-          Clear aligners not only offer the end benefits of traditional
-          orthodontic treatment without using wires and braces, such as straight
-          teeth and improved bite function but also offers unique benefits
-          during treatment of its being TOTALLY WIRELESS (in the age of wifi)
+          Clear aligners not only provide the results of traditional orthodontic
+          treatment without the use of wires and braces, such as straight teeth
+          and improved bite function, but they also provide the unique benefit
+          of being WIRELESS during treatment (in the age of wifi)
         </p>
-        <p>
-          <b>Clear:</b> No brackets and wires. No need to hide your smile. The
-          aligners are so clear that they go unnoticed while you are wearing
-          them as the treatment continues.
-        </p>
-        <p>
-          <b>Comfortable:</b> Clear aligners are comfortable to wear and easy to
-          maintain than braces, and even painless
-        </p>
+        <ul class="row">
+          <li class="col-md-12">
+            There are no brackets or wires. There's no need to hide your smile.
+            The aligners are so clear that they go unnoticed while you wear them
+            throughout the treatment.
+          </li>
+          <li class="col-md-12">
+            Clear aligners are more comfortable to wear and maintain than braces
+            and are even painless.
+          </li>
+        </ul>
       </div>
       <div class="col-md-4 col-lg-4">
         <img
@@ -69,17 +69,18 @@
         />
       </div>
       <div class="col-md-12 col-lg-12">
-        <p>
-          <b>Convenient:</b> With aligners, there is often less time spent at
-          the orthodontist office than with traditional braces
-        </p>
-        <p>
-          <b>Removable:</b> As these are removable, they allow you to eat,
-          drink, brush and floss with complete freedom. At Vardan Dental, we
-          bring you a customized set of aligners consisting of a series of
-          thermoplastic trays that need to be worn for 20 to 22 hours each day
-          for 7 to 10 days each.
-        </p>
+        <ul class="row">
+          <li class="col-md-12">
+            Aligners require less time at the orthodontist's office than
+            traditional braces.
+          </li>
+          <li class="col-md-12">
+            Because these are removable, you can freely eat, drink, brush, and
+            floss. At Vardan Dental Clinic, we offer a personalised set of
+            aligners comprised of a series of thermoplastic trays that must be
+            worn for 20 to 22 hours per day for 7 to 10 days.
+          </li>
+        </ul>
       </div>
     </div>
     <!-- <ResultsDental class="sev-2 mt-5 pt-3" /> -->
