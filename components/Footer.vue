@@ -15,28 +15,35 @@
                     />
                   </a>
 
-                  <a
-                    href="https://www.google.com/maps/place/Shubh+Complex,+Shahibaug/@23.0533544,72.5898767,16z/data=!4m10!1m2!2m1!1sT-8,9+Third+floor,shubh+complex,+near+rajasthan+hospital,+Shahibaug+Ahmedabad+%E2%80%93380004!3m6!1s0x395e84127728ea01:0xd4220cf6c213f594!8m2!3d23.053316!4d72.5958191!15sCldULTgsOSBUaGlyZCBmbG9vcixzaHViaCBjb21wbGV4LCBuZWFyIHJhamFzdGhhbiBob3NwaXRhbCwgU2hhaGliYXVnIEFobWVkYWJhZCDigJMzODAwMDRaVCJSdCA4IDkgdGhpcmQgZmxvb3Igc2h1YmggY29tcGxleCBuZWFyIHJhamFzdGhhbiBob3NwaXRhbCBzaGFoaWJhdWcgYWhtZWRhYmFkIDM4MDAwNJIBD3Nob3BwaW5nX2NlbnRlcpoBJENoZERTVWhOTUc5blMwVkpRMEZuU1VNdE0yRkVlamQzUlJBQuABAA!16s%2Fg%2F1hm59kgq3"
-                    target="_blank"
-                    rel="noopener"
-                    class="anc"
-                  >
-                    <h6 class="text-white pt-3" style="line-height: 25px">
-                      T-8,9 Third floor, Shubh Complex, Near Rajasthan Hospital,
-                      Shahibaug, Ahmedabad – 380004, Gujarat, India
-                    </h6>
-                  </a>
-                  <a
-                    href="https://www.google.com/maps/place/Shubh+Complex,+Shahibaug/@23.0533544,72.5898767,16z/data=!4m10!1m2!2m1!1sT-8,9+Third+floor,shubh+complex,+near+rajasthan+hospital,+Shahibaug+Ahmedabad+%E2%80%93380004!3m6!1s0x395e84127728ea01:0xd4220cf6c213f594!8m2!3d23.053316!4d72.5958191!15sCldULTgsOSBUaGlyZCBmbG9vcixzaHViaCBjb21wbGV4LCBuZWFyIHJhamFzdGhhbiBob3NwaXRhbCwgU2hhaGliYXVnIEFobWVkYWJhZCDigJMzODAwMDRaVCJSdCA4IDkgdGhpcmQgZmxvb3Igc2h1YmggY29tcGxleCBuZWFyIHJhamFzdGhhbiBob3NwaXRhbCBzaGFoaWJhdWcgYWhtZWRhYmFkIDM4MDAwNJIBD3Nob3BwaW5nX2NlbnRlcpoBJENoZERTVWhOTUc5blMwVkpRMEZuU1VNdE0yRkVlamQzUlJBQuABAA!16s%2Fg%2F1hm59kgq3"
-                    target="_blank"
-                    rel="noopener"
-                    class="anc"
-                  >
-                    <h6 class="text-white pt-3" style="line-height: 25px">
-                      C-205, The Landmark, Kudasan, Gandhinagar -382421,
-                      Gujarat, India
-                    </h6>
-                  </a>
+                  <ul style="list-style-type: disc; padding-left: 1rem">
+                    <li class="text-white">
+                      <a
+                        href="https://goo.gl/maps/pwDu5MYkjQFPMGvM8"
+                        target="_blank"
+                        rel="noopener"
+                        class="anc"
+                      >
+                        <h6 class="text-white pt-3" style="line-height: 25px">
+                          T-8,9 Third floor, Shubh Complex, Near Rajasthan
+                          Hospital, Shahibaug, Ahmedabad – 380004, Gujarat,
+                          India
+                        </h6>
+                      </a>
+                    </li>
+                    <li class="text-white">
+                      <a
+                        href="https://goo.gl/maps/htnZF6kthWtWq35S9"
+                        target="_blank"
+                        rel="noopener"
+                        class="anc"
+                      >
+                        <h6 class="text-white pt-3" style="line-height: 25px">
+                          C-205, The Landmark, Kudasan, Gandhinagar -382421,
+                          Gujarat, India
+                        </h6>
+                      </a>
+                    </li>
+                  </ul>
                 </div>
               </div>
               <div class="col-xl-12 col-md-6 col-12 text-white mt-5 add-f">
