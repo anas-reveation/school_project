@@ -36,7 +36,7 @@
                       alt="Arrow Redirect"
                     />
                     <img
-                      src="../assets/img/green.svg"
+                      src="../assets/img/Green.svg"
                       class="link2"
                       alt="Arrow Redirect"
                     />
