@@ -262,7 +262,7 @@
             </div>
             <div class="col-2">
               <a
-                href="https://www.facebook.com/profile.php?id=100088409476132"
+                href="https://www.facebook.com/vardandentalclinicandimplantcenter"
                 target="_blank"
                 rel="noopener"
               >
