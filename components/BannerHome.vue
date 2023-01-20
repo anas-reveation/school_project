@@ -31,12 +31,12 @@
                   style="border-radius: 34px; padding: 4px 30px 5px 5px"
                   ><span class="span1 p-1"
                     ><img
-                      src="../assets/img/white.svg"
+                      src="../assets/img/contact11.svg"
                       class="link"
                       alt="Arrow Redirect"
                     />
                     <img
-                      src="../assets/img/green.svg"
+                      src="../assets/img/contact12.svg"
                       class="link2"
                       alt="Arrow Redirect"
                     />
