@@ -16,9 +16,9 @@
             <p class="fw-semibold">(BDS)</p>
           </div>
           <p>
-            He is a renowned implantologist. Our patients love him for his
-            excellent handling of implant cases. He is the founder of Vardan
-            Dental Clinic.
+            Dr. Ketul Patel completed his BDS in the year 1999. He is a renowned
+            implantologist. Our patients love him for his excellent handling of
+            implant cases. He is the founder of Vardan Dental Clinic.
           </p>
         </div>
       </div>
@@ -37,9 +37,9 @@
             <p class="fw-semibold">(BDS)</p>
           </div>
           <p>
-            He has completed his BDS and is the founder of Vardan Dental Clinic.
-            He has excellent experience in holistic dental care for patients of
-            all age groups.
+            He completed his BDS in 2009 and is the founder of Vardan Dental
+            Clinic. He has excellent experience in holistic dental care for
+            patients of all age groups.
           </p>
         </div>
       </div>
@@ -58,9 +58,9 @@
             <p class="fw-semibold">(BDS)</p>
           </div>
           <p>
-            She has completed her BDS and is the founder of Vardan Dental
-            Clinic. She is soft-spoken, pleasant, and a perfectionist, and she
-            believes in giving quality dental care to every patient visiting us.
+            She completed her BDS in 2001 and is the founder of Vardan Dental
+            Clinic. She is soft-spoken and a perfectionist, and she believes in
+            giving quality dental care to every patient visiting us.
           </p>
         </div>
       </div>

@@ -85,13 +85,13 @@
     </div>
     <!-- <ResultsDental class="sev-2 mt-5 pt-3" /> -->
     <div class="sev-2 mt-5 pt-3">
-      <div class="text-center mb-4">
-        <h2 class="fw-bold secondary mb-3">
-          Before & <span class="primary">After Results</span>
+      <div
+        class="mb-4 col-12 d-flex align-items-center flex-rwo justify-content-center"
+      >
+        <h2 class="fw-bold secondary mb-3 col-xl-8 col-md-12 text-center">
+          Get the best results in the
+          <span class="primary">Aligners Treatment</span>
         </h2>
-        <h4 class="service-t fw-semibold">
-          Get the best results in the Aligners Treatment
-        </h4>
       </div>
       <div class="row">
         <div class="col-md-6">
@@ -100,7 +100,6 @@
             alt="Before Aligners Treatment"
             class="w-100 h-85"
           />
-          <p class="text-center fw-semibold mt-2">Before</p>
         </div>
         <div class="col-md-6">
           <img
@@ -108,7 +107,6 @@
             alt="After Aligners Treatment"
             class="w-100 h-85"
           />
-          <p class="text-center fw-semibold mt-2">After</p>
         </div>
       </div>
       <p>

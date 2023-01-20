@@ -63,7 +63,7 @@
                 </div>
                 <div class="col-md-2 text-lg-end text-xl-start">
                   <a
-                    href="https://www.facebook.com/profile.php?id=100088409476132"
+                    href="https://www.facebook.com/vardandentalclinicandimplantcenter"
                     target="_blank"
                     rel="noopener"
                   >
