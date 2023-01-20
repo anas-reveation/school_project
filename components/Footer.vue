@@ -14,29 +14,35 @@
                       alt="Footer Logo"
                     />
                   </a>
-
-                  <a
-                    href="https://goo.gl/maps/pwDu5MYkjQFPMGvM8"
-                    target="_blank"
-                    rel="noopener"
-                    class="anc"
-                  >
-                    <h6 class="text-white pt-3" style="line-height: 25px">
-                      T-8,9 Third floor, Shubh Complex, Near Rajasthan Hospital,
-                      Shahibaug, Ahmedabad – 380004, Gujarat, India
-                    </h6>
-                  </a>
-                  <a
-                    href="https://goo.gl/maps/htnZF6kthWtWq35S9"
-                    target="_blank"
-                    rel="noopener"
-                    class="anc"
-                  >
-                    <h6 class="text-white pt-3" style="line-height: 25px">
-                      C-205, The Landmark, Kudasan, Gandhinagar -382421,
-                      Gujarat, India
-                    </h6>
-                  </a>
+                  <ul style="list-style-type: disc; padding-left: 1rem">
+                    <li class="text-white">
+                      <a
+                        href="https://goo.gl/maps/pwDu5MYkjQFPMGvM8"
+                        target="_blank"
+                        rel="noopener"
+                        class="anc"
+                      >
+                        <h6 class="text-white pt-3" style="line-height: 25px">
+                          T-8,9 Third floor, Shubh Complex, Near Rajasthan
+                          Hospital, Shahibaug, Ahmedabad – 380004, Gujarat,
+                          India
+                        </h6>
+                      </a>
+                    </li>
+                    <li class="text-white">
+                      <a
+                        href="https://goo.gl/maps/htnZF6kthWtWq35S9"
+                        target="_blank"
+                        rel="noopener"
+                        class="anc"
+                      >
+                        <h6 class="text-white pt-3" style="line-height: 25px">
+                          C-205, The Landmark, Kudasan, Gandhinagar -382421,
+                          Gujarat, India
+                        </h6>
+                      </a>
+                    </li>
+                  </ul>
                 </div>
               </div>
               <div class="col-xl-12 col-md-6 col-12 text-white mt-5 add-f">
