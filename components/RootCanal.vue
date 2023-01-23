@@ -2,7 +2,8 @@
   <div>
     <div class="">
       <img
-        src="../assets/img/Root1.svg"
+        src="../assets/img/root1-1.webp"
+        class="rounded-3"
         alt="Best Root Canal Treatment In Shahibaug"
         style="width: 100%; height: 100%"
       />

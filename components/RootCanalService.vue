@@ -47,7 +47,7 @@
     </div>
     <div class="col-md-12 col-lg-12">
       <img
-        src="../assets/img/Root2.svg"
+        src="../assets/img/Root3.webp"
         alt="Benefits of Root Canal"
         class="w-100"
       />
