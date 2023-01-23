@@ -194,6 +194,15 @@
                         Shahibaug</nuxt-link
                       >
                     </li>
+                    <!-- <li
+                      class="pb-1 col-6 col-lg-12 col-md-12"
+                      @click="myFunction3(9)"
+                    >
+                      <nuxt-link to="/services/#j">
+                        Best Cardiac Diabetic Dental service in
+                        Shahibaug</nuxt-link
+                      >
+                    </li> -->
                   </ul>
                 </div>
               </div>
@@ -323,6 +332,7 @@
         <a
           class="text-decoration-underline ps-1"
           href="https://www.reveation.io/"
+          target="_blank"
         >
           Reveation Labs</a
         ></span
