@@ -194,7 +194,7 @@
                         Shahibaug</nuxt-link
                       >
                     </li>
-                    <!-- <li
+                    <li
                       class="pb-1 col-6 col-lg-12 col-md-12"
                       @click="myFunction3(9)"
                     >
@@ -202,7 +202,7 @@
                         Best Cardiac Diabetic Dental service in
                         Shahibaug</nuxt-link
                       >
-                    </li> -->
+                    </li>
                   </ul>
                 </div>
               </div>

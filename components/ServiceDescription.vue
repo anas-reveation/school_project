@@ -272,7 +272,7 @@
             <Periodontal />
           </div>
           <div
-            class="tab-pane fade"
+            class="tab-pane fade tba"
             id="pills-child"
             role="tabpanel"
             aria-labelledby="pills-child-tab"
