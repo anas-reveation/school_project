@@ -25,7 +25,7 @@
               </p>
               <div class="mt-5 pt-3">
                 <a
-                  href="tel: +91-9824038971"
+                  href="tel: +91-9898025261"
                   rel="noopener"
                   class="bg-primary-color d-flex w-38 align-items-center text-decoration-none light-anc hover-speciality"
                   style="border-radius: 34px; padding: 4px 30px 5px 5px"
