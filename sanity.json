@@ -1,10 +1,10 @@
 {
     "root": true,
     "project": {
-      "name": "sanity Project"
+      "name": "school_data"
     },
     "api": {
-      "projectId": "b23zpup9",
+      "projectId": "befamf7v",
       "dataset": "production"
     },
     "plugins": [

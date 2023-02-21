@@ -86,6 +86,7 @@
     <OurDoctors class="mtsm" />
     <Blogs class="mtsm mbsm" />
     <Contact class="mtsm" style="margin-bottom: 4rem !important" />
+    <ContactForm />
   </div>
 </template>
 
