@@ -10,7 +10,7 @@
           />
         </div>
         <div class="col-md-7">
-          <h2>{{ standard }} SCHOOL</h2>
+          <h2>{{ standard }} SCHOOLing</h2>
           <h5>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia
             debitis aliquid expedita, iste maxime voluptates, dignissimos porro
