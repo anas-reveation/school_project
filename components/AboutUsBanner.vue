@@ -4,13 +4,13 @@
       <div class="container">
         <div class="row">
           <div
-            class="col-md-12 d-flex justify-content-center flex-column align-items-center"
+            class="col-md-6 align-items-center text-center"
             data-aos="zoom-in"
             data-aos-duration="400"
           >
             <h1 class="text-white">About us</h1>
             <h1 class="primary bann-h1 fw-bold text-center">
-              Best Dental Clinic in Ahmedabad
+              Best School in Ahmedabad
             </h1>
           </div>
         </div>

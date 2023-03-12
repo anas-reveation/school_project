@@ -1,10 +1,15 @@
 <template>
   <div>
     <AboutUsBanner />
-    <BestDentalCare />
-    <ChooseUsAbout />
-    <Healthy class="healthy-md" />
-    <MiddleBanner />
+    <AboutUsBannerBottom />
+    <AboutUsleft standard="PRIMARY" />
+    <AboutUsRight />
+    <AboutUsleft standard="TERTIARY" />
+    <!-- <BestDentalCare /> -->
+    <!-- <ChooseUsAbout /> -->
+    <!-- <Healthy class="healthy-md" /> -->
+    <!-- <MiddleBanner /> -->
+    <FeatureHome />
   </div>
 </template>
 

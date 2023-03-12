@@ -19,6 +19,14 @@
     <OurDentist />
     <VisitingDoctor />
     <Contact style="margin-bottom: 4rem !important" />
+    <div class="container">
+      <div class="row justify-content-between">
+        <ProfileCard />
+        <ProfileCard />
+        <ProfileCard />
+        <ProfileCard />
+      </div>
+    </div>
   </div>
 </template>
 <script>

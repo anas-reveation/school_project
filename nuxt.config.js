@@ -35,7 +35,11 @@ export default {
   components: true,
 
   // Modules for dev and build (recommended): https://go.nuxtjs.dev/config-modules
-  buildModules: ["@nuxtjs/sanity/module", "@nuxtjs/eslint-module"],
+  buildModules: [
+    "@nuxtjs/sanity/module",
+    "@nuxtjs/eslint-module",
+    "@nuxtjs/fontawesome",
+  ],
 
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
@@ -60,6 +64,15 @@ export default {
     gzip: true,
     exclude: [],
     routes: [],
+  },
+
+  fontawesome: {
+    icons: {
+      solid: true,
+      brands: true,
+      faSolid: true,
+      faUserGradute: true,
+    },
   },
 
   // Axios module configuration: https://go.nuxtjs.dev/config-axios

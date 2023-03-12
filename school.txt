@@ -1,0 +1,16 @@
+<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/embed/v2.js"></script>
+<script>
+  hbspt.forms.create({
+    region: "na1",
+    portalId: "24134669",
+    formId: "21d7b67f-269d-4868-8cf7-a6c87924b6b2"
+  });
+</script>
+
+
+
+
+problem faced 
+
+1 fav icon not work propely 
+2 drop down in hubspot 
