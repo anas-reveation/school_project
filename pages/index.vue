@@ -88,7 +88,7 @@
     <Contact class="mtsm" style="margin-bottom: 4rem !important" />
     <ContactForm />
     <ApplicationForm />
-    <template>
+    <!-- <template>
       <div class="container mb-5 psm-4">
         <div class="row gy-4" data-aos="zoom-in" data-aos-duration="400">
           <div
@@ -170,7 +170,7 @@
           </div>
         </div>
       </div>
-    </template>
+    </template> -->
   </div>
 </template>
 

@@ -1,12 +1,12 @@
 :root{
-    --primary: #35BACD;
-    --secondary: #454545;
-    --tertiary: #2999AB;
+    --primary: #033955;
+    --secondary: #1170a2d9;
+    --tertiary: #a07f24;
     --font-small: #5F7483;
     --light: #ffff;
     --bg-element: #EBFCFF;
     --footer-text: #C3C3C3;
-    --bg-foter: #04343C;
+    --bg-foter: #033955;
     --service-title: #0C5F6C;
     --dashed-img: #31B2C7;
     --bg-blogs: #faf9ff;
@@ -19,7 +19,10 @@
     font-family: 'Poppins', sans-serif;
 }
 *{
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Libre Baskerville', serif;
+}
+p{
+    font-family: 'Roboto';
 }
 .primary{
     color: var(--primary);
@@ -57,6 +60,9 @@
     color: var(--secondary);
    
 }
+.bg-secondary-color{
+    background-color: var(--secondary);
+}
 @font-face {
     font-display: swap;
     font-family: "Montserrat";
@@ -78,6 +84,9 @@
 }
 .tertiary{
     color: var(--tertiary);
+}
+.bg-tertiary-color{
+    background-color: var(--tertiary);
 }
 .font-sm{
     color: var(--font-small);
@@ -282,7 +291,7 @@
     text-decoration: none;
 }
 .bg-service{
-    background-image: linear-gradient(69deg, rgba(16, 97, 111, 0.85) 47%, rgba(110, 35, 9, -0.15) 41%), url(/_nuxt/assets/img/aboutbanner.jpg);
+    background-image: linear-gradient(69deg, rgb(3 47 78) 47%, rgba(110, 35, 9, 0) 41%), url(../img/ab-banner.jpeg);
     background-size: cover;
     background-position: center;
     padding: 200px 0px 200px 0px;
@@ -791,7 +800,7 @@
 }
 @media (min-width: 1200px){
     h2{
-        font-size: 2.8125rem;
+        font-size: 2rem;
     }
 }
 @media (min-width: 310px) and (max-width: 320px){

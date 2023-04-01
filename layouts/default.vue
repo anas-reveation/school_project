@@ -9,7 +9,6 @@
 <script>
 import AOS from "aos";
 import "aos/dist/aos.css";
-import HeaderTop from "~/components/HeaderTop.vue";
 
 export default {
   head() {
@@ -32,7 +31,7 @@ export default {
           crossorigin: "anonymous",
         },
         {
-          href: "https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap",
+          href: "https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@400;700&display=swap",
           rel: "stylesheet",
         },
         {
@@ -58,7 +57,7 @@ export default {
   mounted() {
     AOS.init({});
   },
-  components: { HeaderTop },
+  components: {},
   data() {
     return {
       structuredData: {

@@ -4,12 +4,14 @@
     <AboutUsBannerBottom />
     <AboutUsleft standard="PRIMARY" />
     <AboutUsRight />
-    <AboutUsleft standard="TERTIARY" />
+    <AboutUsleft
+      standard="TERTIARY"
+      style="background-color: var(--secondary)"
+    />
     <!-- <BestDentalCare /> -->
     <!-- <ChooseUsAbout /> -->
     <!-- <Healthy class="healthy-md" /> -->
     <!-- <MiddleBanner /> -->
-    <FeatureHome />
   </div>
 </template>
 
