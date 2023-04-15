@@ -4,7 +4,7 @@
       <div class="row">
         <div
           class="col-lg-12 col-xl-5 col-12 py-3"
-          style="background-color: #04343b"
+          style="background-color: var(--primary)"
         >
           <div class="row justify-content-end">
             <div
@@ -26,7 +26,7 @@
         </div>
         <div
           class="col-lg-12 col-xl-7 col-12 py-3"
-          style="background-color: var(--dashed-img)"
+          style="background-color: var(--secondary)"
         >
           <div class="row justify-content-center">
             <div class="col-md-12">

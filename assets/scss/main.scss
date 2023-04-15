@@ -4,6 +4,7 @@
     --tertiary: #a07f24;
     --font-small: #5F7483;
     --light: #ffff;
+    --bg-grey: #f1eeee;
     --bg-element: #EBFCFF;
     --footer-text: #C3C3C3;
     --bg-foter: #033955;
@@ -26,6 +27,12 @@ p{
 }
 .primary{
     color: var(--primary);
+}
+.primary-bg{
+    background-color: var(--primary);
+}
+.tertiary-bg{
+    background-color: var(--tertiary);
 }
 .service-t{
     color: var(--service-title);
@@ -170,7 +177,8 @@ p{
     font-weight: 700;
 }
 .bg-banner{
-    background: linear-gradient(257.87deg, rgba(16, 35, 47, 0.4845) 26.36%,rgba(3, 25, 29, 0.820403) 55.04%, rgba(1, 24, 28, 0.85) 90.91%), url(../img/homebanner.svg);
+    background:  linear-gradient(257.87deg, rgb(16 35 47 / 17%) 26.36%, rgb(3 25 29 / 24%) 55.04%, rgb(1 24 28 / 16%) 90.91%), url(../img/school-bann.png);
+
     background-size: cover;
     background-position: center;
     height: 600px;

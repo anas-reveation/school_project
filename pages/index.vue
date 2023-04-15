@@ -1,11 +1,8 @@
 <template>
   <div>
     <BannerHome />
-    <FeatureHome />
-    <HomeAbout class="psm-4 mtsm" />
-    <Services class="psm-4 mtsm" />
-    <ChooseUs id="home-section" class="" />
-    <MiddleBanner class="mtsm" />
+    <News />
+    <LatestNews class="my-5" />
 
     <div class="container psm-4">
       <div class="row gy-4 overflow-hidden align-items-center">
@@ -82,10 +79,7 @@
         </div>
       </div>
     </div>
-    <Profession class="mbsm" />
-    <OurDoctors class="mtsm" />
-    <Blogs class="mtsm mbsm" />
-    <Contact class="mtsm" style="margin-bottom: 4rem !important" />
+
     <ContactForm />
     <ApplicationForm />
     <!-- <template>
@@ -177,12 +171,10 @@
 <script>
 import { groq } from "@nuxtjs/sanity";
 import BannerHome from "~/components/BannerHome.vue";
-import Blogs from "~/components/Blogs.vue";
-import ChooseUs from "~/components/ChooseUs.vue";
 
 export default {
   name: "IndexPage",
-  components: { BannerHome, ChooseUs, Blogs },
+  components: { BannerHome },
   props: {
     review: {
       type: Object,

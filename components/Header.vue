@@ -1,11 +1,14 @@
 <template>
   <div>
-    <nav class="navbar navbar-expand-lg navbar-light py-3">
+    <nav
+      class="navbar navbar-expand-lg navbar-light py-3"
+      style="background-color: var(--bg-grey)"
+    >
       <div class="container">
         <a href="/"
           ><img
-            src="../assets/img/Vardan-logo.svg"
-            style="width: 203px; height: 48px"
+            src="../assets/img/school.png"
+            style="width: 128px"
             alt="Vardan Logo"
         /></a>
         <button
@@ -43,33 +46,7 @@
                 >Services</nuxt-link
               >
             </li> -->
-            <li class="nav-item dropdown pe-3" @click="myFunction2()">
-              <a
-                class="nav-link dropdown-toggle text-dark"
-                id="navbarDropdown"
-                role="button"
-                data-bs-toggle="dropdown"
-                aria-expanded="false"
-              >
-                Services
-              </a>
-              <ul
-                class="dropdown-menu"
-                aria-labelledby="navbarDropdown"
-                id="dropdown-2"
-              >
-                <li @click="myFunction()">
-                  <nuxt-link class="dropdown-item" to="/services"
-                    >Our Services</nuxt-link
-                  >
-                </li>
-                <li @click="myFunction()">
-                  <nuxt-link class="dropdown-item" to="/speciality"
-                    >Speciality</nuxt-link
-                  >
-                </li>
-              </ul>
-            </li>
+
             <hr
               class="d-block d-md-none mt-1 mb-3"
               style="
@@ -132,7 +109,7 @@
             />
             <li class="nav-item pe-3" @click="myFunction()">
               <nuxt-link class="nav-link text-dark" to="/dentists"
-                >Our Dentists</nuxt-link
+                >Founder's Message</nuxt-link
               >
             </li>
             <hr
@@ -146,7 +123,7 @@
             <li class="d-lg-block d-none">
               <button
                 type="button"
-                class="btn bg-primary-color button-h rounded-pill btn-small"
+                class="btn tertiary-bg button-h rounded-0 btn-small"
                 style="font-weight: 600"
               >
                 <a href="tel: +91-9824038971" class="anc" target="_blank"
@@ -209,7 +186,7 @@ export default {
 <style>
 #navbarSupportedContent a.nuxt-link-active {
   font-weight: bold;
-  color: var(--dashed-img) !important;
+  color: var(--primary) !important;
 }
 .dropdown-item.active,
 .dropdown-item:active {
