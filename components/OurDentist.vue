@@ -1,87 +1,38 @@
 <template>
   <div>
     <div class="container my-5 pt-4">
-      <h2 class="fw-bold secondary text-center text-center mb-3">
-        Our Founders <span class="primary"> Team</span>
-      </h2>
-      <div
-        class="col-12 d-flex justify-content-center align-items-center flex-row"
-      >
-        <p class="col-9 text-center">
-          Together, this powerful pair provides Ahmedabad with the best dental
-          and aesthetic services. There is no need to go further if you want to
-          find the top dentist in Ahmedabad.
-        </p>
-      </div>
       <div
         class="row mt-4 gy-4 overflow-hidden"
         data-aos="fade-right"
         data-aos-duration="400"
       >
-        <div class="col-md-12 col-lg-4 col-12">
-          <img
-            src="../assets/img/dentist3.svg"
-            alt="Dr. Ketul Patel (MBBS, BDS)"
-            class="p-3"
-            style="width: 100%"
-          />
-          <div class="dentist-t rounded">
-            <h5 class="fw-bold secondary text-center">
-              Dr. Ketul Patel
-              <span class="primary fw-light" style="font-size: 14px">
-                (BDS)</span
-              >
-            </h5>
-            <h6 class="degree pt-2 text-center fw-semibold">Implantologist</h6>
+        <div class="col-md-12 col-lg-8 col-12">
+          <div class="">
+            <h1 class="fw-bold primary">Founder's Message</h1>
+
             <p class="py-3">
-              Dr. Ketul Patel completed his BDS in the year 1999. He is a
-              renowned implantologist. Our patients love him for his excellent
-              handling of implant cases. He is the founder of Vardan Dental
-              Clinic.
+              Consulting means different things to different people. For us, it
+              is about being a trusted advisor that helps clients chart and walk
+              the path to sustained success. We are not a solution looking for a
+              problem—we see every projects and situation as unique. Our
+              custom-tailored consulting engagements are based on deep listening
+              and decades of experience across industries and issues. The
+              solutions we craft are practical, realistic, and highly effective.
+              We pride ourselves on having a seasoned and multidisciplinary team
+              that can thoughtfully guide, support, and motivate leaders,
+              teachers and organizations to achieve levels of performance they
+              never have before. With all the best wishes!
             </p>
+            <h5 class="fw-bold tertiary">Rahul Singh</h5>
           </div>
         </div>
         <div class="col-md-12 col-lg-4 col-12">
           <img
-            src="../assets/img/dentist1.svg"
+            src="https://www.learningneeds.in/website/assets/images/banner/founder-min.jpg"
             alt="Dr. Ravi Patel (MBBS, BDS)"
-            class="p-3"
+            class="p-3 rounded-circle"
             style="width: 100%"
           />
-          <div class="dentist-t rounded">
-            <h5 class="fw-bold secondary text-center">
-              Dr. Ravi Patel
-              <span class="primary fw-light" style="font-size: 14px">
-                (BDS)</span
-              >
-            </h5>
-            <p class="py-3">
-              He completed his BDS in 2009 and is the founder of Vardan Dental
-              Clinic. He has excellent experience in holistic dental care for
-              patients of all age groups.
-            </p>
-          </div>
-        </div>
-        <div class="col-md-12 col-lg-4 col-12">
-          <img
-            src="../assets/img/dentist2.svg"
-            alt="Dr. Urvashi Patel (MBBS, BDS)"
-            class="p-3"
-            style="width: 100%"
-          />
-          <div class="dentist-t rounded">
-            <h5 class="fw-bold secondary text-center">
-              Dr. Urvashi Patel
-              <span class="primary fw-light" style="font-size: 14px">
-                (BDS)</span
-              >
-            </h5>
-            <p class="py-3">
-              She completed her BDS in 2001 and is the founder of Vardan Dental
-              Clinic. She is soft-spoken and a perfectionist, and she believes
-              in giving quality dental care to every patient visiting us.
-            </p>
-          </div>
         </div>
       </div>
     </div>

@@ -1,6 +1,7 @@
 <template>
   <div>
     <BannerHome />
+    <Mission class="my-5" />
     <News />
     <LatestNews class="my-5" />
 

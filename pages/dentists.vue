@@ -17,8 +17,7 @@
       </div>
     </div>
     <OurDentist />
-    <VisitingDoctor />
-    <Contact style="margin-bottom: 4rem !important" />
+
     <div class="container">
       <div class="row justify-content-between">
         <ProfileCard />
